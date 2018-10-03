@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Ouverture des portes",
+    "startTime": "08:30",
+    "endTime": "09:30",
+    "startDate": "2018-10-18T08:30:00+02:00",
+    "endDate": "2018-10-18T09:30:00+02:00"
+  },
+  {
+    "name": "Keynote",
+    "startTime": "09:30",
+    "endTime": "12:30",
+    "startDate": "2018-10-18T09:30:00+02:00",
+    "endDate": "2018-10-18T12:30:00+02:00",
+    "description": "Octave Klaba, Founder et Chairman d’OVH, et Michel Paulin, directeur général, vous présenteront leur vision stratégique, ainsi que le nouveau plan cloud smart qui redéfinira l’offre cloud d’OVH.",
+    "speakers": [
+      {
+        "name": "Octave Klaba",
+        "office": "Founder et Chairman",
+        "company": {
+          "name": "OVH",
+          "website": "https://ovh.com",
+          "logo": null
+        },
+        "social": [
+          {
+            "twitter": "@olesovhcom",
+            "website": "https://ovh.com"
+          }
+        ]
+      },
+      {
+        "name": "Michel Paulin",
+        "office": "Directeur général",
+        "company": {
+          "name": "OVH",
+          "website": "https://ovh.com",
+          "logo": null
+        },
+        "social": [
+          {
+            "twitter": "@olesovhcom",
+            "website": "https://ovh.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Déjeuner",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "startDate": "2018-10-18T12:30:00+02:00",
+    "endDate": "2018-10-18T13:30:00+02:00"
+  },
+  {
+    "name": "Public Cloud - lab avancé : Infra as code avec la CLI et Terraform",
+    "startTime": "13:30",
+    "endTime": "15:00",
+    "startDate": "2018-10-18T13:30:00+02:00",
+    "endDate": "2018-10-18T15:00:00+02:00",
+    "lang": "FR_fr",
+    "description": "Quand l’infrastructure est « à la demande », il devient possible de coordonner la plupart de vos besoins pour industrialiser vos déploiements. Venez vous y essayer via l'orchestrateur Terraform.",
+    "location": "Salle 8",
+    "category": "Labs",
+    "tags": [
+      "public cloud",
+      "cli",
+      "terraform"
+    ]
+  },
+  {
+    "name": "Stockage cloud haute performance et optimisé avec Samsung SSD",
+    "startTime": "13:30",
+    "endTime": "15:00",
+    "startDate": "2018-10-18T13:30:00+02:00",
+    "endDate": "2018-10-18T15:00:00+02:00",
+    "lang": "FR_fr",
+    "description": "Partant d’exemples client, Samsung reviendra sur les effets positifs liés à la migration des capacités de stockage cloud des disques durs vers de la mémoire flash. Ceci afin de propulser des applications cloud modernes, qui ont besoin de faibles latences et d’un débit rapide.",
+    "location": "Salle 1",
+    "category": "Technical",
+    "tags": [
+      "storage",
+      "ssd"
+    ]
+  }
+]

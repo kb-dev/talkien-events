@@ -1,0 +1,18 @@
+[
+  {
+    "name": "OVH Summit 2018",
+    "id": "ovh-summit-2018",
+    "startDate": "2018-10-18T08:30:00+02:00",
+    "endDate": "2018-10-18T18:15:00+02:00",
+    "address": "Paris Event Center \n 20 avenue de la Porte-de-la-Villette \n 75019 Paris",
+    "location": {
+      "latitude": 48.899124,
+      "longitude": 2.390085
+    },
+    "logo": "https://summit.ovh.com/sites/default/files/fichier-3-2-x%403x_2.png",
+    "description": "L'événement IT du leader européen du cloud",
+    "longDescription": "L'OVH Summit 2018 se tiendra le 18 octobre prochain au Paris Event Center. Octave Klaba, Founder et Chairman d’OVH, et Michel Paulin, directeur général, vous présenteront leur vision stratégique, qui redéfinira l’offre cloud d’OVH lors du keynote d’ouverture ! Nos équipes seront à votre disposition sur des espaces dédiés pour vous présenter nos solutions et répondre à toutes vos questions. Au programme : plus de 25 exposants, une trentaine de conférences et de labs, ainsi que des ateliers animés par nos partenaires. Retrouvez-nous pour l’événement IT de la rentrée !",
+    "url": "https://summit.ovh.com/",
+    "bookingUrl": "https://summit.ovh.com/fr/subscription"
+  }
+]
