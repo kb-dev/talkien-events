@@ -5,7 +5,7 @@
     "startDate": "2018-10-18T08:30:00+02:00",
     "endDate": "2018-10-18T18:15:00+02:00",
     "address": "Paris Event Center",
-    "fullAddress": "20 avenue de la Porte-de-la-Villette \n 75019 Paris",
+    "fullAddress": "20 avenue de la Porte-de-la-Villette, 75019 Paris",
     "location": {
       "latitude": 48.899124,
       "longitude": 2.390085
@@ -17,37 +17,37 @@
     "bookingUrl": "https://summit.ovh.com/fr/subscription"
   },
   {
-    "name": "OVH Summit 2019",
-    "id": "ovh-summit-2019",
-    "startDate": "2019-10-19T08:30:00+02:00",
-    "endDate": "2019-10-19T18:15:00+02:00",
-    "address": "Paris Event Center",
-    "fullAddress": "20 avenue de la Porte-de-la-Villette \n 75019 Paris",
+    "name": "BDX I/O 2018",
+    "id": "bdx-io-2018",
+    "startDate": "2018-11-09T08:30:00+02:00",
+    "endDate": "2018-11-09T19:15:00+02:00",
+    "address": "ENSEIRB",
+    "fullAddress": "1 Avenue du Dr Albert Schweitzer, 33400 Talence",
     "location": {
-      "latitude": 48.899124,
-      "longitude": 2.390085
+      "latitude": 44.8066376,
+      "longitude": -0.6051667
     },
-    "logo": "https://summit.ovh.com/sites/default/files/fichier-3-2-x%403x_2.png",
-    "description": "L'événement IT du leader européen du cloud",
-    "longDescription": "L'OVH Summit 2019 se tiendra le 19 octobre 2019 au Paris Event Center. Octave Klaba, Founder et Chairman d’OVH, et Michel Paulin, directeur général, vous présenteront leur vision stratégique, qui redéfinira l’offre cloud d’OVH lors du keynote d’ouverture ! Nos équipes seront à votre disposition sur des espaces dédiés pour vous présenter nos solutions et répondre à toutes vos questions. Au programme : plus de 25 exposants, une trentaine de conférences et de labs, ainsi que des ateliers animés par nos partenaires. Retrouvez-nous pour l’événement IT de la rentrée !",
-    "url": "https://summit.ovh.com/",
-    "bookingUrl": "https://summit.ovh.com/fr/subscription"
+    "logo": "https://www.bdx.io/img/png/logo_white.png",
+    "description": "BDX I/O est une conférence sur le thème de la programmation et de ses métiers annexes.",
+    "longDescription": "",
+    "url": "https://www.bdx.io",
+    "bookingUrl": "https://www.bdx.io"
   },
   {
-    "name": "OVH Summit 2020",
-    "id": "ovh-summit-2020",
-    "startDate": "2020-10-20T08:30:00+02:00",
-    "endDate": "2020-10-20T18:15:00+02:00",
-    "address": "Paris Event Center",
-    "fullAddress": "20 avenue de la Porte-de-la-Villette \n 75019 Paris",
+    "name": "Fake Talks 2019",
+    "id": "fake-talks-2019",
+    "startDate": "2019-01-20T08:30:00+02:00",
+    "endDate": "2019-01-21T20:00:00+02:00",
+    "address": "Centre de congrès de Lyon",
+    "fullAddress": " 50 Quai Charles de Gaulle, 69463 Lyon",
     "location": {
-      "latitude": 48.899124,
-      "longitude": 2.390085
+      "latitude": 45.7850013,
+      "longitude": 4.8546238
     },
-    "logo": "https://summit.ovh.com/sites/default/files/fichier-3-2-x%403x_2.png",
-    "description": "L'événement IT du leader européen du cloud",
-    "longDescription": "L'OVH Summit 2019 se tiendra le 20 octobre 2020 au Paris Event Center. Octave Klaba, Founder et Chairman d’OVH, et Michel Paulin, directeur général, vous présenteront leur vision stratégique, qui redéfinira l’offre cloud d’OVH lors du keynote d’ouverture ! Nos équipes seront à votre disposition sur des espaces dédiés pour vous présenter nos solutions et répondre à toutes vos questions. Au programme : plus de 25 exposants, une trentaine de conférences et de labs, ainsi que des ateliers animés par nos partenaires. Retrouvez-nous pour l’événement IT de la rentrée !",
-    "url": "https://summit.ovh.com/",
-    "bookingUrl": "https://summit.ovh.com/fr/subscription"
+    "logo": null,
+    "description": "Le faux événement de l'année 2019",
+    "longDescription": "",
+    "url": "https://sudweb.fr/2018/",
+    "bookingUrl": "https://sudweb.fr/2018/"
   }
 ]
