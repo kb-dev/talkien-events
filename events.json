@@ -34,20 +34,37 @@
     "bookingUrl": "https://www.bdx.io"
   },
   {
-    "name": "Fake Talks 2019",
-    "id": "fake-talks-2019",
-    "startDate": "2019-01-20T08:30:00+02:00",
-    "endDate": "2019-01-21T20:00:00+02:00",
-    "address": "Centre de congrès de Lyon",
-    "fullAddress": " 50 Quai Charles de Gaulle, 69463 Lyon",
+    "name": "Paris Web 2018",
+    "id": "paris-web-2018",
+    "startDate": "2018-10-05T08:30:00+02:00",
+    "endDate": "2018-10-05T18:00:00+02:00",
+    "address": "IBM Client Paris",
+    "fullAddress": "17 avenue de l’Europe, 92270 Bois-Colombes",
     "location": {
-      "latitude": 45.7850013,
-      "longitude": 4.8546238
+      "latitude": 48.90547,
+      "longitude": 2.26278
     },
     "logo": null,
-    "description": "Le faux événement de l'année 2019",
+    "description": "",
     "longDescription": "",
-    "url": "https://sudweb.fr/2018/",
-    "bookingUrl": "https://sudweb.fr/2018/"
+    "url": "https://www.paris-web.fr/",
+    "bookingUrl": "https://www.paris-web.fr/"
+  },
+  {
+    "name": "Codeurs en Seine 2018",
+    "id": "codeurs-en-seine-2018",
+    "startDate": "2018-11-22T08:30:00+02:00",
+    "endDate": "2018-11-22T18:00:00+02:00",
+    "address": "Kindarena - Palais des sports de Rouen",
+    "fullAddress": "40 rue de Lillebonne , 76000 Rouen",
+    "location": {
+      "latitude": 49.447966,
+      "longitude": 1.063625,
+    },
+    "logo": null,
+    "description": "",
+    "longDescription": "",
+    "url": "https://www.codeursenseine.com/2018/",
+    "bookingUrl": "https://www.codeursenseine.com/2018/inscription"
   }
 ]
