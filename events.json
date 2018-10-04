@@ -4,7 +4,8 @@
     "id": "ovh-summit-2018",
     "startDate": "2018-10-18T08:30:00+02:00",
     "endDate": "2018-10-18T18:15:00+02:00",
-    "address": "Paris Event Center \n 20 avenue de la Porte-de-la-Villette \n 75019 Paris",
+    "address": "Paris Event Center",
+    "fullAddress": "20 avenue de la Porte-de-la-Villette \n 75019 Paris",
     "location": {
       "latitude": 48.899124,
       "longitude": 2.390085
@@ -20,7 +21,8 @@
     "id": "ovh-summit-2019",
     "startDate": "2019-10-19T08:30:00+02:00",
     "endDate": "2019-10-19T18:15:00+02:00",
-    "address": "Paris Event Center \n 20 avenue de la Porte-de-la-Villette \n 75019 Paris",
+    "address": "Paris Event Center",
+    "fullAddress": "20 avenue de la Porte-de-la-Villette \n 75019 Paris",
     "location": {
       "latitude": 48.899124,
       "longitude": 2.390085
@@ -36,7 +38,8 @@
     "id": "ovh-summit-2020",
     "startDate": "2020-10-20T08:30:00+02:00",
     "endDate": "2020-10-20T18:15:00+02:00",
-    "address": "Paris Event Center \n 20 avenue de la Porte-de-la-Villette \n 75019 Paris",
+    "address": "Paris Event Center",
+    "fullAddress": "20 avenue de la Porte-de-la-Villette \n 75019 Paris",
     "location": {
       "latitude": 48.899124,
       "longitude": 2.390085
