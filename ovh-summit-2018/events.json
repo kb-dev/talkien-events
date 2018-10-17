@@ -148,5 +148,89 @@
     "location": "Salle 7",
     "category": "Technical",
     "tags": []
+  },
+  {
+    "name": "Livraison continue et machine learning",
+    "startTime": "15:30",
+    "endTime": "16:15",
+    "startDate": "2018-10-18T15:30:00+02:00",
+    "endDate": "2018-10-18T16:15:00+02:00",
+    "lang": "EN_en",
+    "description": "Découvrez l'approche d'OVH concernant la livraison continue de modèles de machine learning. Le machine learning automatisé permet à l’entreprise de reconstruire efficacement des modèles et de les garder à jour grâce aux données rafraîchies par l’outil « Data Collector ».",
+    "location": "Salle 3",
+    "category": "Technical",
+    "tags": []
+  },
+  {
+    "name": "Nos conseils pour évaluer le coût de vos infrastructures",
+    "startTime": "15:30",
+    "endTime": "16:15",
+    "startDate": "2018-10-18T15:30:00+02:00",
+    "endDate": "2018-10-18T16:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "Vous hésitez entre deux fournisseurs ou offres d'infrastructure ? Retrouvez les 10 points d'attention à ne pas négliger dans l'évaluation des coûts et obtenez les retours d’expérience de plusieurs clients OVH.",
+    "location": "Salle 4",
+    "category": "Case Study",
+    "tags": []
+  },
+  {
+    "name": "Étude de cas : comment Cozy Cloud monitore toutes les couches de son activité avec OVH Metrics",
+    "startTime": "15:30",
+    "endTime": "16:15",
+    "startDate": "2018-10-18T15:30:00+02:00",
+    "endDate": "2018-10-18T16:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "Découvrez comment Cozy Cloud utilise OVH Metrics Data Platform pour monitorer et optimiser son offre SaaS grand public. De l'agrégation des données de performance jusqu'aux métriques d'usage client, les équipes de Cozy partageront avec vous leur expérience de collaboration « data-centric ».",
+    "location": "Salle 5",
+    "category": "Case Study",
+    "tags": []
+  },
+  {
+    "name": "Adoptez une nouvelle approche du stockage et modernisez votre infrastructure",
+    "startTime": "15:30",
+    "endTime": "16:15",
+    "startDate": "2018-10-18T15:30:00+02:00",
+    "endDate": "2018-10-18T16:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "Découvrez comment VMware vSAN accompagne les utilisateurs dans la modernisation de leur infrastructure grâce à « l’Hyper-Converged Infrastructure » (HCI), une solution hyperconvergente. Les experts VMware vous apprendront également à implanter une politique de gestion de stockage sur le cloud OVH.",
+    "location": "Salle 1",
+    "category": "Technical",
+    "tags": []
+  },
+  {
+    "name": "Téléphonie : comment se préparer à la fin du RTC avec la VoIP",
+    "startTime": "15:30",
+    "endTime": "16:15",
+    "startDate": "2018-10-18T15:30:00+02:00",
+    "endDate": "2018-10-18T16:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "Alors qu'Orange annonce la fin de production du réseau téléphonique commuté (RTC) dès 2018, OVH propose depuis 10 ans déjà des solutions de VoIP. Découvrez les alternatives au RTC et la manière dont nous faisons évoluer notre offre de téléphonie vers de nouveaux usages.",
+    "location": "Salle 7",
+    "category": "Technical",
+    "tags": []
+  },
+  {
+    "name": "Démarrez le big data dans l'heure avec Public Cloud",
+    "startTime": "15:30",
+    "endTime": "16:15",
+    "startDate": "2018-10-18T15:30:00+02:00",
+    "endDate": "2018-10-18T16:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "Découvrez comment mettre en place rapidement une infrastructure d’analyse massive de données dans le cloud, avec notre solution clés en main basée sur Public Cloud.",
+    "location": "Salle 6",
+    "category": "Technical",
+    "tags": []
+  },
+  {
+    "name": "Quoi de neuf pour Public Cloud ?",
+    "startTime": "15:30",
+    "endTime": "16:15",
+    "startDate": "2018-10-18T15:30:00+02:00",
+    "endDate": "2018-10-18T16:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "L'équipe Public Cloud travaille au quotidien sur l'amélioration continue du produit, mais également sur de nouvelles fonctionnalités. Découvrez les changements récents et ceux à venir.",
+    "location": "Salle 2",
+    "category": "Technical",
+    "tags": []
   }
 ]
