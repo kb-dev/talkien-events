@@ -63,25 +63,90 @@
     "description": "Quand l’infrastructure est « à la demande », il devient possible de coordonner la plupart de vos besoins pour industrialiser vos déploiements. Venez vous y essayer via l'orchestrateur Terraform.",
     "location": "Salle 8",
     "category": "Labs",
-    "tags": [
-      "public cloud",
-      "cli",
-      "terraform"
-    ]
+    "tags": ["public cloud", "cli", "terraform"]
   },
   {
     "name": "Stockage cloud haute performance et optimisé avec Samsung SSD",
     "startTime": "13:30",
-    "endTime": "15:00",
+    "endTime": "14:15",
     "startDate": "2018-10-18T13:30:00+02:00",
-    "endDate": "2018-10-18T15:00:00+02:00",
+    "endDate": "2018-10-18T14:15:00+02:00",
     "lang": "FR_fr",
     "description": "Partant d’exemples client, Samsung reviendra sur les effets positifs liés à la migration des capacités de stockage cloud des disques durs vers de la mémoire flash. Ceci afin de propulser des applications cloud modernes, qui ont besoin de faibles latences et d’un débit rapide.",
     "location": "Salle 1",
     "category": "Technical",
-    "tags": [
-      "storage",
-      "ssd"
-    ]
+    "tags": ["storage", "ssd"]
+  },
+  {
+    "name": "Artisans, indépendants, créateurs d'entreprise : professionnaliser son activité avec les solutions OVH",
+    "startTime": "13:30",
+    "endTime": "14:15",
+    "startDate": "2018-10-18T13:30:00+02:00",
+    "endDate": "2018-10-18T14:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "Vous avez lancé votre activité et souhaitez accroître votre visibilité ? Découvrez comment bien choisir votre nom de domaine, une solution e-mail, ainsi que les outils collaboratifs simplifiant votre quotidien. OVH vous accompagne aussi dans le choix de l’offre d’hébergement web répondant à vos besoins.",
+    "location": "Salle 6",
+    "category": "Business",
+    "tags": []
+  },
+  {
+    "name": "Déployer sa première application avec Kubernetes",
+    "startTime": "13:30",
+    "endTime": "14:15",
+    "startDate": "2018-10-18T13:30:00+02:00",
+    "endDate": "2018-10-18T14:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "Découvrez comment déployer votre première application avec Kubernetes, sur le cloud OVH, et posez vos questions à l'équipe en charge de notre future offre Kubernetes-as-a-Service.",
+    "location": "Salle 2",
+    "category": "Technical",
+    "tags": []
+  },
+  {
+    "name": "Comment mettre en place une plateforme big data sécurisée dans le cloud",
+    "startTime": "13:30",
+    "endTime": "14:15",
+    "startDate": "2018-10-18T13:30:00+02:00",
+    "endDate": "2018-10-18T14:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "Chaque projet big data possède des contraintes qu’il faut prendre en compte. Au travers d’un cas client, découvrez comment mettre en place une plateforme big data critique répondant à tous les critères de scalabilité, d'industrialisation et de sécurité.",
+    "location": "Salle 5",
+    "category": "Partner",
+    "tags": []
+  },
+  {
+    "name": "Solutions de « disaster recovery » et de remplacement de datacenters",
+    "startTime": "13:30",
+    "endTime": "14:15",
+    "startDate": "2018-10-18T13:30:00+02:00",
+    "endDate": "2018-10-18T14:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "Découvrez comment Private Cloud permet de répondre aux exigences de haute disponibilité pour les besoins métier critiques : migrations et interconnexions de datacenters on-premises ou encore plans de reprise d’activité (PRA) sont aujourd’hui disponibles au meilleur rapport coût-performance.",
+    "location": "Salle 3",
+    "category": "Business",
+    "tags": []
+  },
+  {
+    "name": "Comment stocker, organiser et utiliser des pétaoctets de données hétérogènes",
+    "startTime": "13:30",
+    "endTime": "14:15",
+    "startDate": "2018-10-18T13:30:00+02:00",
+    "endDate": "2018-10-18T14:15:00+02:00",
+    "lang": "EN_en",
+    "description": "Apprenez à bâtir une infrastructure scalable et à générer des données thématiques (sur les domaines maritimes, terrestres, climatiques ou des secours, par exemple), qui seront précieuses et utiles pour votre entreprise.",
+    "location": "Salle 4",
+    "category": "Technical",
+    "tags": []
+  },
+  {
+    "name": "Quoi de neuf pour vos sites web ?",
+    "startTime": "13:30",
+    "endTime": "14:15",
+    "startDate": "2018-10-18T13:30:00+02:00",
+    "endDate": "2018-10-18T14:15:00+02:00",
+    "lang": "FR_fr",
+    "description": "Avec plus de 4,4 millions de noms de domaine, 3 millions de sites webs managés et des dizaines de millions de web apps, OVH est le leader européen de l’hébergement et continue de proposer de nouveaux services pour améliorer votre visibilité en ligne. Découvrez nos produits 2018 ainsi que notre roadmap 2019.",
+    "location": "Salle 7",
+    "category": "Technical",
+    "tags": []
   }
 ]
