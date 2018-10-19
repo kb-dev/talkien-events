@@ -79,5 +79,24 @@
     "bookingUrl": "https://www.codeursenseine.com/2018/inscription",
     "topics": ["Développement", "Web", "Logiciel"],
     "colors": ["#0078c5", "#004fa6"]
+  },
+  {
+    "name": "GDG DevFest Paris 2019",
+    "id": "gdg-devfest-paris-2019",
+    "startDate": "2019-02-08T08:30:00+02:00",
+    "endDate": "2019-02-02T18:00:00+02:00",
+    "address": "La Grande Crypte, Paris",
+    "fullAddress": "69 bis Rue Boissière, 75016 Paris",
+    "location": {
+      "latitude": 48.868453,
+      "longitude": 2.286974
+    },
+    "logo": null,
+    "description": "",
+    "longDescription": "",
+    "url": "https://devfest.gdgparis.com/",
+    "bookingUrl": "https://devfest.gdgparis.com/",
+    "topics": ["Cloud", "Web"],
+    "colors": ["#673ab7", "#673ab7"]
   }
 ]
