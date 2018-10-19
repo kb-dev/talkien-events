@@ -14,7 +14,14 @@
     "description": "L'événement IT du leader européen du cloud",
     "longDescription": "L'OVH Summit 2018 se tiendra le 18 octobre prochain au Paris Event Center. Octave Klaba, Founder et Chairman d’OVH, et Michel Paulin, directeur général, vous présenteront leur vision stratégique, qui redéfinira l’offre cloud d’OVH lors du keynote d’ouverture ! Nos équipes seront à votre disposition sur des espaces dédiés pour vous présenter nos solutions et répondre à toutes vos questions. Au programme : plus de 25 exposants, une trentaine de conférences et de labs, ainsi que des ateliers animés par nos partenaires. Retrouvez-nous pour l’événement IT de la rentrée !",
     "url": "https://summit.ovh.com/",
-    "bookingUrl": "https://summit.ovh.com/fr/subscription"
+    "bookingUrl": "https://summit.ovh.com/fr/subscription",
+    "topics": [
+      "Web",
+      "Serveurs",
+      "Infrastructure",
+      "Keynote",
+      "Cloud"
+    ]
   },
   {
     "name": "BDX I/O 2018",
@@ -31,7 +38,13 @@
     "description": "BDX I/O est une conférence sur le thème de la programmation et de ses métiers annexes.",
     "longDescription": "",
     "url": "https://www.bdx.io",
-    "bookingUrl": "https://www.bdx.io"
+    "bookingUrl": "https://www.bdx.io",
+    "topics": [
+      "Web",
+      "Nouvelles technologies",
+      "Développement",
+      "Architecture"
+    ]
   },
   {
     "name": "Paris Web 2018",
@@ -48,7 +61,13 @@
     "description": "",
     "longDescription": "",
     "url": "https://www.paris-web.fr/",
-    "bookingUrl": "https://www.paris-web.fr/"
+    "bookingUrl": "https://www.paris-web.fr/",
+    "topics": [
+      "Web",
+      "Accessibilité",
+      "Design",
+      "Qualité"
+    ]
   },
   {
     "name": "Codeurs en Seine 2018",
@@ -65,6 +84,11 @@
     "description": "",
     "longDescription": "",
     "url": "https://www.codeursenseine.com/2018/",
-    "bookingUrl": "https://www.codeursenseine.com/2018/inscription"
+    "bookingUrl": "https://www.codeursenseine.com/2018/inscription",
+    "topics": [
+      "Développement",
+      "Web",
+      "Logiciel"
+    ]
   }
 ]
