@@ -1,0 +1,1098 @@
+[
+  {
+    "title": "Accueil et petit-déjeuner",
+    "location": "Hall",
+    "startDate": "2018-11-09T07:00:00.000Z",
+    "endDate": "2018-11-09T08:00:00.000Z"
+  },
+  {
+    "title": "Keynote d'ouverture",
+    "description": "La keynote d'ouverture",
+    "speakers": [
+      {
+        "name": "Team BDX I/O",
+        "firstName": "Team",
+        "lastName": "BDX I/O"
+      }
+    ],
+    "location": "Grand Amphi",
+    "startDate": "2018-11-09T08:00:00.000Z",
+    "endDate": "2018-11-09T09:00:00.000Z",
+    "category": "Keynote",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Pause courte",
+    "location": "Hall",
+    "startDate": "2018-11-09T09:00:00.000Z",
+    "endDate": "2018-11-09T09:15:00.000Z"
+  },
+  {
+    "title": "Google Container Tools : développer efficacement dans un monde de conteneurs",
+    "description": "Kubernetes est devenu l'orchestrateur de choix pour déployer des applications. Mais qu'en est-il du quotidien des développeurs qui créent ces applications ? Plus on s'appuie sur la plateforme, plus il est compliqué de développer en dehors de la plateforme. Et développer à l'intérieur de conteneurs n'est pas réputé facile ni agréable.\r\n\r\nGoogle est à l'origine de plusieurs projets Open-Source qui se focalisent sur l'expérience des développeurs dans un monde de conteneurs. Kaniko permet de construire une image Docker à partir d'un Dockerfile, dans un cluster Kubernetes, de manière sécurisée. Skaffold facilite le déploiement continu d'applications pour Kubernetes. Les images Distroless offrent des images de base légères, sécurisées et de qualité. Bazel permet meme de construire des images Docker sans Docker.\r\n\r\nVenez découvrir comment ces outils se combinent pour offrir un environment de développement agréable et performant dans le monde des conteneurs.",
+    "speakers": [
+      {
+        "name": "David Gageot",
+        "firstName": "David",
+        "lastName": "Gageot",
+        "company": "Google",
+        "twitterId": "@dgageot"
+      }
+    ],
+    "location": "Grand Amphi",
+    "startDate": "2018-11-09T09:15:00.000Z",
+    "endDate": "2018-11-09T10:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "Faut-il pousser mémé dans les applis ?",
+    "description": "Je me présente Arthur Retrou - UX Designer. J'adore ma grand-mère pourtant je ne compte plus les appels pour l'aider à démarrer un Skype. En effet, nos parents et grand-parents investissent de plus en plus les applications, mais pas sans difficultés.\r\nÀ travers la création de plusieurs interfaces pour personnes âgées, je me suis confronté aux problématiques de cette silver économie. Avec des conseils simples et des astuces de design applicables à tout types de projets, je dévoile non sans humour les secrets pour concevoir des maquettes ergonomiques et adaptées.",
+    "speakers": [
+      {
+        "name": "Arthur Retrou",
+        "firstName": "Arthur",
+        "lastName": "Retrou",
+        "company": "Dernier Cri",
+        "twitterId": "@derniercriio"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2018-11-09T09:15:00.000Z",
+    "endDate": "2018-11-09T10:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Design",
+      "UI",
+      "UX"
+    ]
+  },
+  {
+    "title": "Linuxkit : le linux façon ikea",
+    "description": "\r\nCela fait des années que certaines distributions linux permettent de construire son linux “from scratch” mais cela restait une opération compliquée et périlleuse. LinuxKit propose la même chose mais avec une approche beaucoup plus moderne et outillée. Cela devient presque aussi facile que de monter un meuble ikea ! (avec une notice quand même)\r\n\r\nLe projet LinuxKit, créé par Docker Inc., a été pensé pour créer un OS aussi minimaliste et maintenable que possible (sans compromis avec la sécurité) et y déployer des conteneurs.\r\n\r\nNous allons vous présenter la genèse et les concepts du projet, l’écosystème des outils complémentaires qui vous permettront de composer et construire votre distribution. Puis, nous créerons notre première distribution en live !",
+    "speakers": [
+      {
+        "name": "Pierre-Yves Aillet",
+        "firstName": "Pierre-Yves",
+        "lastName": "Aillet",
+        "company": "Zenika",
+        "twitterId": "@pyaillet"
+      },
+      {
+        "name": "Eric Briand",
+        "firstName": "Eric",
+        "lastName": "Briand",
+        "company": "Zenika",
+        "twitterId": "@eric_briand"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2018-11-09T09:15:00.000Z",
+    "endDate": "2018-11-09T10:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Tooling"
+    ]
+  },
+  {
+    "title": "Van Gogh à la rencontre les réseaux de neurones ",
+    "description": "45mn pour capturer l'esprit de Van Gogh dans un réseau de neurones convolutifs.\r\nIl s'agit en premier lieu d'exposer de le fonctionnement des réseaux de neurones convolutifs de manière fondamentale, mais accessible.  Dans un deuxième temps, nous verrons comment détourner ce fonctionnement pour reproduire le style de Van Gogh sur n'importe quelle image. \r\n",
+    "speakers": [
+      {
+        "name": "Paul Breton",
+        "firstName": "Paul",
+        "lastName": "Breton",
+        "company": "BeTomorrow",
+        "twitterId": "@PaulRavB"
+      },
+      {
+        "name": "Laurent Alvaro",
+        "firstName": "Laurent",
+        "lastName": "Alvaro",
+        "company": "BeTomorrow"
+      }
+    ],
+    "location": "Amphi D",
+    "startDate": "2018-11-09T09:15:00.000Z",
+    "endDate": "2018-11-09T10:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "IoT"
+    ]
+  },
+  {
+    "title": "Architecture Zero Knowledge",
+    "description": "Vous connaissez le concept des architectures zero knowledge ? Il s'agit de s'assurer que de point en point, aucun intermédiaire d'un service ne puisse être capable d'accéder à des informations qui ne le concernent pas. Cette architecture implique une séparation forte des permissions, des accès, beaucoup de chiffrement, de la gestion de clés… Elle est complexe, mais puissante, notamment dans une approche privacy by design.\r\n\r\nEst-ce applicable dans le cadre de nos applications web ? Comment s'assurer, en s'éxecutant dans le navigateur sur une couche Javascript, qu'aucun usage malicieux ne sera fait des données ? Challenge ou utopie ? C'est là tout l'enjeu : découvrons ensemble si la sécurisation de nos webapps est vraiment possible.",
+    "speakers": [
+      {
+        "name": "m4dz Matthias Dugué",
+        "firstName": "m4dz",
+        "lastName": "Matthias Dugué",
+        "company": "alwaysdata",
+        "twitterId": "@m4d_z"
+      }
+    ],
+    "location": "Amphi E",
+    "startDate": "2018-11-09T09:15:00.000Z",
+    "endDate": "2018-11-09T10:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "D'une architecture web MVC à une architecture clean hexagonale",
+    "description": "Aujourd'hui, de nombreuses applications ont été développées en utilisant le pattern MVC.\r\n\r\nLa promesse de **l'architecture hexagonale** et de la **clean architecture** est de simplifier la _maintenabilité_ de nos applications et _l'évolutivité_ qui nous fait souvent défaut.\r\n\r\nEn partant d'une base de code MVC, nous ferons évoluer ce code pour passer à une architecture hexagonale en isolant le coeur métier de tout le reste (outils, briques d'infrastructures). Nous verrons comment séparer les accès à une base de données/un système de fichier/un serveur de mail de notre code métier. Et nous comprendrons ce que ça peut nous apporter dans notre quotidien de développeur.",
+    "speakers": [
+      {
+        "name": "Céline GILET",
+        "firstName": "Céline",
+        "lastName": "GILET",
+        "company": "Octo Technology",
+        "twitterId": "@celinegilet"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2018-11-09T09:15:00.000Z",
+    "endDate": "2018-11-09T11:00:00.000Z",
+    "category": "Hand's on Labs",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Pause courte",
+    "location": "Hall",
+    "startDate": "2018-11-09T10:00:00.000Z",
+    "endDate": "2018-11-09T10:15:00.000Z"
+  },
+  {
+    "title": "Gamification : booster l'engagement dans la dette technique et les tests.",
+    "description": "La qualité logicielle et plus particulièrement la qualité du code est un challenge constamment rencontré par les industriels qui développent et/ou maintiennent des logiciels. Pour assurer que les bonnes pratiques de programmation sont bien suivies, et permettent ainsi un développement et une maintenance de qualité, les industriels mettent en place des chaînes d’outils (Continuous Integration / Continous Delivery). Ces chaines d’outils contiennent très souvent des outils d’analyse statique de code (Linter) et des outils de mesure de couverture de tests. Si ces outils apportent des informations essentielles quant à la qualité du code et des tests, il faut avouer que les développeurs sont encore trop souvent peu engagés à les utiliser. Le résultat est qu’ils n’exploitent pas complètement les avantages apportés par ces outils. \r\nPour faire face à ce manque d’engagement, nous avons proposé une approche proposant (1) d’apporter un retour individualisé aux développeurs quant à la qualité logicielle, et (2) d’intégrer une couche de Gamification visant à rendre la gestion de la qualité plus ludique. ",
+    "speakers": [
+      {
+        "name": "Xavier Blanc",
+        "firstName": "Xavier",
+        "lastName": "Blanc",
+        "company": "Université de Bordeaux / ProMyze",
+        "twitterId": "@xblanc"
+      },
+      {
+        "name": "Sébastien Pannetier",
+        "firstName": "Sébastien",
+        "lastName": "Pannetier",
+        "company": "Sopra Steria"
+      }
+    ],
+    "location": "Grand Amphi",
+    "startDate": "2018-11-09T10:15:00.000Z",
+    "endDate": "2018-11-09T11:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Construire des apps intelligentes grâce au Machine Learning, de la magie à la réalité",
+    "description": "_« Toute technologie suffisamment avancée est indiscernable de la magie. »_ — Arthur C Clarke\r\n\r\nPour la plupart d'entre nous, l'apprentissage machine peut ressembler à de la magie, alors comment rendre nos apps plus intelligentes sans aucune connaissance en IA ?\r\n\r\nGrâce à des modèles pré-entraînés et quelques lignes de code, les API de Machine Learning permettent de transformer nos données en informations. Plus encore, les nouvelles techniques AutoML répondent à nos besoins spécifiques pour des résultats taillés sur mesure.\r\n\r\nDans cette session, vous verrez comment extraire l'information de nos données texte, image, audio & vidéo avec les dernières API ML, comment entraîner un modèle AutoML personnalisé et vous participerez à une démo live. Ne mettez pas vos smartphones en mode avion !",
+    "speakers": [
+      {
+        "name": "Laurent Picard",
+        "firstName": "Laurent",
+        "lastName": "Picard",
+        "company": "Google",
+        "twitterId": "@PicardParis"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2018-11-09T10:15:00.000Z",
+    "endDate": "2018-11-09T11:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "Haxe 2018 : plus t'en mets plus t'en as",
+    "description": "3 ans ont passé depuis la dernière fois qu'on a entendu parlé de Haxe à Bdx.io.\r\nQu'est devenu ce langage qui transpile vers 12 autres, cette technologie open source, cette innovation Bordelaise ?\r\nIl est temps de découvrir ce que représente Haxe en 2018, pour le jeu vidéo, le web, et l'entreprise, car il s'est passé plein de choses et de grosses annonces sont prévues.\r\n\r\n\r\n\r\n",
+    "speakers": [
+      {
+        "name": "David Mouton",
+        "firstName": "David",
+        "lastName": "Mouton",
+        "company": "onepoint",
+        "twitterId": "@damoebius"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2018-11-09T10:15:00.000Z",
+    "endDate": "2018-11-09T11:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Frontend Web",
+      "Mobile",
+      "Video games"
+    ]
+  },
+  {
+    "title": "Application Performance Monitoring pour vos projets Java",
+    "description": "Application Performance Monitoring (APM) est une solution basée sur la suite Elastic. \r\nAPM collecte automatiquement les informations nécessaires de votre application/service, indexe dans elasticsearch et offre une visualisation dans le cadre d'une application Kibana.\r\n\r\nLe tout disponible gratuitement, avec un code source sur lequel vous pouvez contribuer.\r\n\r\nCette session explique en quoi consiste l'APM et montre via un projet Java comment vous pouvez l'implémenter facilement dans vos projets.",
+    "speakers": [
+      {
+        "name": "David Pilato",
+        "firstName": "David",
+        "lastName": "Pilato",
+        "company": "elastic",
+        "twitterId": "@dadoonet"
+      }
+    ],
+    "location": "Amphi D",
+    "startDate": "2018-11-09T10:15:00.000Z",
+    "endDate": "2018-11-09T11:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Tooling"
+    ]
+  },
+  {
+    "title": "MongoDB : optimisez votre indexation",
+    "description": "Vous avez dénormalisé vos données et votre application utilise MongoDB pour les stocker. Comment construire vos index de façon efficace en tenant compte des spécificités de votre application ?\r\n\r\nNous allons voir ensemble comment analyser l’existant et identifier les goulots d’étranglement de votre application.\r\n\r\nAprès avoir pris connaissance du périmètre, nous verrons les solutions possibles pour optimiser les différentes situations qui peuvent se présenter à nous.",
+    "speakers": [
+      {
+        "name": "Nicolas Humblot",
+        "firstName": "Nicolas",
+        "lastName": "Humblot",
+        "company": "Renault",
+        "twitterId": "@nicolashumblot"
+      }
+    ],
+    "location": "Amphi E",
+    "startDate": "2018-11-09T10:15:00.000Z",
+    "endDate": "2018-11-09T11:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "Pause déjeuner",
+    "location": "Hall",
+    "startDate": "2018-11-09T11:00:00.000Z",
+    "endDate": "2018-11-09T11:45:00.000Z"
+  },
+  {
+    "title": "Dessine moi ... un DSL en Kotlin",
+    "description": "Les DSL (Domain Specific Language) sont de plus en plus utilisés pour simplifier l'accès à une API (Gatling, Gradle). Pour cela, on utilise des langages comme Scala ou Groovy. Mais savez-vous que le dernier langage à la mode Kotlin le permet aussi ?\r\nDans cette session, nous découvrirons les fonctionnalités de Kotlin qui permettent d'écrire un DSL facilement et sans magie !",
+    "speakers": [
+      {
+        "name": "Benoît Prioux",
+        "firstName": "Benoît",
+        "lastName": "Prioux",
+        "company": "Lectra",
+        "twitterId": "@binout"
+      }
+    ],
+    "location": "Grand Amphi",
+    "startDate": "2018-11-09T11:45:00.000Z",
+    "endDate": "2018-11-09T12:00:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Tests auto en Java : une richesse méconnue !",
+    "description": "Tout le monde est d'accord : pas de logiciel de qualité sans tests automatisés. \r\nMais avouous-le, écrire ou maintenir des tests n'est pas toujours une partie de plaisir. Nous sommes parfois tentés de reproduire des schémas déjà vus ailleurs, faute de connaître en profondeur nos outils de test et l'éventail des solutions qui existent.\r\n\r\nPendant 15 min, partons à l’aventure et explorons ensemble cette “Terra Incognita” du test auto, sur les côtes de l’île Java (jeu de mot facile !). JUnit Jupiter, TestNG, Spoke, Spek … (Re)découvrons le savoir-faire de ces spécialistes du test auto. Puisse ce court voyage réveiller notre enthousiasme dans la programmation des tests et nous donner envie d’explorer de nouveaux horizons.",
+    "speakers": [
+      {
+        "name": "Jean-Baptiste Hembise",
+        "firstName": "Jean-Baptiste",
+        "lastName": "Hembise",
+        "company": "Ekino",
+        "twitterId": "@HembiseJb"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2018-11-09T11:45:00.000Z",
+    "endDate": "2018-11-09T12:00:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Tooling"
+    ]
+  },
+  {
+    "title": "Fastlane : automatisez le déploiement de vos applis mobiles sur les stores",
+    "description": "Et si on arrivait à passer moins de temps à déployer nos applications mobiles sur les stores qu'à les coder ? Idée bizarre ? Pas sûr ! \r\n\r\nPendant ce Lightning Talk, je vous présenterai l'outil FastLane (https://fastlane.tools) qui permet de gagner du temps en automatisant les tâches chronophage qui incombent au développeur mobile. L'outil permet définir facilement des pipelines de build, de deploy, de screenshotting, de mise à jour des fiches descriptives sur les stores, etc ... dans un environnement d'intégration continue. \r\n\r\nNous pousserons également en live, une version d'une app d'exemple sur les 2 stores les plus populaires du marché :) ",
+    "speakers": [
+      {
+        "name": "Elian ORIOU",
+        "firstName": "Elian",
+        "lastName": "ORIOU",
+        "company": "4SH FRANCE",
+        "twitterId": "@eoriou"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2018-11-09T11:45:00.000Z",
+    "endDate": "2018-11-09T12:00:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Frontend Web",
+      "Mobile",
+      "Video games"
+    ]
+  },
+  {
+    "title": "Design & accessibilité numérique, je t’aime, moi non plus…",
+    "description": "L’accessibilité numérique est un enjeu de nos nouvelles sociétés. En effet, avec plus de 20% de la population en situation de handicap en France, nous ne pouvons plus fermer les yeux et concevoir uniquement pour certains utilisateurs.\r\nC’est d’ailleurs un enjeu européen puisque l'Europe parle de l'accessibilité numérique comme d'une obligation citoyenne et depuis 2005 les administrations publiques françaises doivent rendre leurs contenus accessibles, c’est une obligation.\r\n\r\nMais en tant que designer, lorsqu’on pense accessibilité, on pense déjà à la frustration de ne pas pouvoir s'exprimer librement. Avec ce lightning talk, je souhaite vous montrer qu'accessibilité numérique & design ne sont pas incompatibles .",
+    "speakers": [
+      {
+        "name": "Julie Guillerm",
+        "firstName": "Julie",
+        "lastName": "Guillerm",
+        "company": "Capgemini",
+        "twitterId": "JuGuillerm"
+      }
+    ],
+    "location": "Amphi D",
+    "startDate": "2018-11-09T11:45:00.000Z",
+    "endDate": "2018-11-09T12:00:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Design",
+      "UI",
+      "UX"
+    ]
+  },
+  {
+    "title": "Étendre VS Code, ou comment se créer un back-office en 10 min",
+    "description": "Construire sa propre extension VS Code, ça se fait en un rien de temps, alors s'il y a des tâches récurrentes dans votre quotidien de développeur, vous n'aurez plus d'excuse pour ne pas les automatiser !\r\n\r\nAu programme : live-coding d'une UI intégrée à VS Code qui accède à un service REST.\r\n\r\nVisual Studio Code dispose d'une API concise et très facile à prendre en main. Les possibilités sont infinies : questions-réponses interactives, affichage d'arborescence, HTML, notifications, appels HTTP, messages RabbitMQ, lecture de fichiers, etc.",
+    "speakers": [
+      {
+        "name": "Joan Rieu",
+        "firstName": "Joan",
+        "lastName": "Rieu",
+        "company": "Lectra",
+        "twitterId": "@joanrieu"
+      }
+    ],
+    "location": "Amphi E",
+    "startDate": "2018-11-09T11:45:00.000Z",
+    "endDate": "2018-11-09T12:00:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Tooling"
+    ]
+  },
+  {
+    "title": "Pause courte",
+    "location": "Hall",
+    "startDate": "2018-11-09T12:00:00.000Z",
+    "endDate": "2018-11-09T12:15:00.000Z"
+  },
+  {
+    "title": "Fear the ponies - Redécouvrons les bases du chiffrement",
+    "description": "Breaking news : les poneys viennent juste de forger une alliance secrète afin de conquérir le monde et asservir l'humanité. Il ne reste plus qu'une heure avant le lancement de la première phase de leur plan. Nous requérons votre aide pour déjouer leur plan, ou au moins pour nous faire gagner un peu de temps.\r\nVous êtes notre seul espoir ! N'échouez pas !\r\n\r\nVenez vous amusez en (re)découvrant quelques bases du chiffrement durant ce coding dojo !",
+    "speakers": [
+      {
+        "name": "Mickael Metesreau",
+        "firstName": "Mickael",
+        "lastName": "Metesreau",
+        "company": "Softcraft",
+        "twitterId": "MiKaDo_O"
+      },
+      {
+        "name": "Raphaël Wach",
+        "firstName": "Raphaël",
+        "lastName": "Wach",
+        "twitterId": "@raphaelwach"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2018-11-09T12:15:00.000Z",
+    "endDate": "2018-11-09T14:00:00.000Z",
+    "category": "Hand's on Labs",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Property Based Testing : La vérité vraie !",
+    "description": "Vous faites des tests unitaires, vous maîtrisez le TDD, mais connaissez-vous le Property Based Testing ?\r\nA travers un live coding en java avec la librairie jqwik (https://jqwik.net), je vous monterai les bases de cette technique et en quoi elle est complémentaire aux techniques de test classiques.",
+    "speakers": [
+      {
+        "name": "Benoît Prioux",
+        "firstName": "Benoît",
+        "lastName": "Prioux",
+        "company": "Lectra",
+        "twitterId": "@binout"
+      }
+    ],
+    "location": "Grand Amphi",
+    "startDate": "2018-11-09T12:15:00.000Z",
+    "endDate": "2018-11-09T12:30:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "UN JOB À VIE ?",
+    "description": "Exit le clean code, ici on apprend à sauvegarder son emploi. Faire du code propre et maintenable c'est bien mais quid de la sécurité de l'emploi ? \r\nIci l'objectif est d'apprendre quelques trucs et astuces pour rendre son code tellement dur à maintenir que vous deviendrez indispensable.",
+    "speakers": [
+      {
+        "name": "Maxime André",
+        "firstName": "Maxime",
+        "lastName": "André",
+        "company": "Zenika",
+        "twitterId": "@thatsmax"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2018-11-09T12:15:00.000Z",
+    "endDate": "2018-11-09T12:30:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Détectez et trackez les vulnerabilités qui se cachent dans vos dépendances",
+    "description": "[44% des applications contiennent des vulnérabilités critiques dans les librairies open-source qu'elles utilisent](https://www.veracode.com/products/software-composition-analysis) et cela bien que des bonnes pratiques comme OWASP Top 10 se soient généralisées. \r\n\r\nNe laissez plus ces petites bêtes incuber bien au chaud au sein de votre appli! \r\nGrâce à ce talk, vous apprendrez comment sont répertoriées ces vilaines bestioles (NVD, CVE) et comment est évaluée leur dangerosité (CVSS).\r\n\r\nPuis vous verrez comment créer votre première pipeline de Continuous Security dans Jenkins au moyen de [OWASP DependencyCheck](https://www.owasp.org/index.php/OWASP_Dependency_Check)  qui détecte les vulnérabilités et trackez les grâce à [OWASP DependencyTrack](https://www.owasp.org/index.php/OWASP_Dependency_Track_Project) (logiciels open-source) \r\n \r\nFaites le premier pas vers le DevSecOps !!!",
+    "speakers": [
+      {
+        "name": "Julien Topçu",
+        "firstName": "Julien",
+        "lastName": "Topçu",
+        "company": "Société Générale & OWASP fundation",
+        "twitterId": "@JulienTopcu"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2018-11-09T12:15:00.000Z",
+    "endDate": "2018-11-09T12:30:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Tooling"
+    ]
+  },
+  {
+    "title": "Design + Code = <3",
+    "description": "Dans notre industrie, il n’est pas rare que les designers et les développeurs aient une petite opinion des uns et des autres. Pourquoi tant d'incompréhensions et surtout, que pouvons nous faire pour changer la donne.",
+    "speakers": [
+      {
+        "name": "Pierre Ragois",
+        "firstName": "Pierre",
+        "lastName": "Ragois",
+        "company": "Kuroneko, Inc",
+        "twitterId": "@vpierrev"
+      }
+    ],
+    "location": "Amphi D",
+    "startDate": "2018-11-09T12:15:00.000Z",
+    "endDate": "2018-11-09T12:30:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Design",
+      "UI",
+      "UX"
+    ]
+  },
+  {
+    "title": "Lost in serverless: AWS Lambda, Google Cloud Function, Azure Function quelle solution pour mes besoins !",
+    "description": "AWS Lambda, Google Cloud Function, Azure Function proposent des solutions d'architectures serverless proches et en même temps de maturité différentes. Comment faire son choix parmi ces différentes solutions? Laquelle est adaptée à mes besoins ? Laquelle est a la meilleure implémentation ? Nous répondrons à ces questions au travers d'une présentation des concepts de chaque solution et des exemples de mise en œuvre.",
+    "speakers": [
+      {
+        "name": "Sebastien Moreno",
+        "firstName": "Sebastien",
+        "lastName": "Moreno",
+        "company": "Ippon Technologies",
+        "twitterId": "@sebastienmoreno"
+      }
+    ],
+    "location": "Amphi E",
+    "startDate": "2018-11-09T12:15:00.000Z",
+    "endDate": "2018-11-09T12:30:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "Pause courte",
+    "location": "Hall",
+    "startDate": "2018-11-09T12:30:00.000Z",
+    "endDate": "2018-11-09T12:45:00.000Z"
+  },
+  {
+    "title": "Au pays des Gophers (à partir de 3 ans)",
+    "description": "Au pays des Gophers, les Goroutines gambadent librement, et s’échangent des bisous et des bonbons grâce aux channels.\r\n\r\nLes méchants Locks sont tous deads (ou presque), et le Scheduler règne sur ce monde paisible qui ne connaît pas le nom des Processeurs.\r\n\r\nLa concurrence en Go expliquée à ma fille de 3 ans !",
+    "speakers": [
+      {
+        "name": "Nicolas Lepage",
+        "firstName": "Nicolas",
+        "lastName": "Lepage",
+        "company": "Zenika",
+        "twitterId": "@njblepage"
+      }
+    ],
+    "location": "Grand Amphi",
+    "startDate": "2018-11-09T12:45:00.000Z",
+    "endDate": "2018-11-09T13:00:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "A case for Web Assembly",
+    "description": "So you've heard of WebAssembly, what's next? This talk has your back. We'll go through use cases for starting to introduce WASM into your code base and your team. We'll talk about existing solutions and observe a couple of examples. We'll compile into WASM from a couple of source languages and see just how fast and efficient it really is.",
+    "speakers": [
+      {
+        "name": "Elvina Valieva",
+        "firstName": "Elvina",
+        "lastName": "Valieva",
+        "company": "PeopleDoc",
+        "twitterId": "elvinanananana"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2018-11-09T12:45:00.000Z",
+    "endDate": "2018-11-09T13:00:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Frontend Web",
+      "Mobile",
+      "Video games"
+    ]
+  },
+  {
+    "title": "Développeurs, n'estimez plus vos tâches ! #noEstimates",
+    "description": "On le sait tous, estimer est à la fois difficile et coûteux et combien de fois vos tâches ont pris plus de temps que prévues? L'estimation est aujourd'hui l'une des méthodes de prédilection pour la prise de décision ainsi que l'évaluation des dates de release de nos projets... mais aujourd'hui il existe une alternative: ne plus estimer ses tâches!\r\n\r\nVenez découvrir ce retour d'expérience sur la mise en place du #noEstimates sur une équipe de développement depuis plus d'un an. Vous verrez quelles sont les clés ainsi que les outils nécessaires à sa mise en place.",
+    "speakers": [
+      {
+        "name": "Julien Topçu",
+        "firstName": "Julien",
+        "lastName": "Topçu",
+        "company": "Société Générale & OWASP fundation",
+        "twitterId": "@JulienTopcu"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2018-11-09T12:45:00.000Z",
+    "endDate": "2018-11-09T13:00:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Ami développeur, deviens un Ops sans effort avec Ansible",
+    "description": "Tu as développé une application géniale mais tu ne peux pas la déployer car l'admin système n'est jamais dispo ? Et si je te disais que tu peux devenir un Ops, juste en écrivant du YAML ?\r\n\r\nAnsible est un logiciel d'automatisation et un gestionnaire de configuration, open source et sans agent à installer. \r\n\r\nQue ce soit pour déployer des loadbalancers dans Azure, créer  des VMs dans vSphere ou configurer un cluster MongoDB, Ansible permet de basculer vers l'Infrastructure as Code et gérer ses plateformes de manière reproductible, variabilisée et surtout idempotente.",
+    "speakers": [
+      {
+        "name": "Denis GERMAIN",
+        "firstName": "Denis",
+        "lastName": "GERMAIN",
+        "company": "Lectra",
+        "twitterId": "@zwindler_rflx"
+      }
+    ],
+    "location": "Amphi D",
+    "startDate": "2018-11-09T12:45:00.000Z",
+    "endDate": "2018-11-09T13:00:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Tooling"
+    ]
+  },
+  {
+    "title": "Faire le choix de la qualité pour améliorer la vélocité de votre équipe",
+    "description": "La survie de nos projets dépend de cette relation intime entre bugs, dette technique et vélocité. Pour autant, les développeurs et les managers font encore trop rarement le choix de la qualité lorsque les premières difficultés se font sentir. \r\nNous allons essayer de comprendre les interactions entre ces 3 composants, et d'en tirer des observations irrévocables sur les moyens d'entretenir la vélocité dans la durée. \r\nComment mesurer la qualité dans mon projet ? Quels signaux surveiller ? Que faire quand ça va mal ?\r\n",
+    "speakers": [
+      {
+        "name": "Laurent Alvaro",
+        "firstName": "Laurent",
+        "lastName": "Alvaro",
+        "company": "BeTomorrow"
+      }
+    ],
+    "location": "Amphi E",
+    "startDate": "2018-11-09T12:45:00.000Z",
+    "endDate": "2018-11-09T13:00:00.000Z",
+    "category": "Lightning talk",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Pause courte",
+    "location": "Hall",
+    "startDate": "2018-11-09T13:00:00.000Z",
+    "endDate": "2018-11-09T13:15:00.000Z"
+  },
+  {
+    "title": "Pair ou impairs ? (live-coding sanglant)",
+    "description": "Deux binômes que tout oppose, une code base legacy, des scènettes illustrant le pire comme le meilleur du Pair Programming. Le tout dans une formule de talk inédite et ambitieuse. \r\n\r\nEt si cette session de live-coding hybride vous donnait enfin les clés pour réussir à binômer en toute sérénité ?",
+    "speakers": [
+      {
+        "name": "Thomas PIERRAIN",
+        "firstName": "Thomas",
+        "lastName": "PIERRAIN",
+        "company": "42skillz",
+        "twitterId": "@tpierrain"
+      },
+      {
+        "name": "bruno boucard",
+        "firstName": "bruno",
+        "lastName": "boucard",
+        "company": "42skilllz",
+        "twitterId": "brunoboucard"
+      }
+    ],
+    "location": "Grand Amphi",
+    "startDate": "2018-11-09T13:15:00.000Z",
+    "endDate": "2018-11-09T14:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "La Réalité Virtuelle : du Jeux Vidéo mais pas que ....",
+    "description": "Est il simple de développer une application (UNITY ou UNREAL) pour de la réalité virtuelle ?\r\nQuels sont les pièges à éviter ? \r\nComment sortir des sentiers battus pour innover ?\r\nComment venir afficher de l'information par dessus une application lancée ?\r\n\r\nAprès avoir balayé les principes technologiques et les différents hardwares connus, nous répondrons à ces questions à travers un REX dans l'univers du jeu vidéo en présentant la création d'un hub sécurisé et personnalisé pour la salle d'arcade HyperCube.",
+    "speakers": [
+      {
+        "name": "Cédric PRUDENT",
+        "firstName": "Cédric",
+        "lastName": "PRUDENT",
+        "company": "CONSERTO",
+        "twitterId": "@CedricPrudent"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2018-11-09T13:15:00.000Z",
+    "endDate": "2018-11-09T14:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "IoT"
+    ]
+  },
+  {
+    "title": "Développement de microservices REST ultra léger en pur Kotlin",
+    "description": "Avec l'adoption officielle par Google pour le développement Android, puis par Spring pour le développement serveur, Kotlin, le langage open source créé par Jetbrains, a le vent en poupe !\r\n\r\nDans cette session nous verrons comment développer des microservices REST en s'appuyant sur http4k, framework open source écrit en pur Kotlin qui amène énormément d'innovations : App as a Function, symétrie complète client / serveur HTTP, extrêmement léger, facile à tester, robuste et modulable... tant de qualités que vous pourrez découvrir lors de ce talk qui cheminera entre slides et live coding. ",
+    "speakers": [
+      {
+        "name": "Xavier Hanin",
+        "firstName": "Xavier",
+        "lastName": "Hanin",
+        "company": "4SH",
+        "twitterId": "@xavierhanin"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2018-11-09T13:15:00.000Z",
+    "endDate": "2018-11-09T14:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "UX is a team discipline",
+    "description": "UX is everyone’s business!\r\nLors de cette conférence, nous vous présenterons l’importance de la collaboration des concepteurs et développeurs pour créer une expérience utilisateur réussie, à travers des exemples des projets concrets. Pourquoi insiste-t-on sur une collaboration et une synergie étroites entre les concepteurs et les développeurs ? A quoi cela ressemble-t-il et quels sont les rôles de chacun depuis les premières étapes jusqu’à la mise en production d'un projet ? Compréhension des besoins utilisateurs, communication efficace et bienveillante, implication à toutes les étapes clés du projet, objectifs communs, organisation sur place et en remote, systèmes et processes (design system), outils (Devs in Figma / Designers in Github), vérifications et tests fréquents... Un REX complet d’un designer et d’un développeur.",
+    "speakers": [
+      {
+        "name": "Dragana Trgovcevic",
+        "firstName": "Dragana",
+        "lastName": "Trgovcevic",
+        "company": "Fabernovel Technologies",
+        "twitterId": "@draga_t"
+      },
+      {
+        "name": "Marie Desnos",
+        "firstName": "Marie",
+        "lastName": "Desnos",
+        "company": "Fabernovel Technologies"
+      }
+    ],
+    "location": "Amphi D",
+    "startDate": "2018-11-09T13:15:00.000Z",
+    "endDate": "2018-11-09T14:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Design",
+      "UI",
+      "UX"
+    ]
+  },
+  {
+    "title": "Quand performance, scalabilité et robustesse bousculent votre architecture et vos habitudes de développement",
+    "description": "Le projet sur lequel vous travaillez doit être capable d'intégrer des **centaines de millions d'événements par jour**.\r\nFace à cette volumétrie de traitements et de calculs, votre architecture doit tenir et auto-scaler pour encaisser les variations de charge.\r\n\r\nIl s'agit ici de faire un **retour d'expérience** sur les points d'attention et les patterns à suivre dès le départ.\r\nNous verrons comment découper et organiser vos traitements, comment décorréler votre modèle métier de votre modèle de stockage et comment définir une stratégie de tests dans un tel système.",
+    "speakers": [
+      {
+        "name": "Céline GILET",
+        "firstName": "Céline",
+        "lastName": "GILET",
+        "company": "Octo Technology",
+        "twitterId": "@celinegilet"
+      }
+    ],
+    "location": "Amphi E",
+    "startDate": "2018-11-09T13:15:00.000Z",
+    "endDate": "2018-11-09T14:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "Pause courte",
+    "location": "Hall",
+    "startDate": "2018-11-09T14:00:00.000Z",
+    "endDate": "2018-11-09T14:15:00.000Z"
+  },
+  {
+    "title": "Crafters en 2018 : Revisitez vos fondamentaux",
+    "description": "En relisant le manifeste du software craftsmanship, comment ses principes peuvent se comprendre aujourd'hui en 2018 ?\r\nJe vous propose d'établir une liste de compétences clés qui feront de nous de meilleurs crafters.\r\nParmi ces sujets,\r\n- Quelles sont les enjeux sociaux et notre place dans le leading tech\r\n- Survivre au flot technique permanent\r\n- Comprendre son combat dans le TDD et le design émergent\r\n- Pratiquer une revue de code efficace\r\n- L'éthique et la responsabilité du développeur\r\n\r\nAlors venez challenger vos a priori !",
+    "speakers": [
+      {
+        "name": "Julien Carnelos",
+        "firstName": "Julien",
+        "lastName": "Carnelos",
+        "company": "Pole Emploi DSI",
+        "twitterId": "@juliencarnelos"
+      }
+    ],
+    "location": "Grand Amphi",
+    "startDate": "2018-11-09T14:15:00.000Z",
+    "endDate": "2018-11-09T15:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Vanilla JS 2018",
+    "description": "Imaginez une application Web qui utiliserait toutes les nouvelles APIs des navigateurs en même temps. Ce n'est peut être pas le projet le plus raisonnable pour un besoin client mais pour de la veille, c'est passionnant ! Je vous propose un retour sur cette expérience un peu hors du commun.\r\n\r\nC'est surtout l'occasion de découvrir bon nombre de sujets : HTTP/2, WebComponents, Virtual Dom, Web Workers, Service Workers, CSS Grid...",
+    "speakers": [
+      {
+        "name": "Matthieu Lux",
+        "firstName": "Matthieu",
+        "lastName": "Lux",
+        "company": "Zenika",
+        "twitterId": "@Swiip"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2018-11-09T14:15:00.000Z",
+    "endDate": "2018-11-09T15:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Frontend Web",
+      "Mobile",
+      "Video games"
+    ]
+  },
+  {
+    "title": "Product Manager, un métier d’interfaces",
+    "description": "Le métier de Product Manager est un métier récent et qui recouvre des réalités extrêmement différentes selon les organisations et selon les théories desquelles elles se revendiquent. Chacun sa définition, chacun son “clocher” et les guerres qui vont avec : Scrum, Design Thinking, Lean UX, pour citer les plus connues. \r\nComment penser ce métier devenu incontournable de manière unie ? Je vous propose de plonger dans toutes ces théories pour les décrypter de manière intelligente et non partisane pour y voir plus clair et vous faire votre avis.",
+    "speakers": [
+      {
+        "name": "Claire Dufetrelle",
+        "firstName": "Claire",
+        "lastName": "Dufetrelle",
+        "company": "FABERNOVEL TECHNOLOGIES",
+        "twitterId": "@claire_duf"
+      },
+      {
+        "name": "Lauren Durand",
+        "firstName": "Lauren",
+        "lastName": "Durand"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2018-11-09T14:15:00.000Z",
+    "endDate": "2018-11-09T15:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Ceinture noire Karate en tests d’API REST",
+    "description": "Vous aviez toujours rêvé d'une syntaxe facile pour tester vos APIs REST ?\r\n\r\n`Karate` est fait pour vous ! Son format DSL plain text inspiré de la syntaxe Cucumber (ie. Gherkin) permet même aux personnes aux notions basiques en développement de venir couvrir vos APIs ou Web services (micros, nanos ou pas!)\r\n\r\nIl n'y a plus Karate, ehm, pardon... qu'à réussir ses tests d'intégration !\r\n\r\nVenez apprendre comment avec `Java` et `maven` comme simples prérequis d'infrastructure, vous pouvez mettre en place et industrialiser ces tests. On l'utilise chez nous, et on ne s'en passe plus.",
+    "speakers": [
+      {
+        "name": "Nicolas Comet",
+        "firstName": "Nicolas",
+        "lastName": "Comet",
+        "company": "Lectra",
+        "twitterId": "@NicolasComet"
+      },
+      {
+        "name": "Benoît Prioux",
+        "firstName": "Benoît",
+        "lastName": "Prioux",
+        "company": "Lectra",
+        "twitterId": "@binout"
+      }
+    ],
+    "location": "Amphi D",
+    "startDate": "2018-11-09T14:15:00.000Z",
+    "endDate": "2018-11-09T15:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Tooling"
+    ]
+  },
+  {
+    "title": "Mon premier service en Rust",
+    "description": "Rust est souvent présenté pour ses concepts de gestion de mémoire avancés comme les lifecycles ou le borrowing.  \r\nOn le compare directement au C et du coup on en vient à penser que c'est un langages pour les ingénieurs systèmes ou les ops.\r\nMais Rust c'est bien plus qu'un nouveau langage pour écrire des applications performantes, c'est une véritable alternative à d'autres solutions pour réaliser des services applicatifs.\r\n\r\nDans ce talk je vous montrerais comment on peut rapidement écrire un service web en Rust utilisable facilement.\r\n\r\n",
+    "speakers": [
+      {
+        "name": "Francois Teychene",
+        "firstName": "Francois",
+        "lastName": "Teychene",
+        "company": "Saagie",
+        "twitterId": "@fteychene"
+      }
+    ],
+    "location": "Amphi E",
+    "startDate": "2018-11-09T14:15:00.000Z",
+    "endDate": "2018-11-09T15:00:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "Redécouvrez l'univers connu avec des datasets de la NASA",
+    "description": "Cela fait des années que l’humanité explore le ciel, rêvant de voyages intersidérales et de nouvelles colonies planétaires. Et toi, as-tu envie de partir 2h avec nous à la découverte de l'univers ?\r\n\r\nIl se trouve que la NASA possède un formidable jeu de données publiques, notamment celui qui est utilisé pour la recherche d’exoplanètes, c’est-à-dire de planètes situées en dehors de notre système solaire.\r\n\r\nNous vous guiderons, au cours de ce Lab, dans les différentes étapes permettant de redécouvrir des exoplanètes en utilisant Warp10, une plateforme open-source de traitement de séries temporelles.",
+    "speakers": [
+      {
+        "name": "Aurélien Hébert",
+        "firstName": "Aurélien",
+        "lastName": "Hébert",
+        "company": "OVH",
+        "twitterId": "@AurrelH95"
+      },
+      {
+        "name": "Emmanuel Feller",
+        "firstName": "Emmanuel",
+        "lastName": "Feller",
+        "twitterId": "@moyowi"
+      },
+      {
+        "name": "Pierre Zemb",
+        "firstName": "Pierre",
+        "lastName": "Zemb",
+        "company": "OVH",
+        "twitterId": "PierreZ"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2018-11-09T14:15:00.000Z",
+    "endDate": "2018-11-09T16:00:00.000Z",
+    "category": "Hand's on Labs",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "Pause café",
+    "location": "Hall",
+    "startDate": "2018-11-09T15:00:00.000Z",
+    "endDate": "2018-11-09T15:30:00.000Z"
+  },
+  {
+    "title": "Un peu de sociologie, appliquée à notre métier de développeur",
+    "description": "Vous êtes speaker, dev junior, recruteur ou bien Devops. Que vous le vouliez ou non, vous faites partie de la communauté des acteurs du monde informatique. Il est donc important de comprendre les interactions sociales et les théories qui régissent notre groupe.\r\nDécouvrons ensemble la sociologie de Pierre Bourdieu et comment elle s'applique à notre corps de métier! \r\n",
+    "speakers": [
+      {
+        "name": "Fabien Lamarque",
+        "firstName": "Fabien",
+        "lastName": "Lamarque",
+        "company": "Guarani Atlantique",
+        "twitterId": "@Fabinout"
+      }
+    ],
+    "location": "Grand Amphi",
+    "startDate": "2018-11-09T15:30:00.000Z",
+    "endDate": "2018-11-09T16:15:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Le Natural Language Processing illustré avec Python",
+    "description": "De plus en plus d'applications reposent sur de l'intelligence artificielle et du Natural Language Processing... D'accord, mais en fait, le NLP, c'est quoi ? Comment et pour quoi est-ce que je peux m'en servir ?\r\n\r\nOn introduira les concepts principaux en NLP, et on fera le lien avec les librairies existantes en Python.\r\n\r\nSurtout on illustrera le sujet avec quelques exemples concrets :  \r\n\r\n* comment rechercher des mots clés dans un texte sans ctrl+F\r\n* mixer NLP et machine learning pour faire du Named Entity Recognition\r\n* construire un moteur de suggestions grâce à un réseau de neurones",
+    "speakers": [
+      {
+        "name": "Justine BEL-LETOILE",
+        "firstName": "Justine",
+        "lastName": "BEL-LETOILE",
+        "company": "Jobijoba"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2018-11-09T15:30:00.000Z",
+    "endDate": "2018-11-09T16:15:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "Bug-free by design",
+    "description": "Le stagiaire a encore frappé ! C'était pourtant simple de passer le montant de la transaction en **premier** argument et le timestamp en **second**, non ? Et du coup, vous avez un problème à 1530795303€...\r\n\r\nMais... est-ce vraiment sa faute ? Est-ce qu'on n'aurait pas dû empêcher que cette erreur puisse même se produire ?\r\n\r\nRéfléchissons ensemble à la façon de produire un code plus résistant aux erreurs des autres (*l'autre*, c'est aussi vous dans trois mois !) en suivant la philosophie du `Poka Yoke` – l'art de prévenir les erreurs d'inattention en architecturant son code de façon empathique.",
+    "speakers": [
+      {
+        "name": "Jordane Grenat",
+        "firstName": "Jordane",
+        "lastName": "Grenat",
+        "company": "Viseo",
+        "twitterId": "@JoGrenat"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2018-11-09T15:30:00.000Z",
+    "endDate": "2018-11-09T16:15:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "La sécurité dans une architecture microservices ? Pas de soucis !",
+    "description": "Détaillons ensemble l'implémentation de la sécurité dans une architecture microservice avec un exemple réel. \r\nCe que nous allons aborder:\r\n* Les protocoles de sécurité (Oauth2, Open ID)\r\n* Comment gérer les identités au sein de l'entreprise (LDAP, providers externes comme Google)\r\n* Comment gérer les sessions entres les services ?\r\n* Quid de l'authorisation ?\r\nLa présentation contiendra une démonstration pratique en utilisant Keycloak, les JWTs, Spring ou encore NodeJs ...\r\nAprès ce talk, vous connaitrez à nouveau la joie de sécuriser vos applications !",
+    "speakers": [
+      {
+        "name": "Florian Garcia",
+        "firstName": "Florian",
+        "lastName": "Garcia",
+        "company": "Ippon Technologies",
+        "twitterId": "@im_flog"
+      },
+      {
+        "name": "Vivien MALEZE",
+        "firstName": "Vivien",
+        "lastName": "MALEZE",
+        "company": "Ippon Technology",
+        "twitterId": "@vmaleze"
+      }
+    ],
+    "location": "Amphi D",
+    "startDate": "2018-11-09T15:30:00.000Z",
+    "endDate": "2018-11-09T16:15:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  },
+  {
+    "title": "Embarquez vos réseaux de neurones avec le Neural Compute Stick",
+    "description": "Les réseaux de neurones sont partout ! Ils sont aussi bien utilisés dans le domaine du traitement d'image, de la traduction de texte, la reconnaissance vocale... Les réseaux de neurones sont de plus en plus présents dans nos objets du quotidien (et plus particulièrement nos smartphones et autres objets connectés).\r\n\r\nLes modèles entrainés doivent ainsi répondre à de plus en plus de contraintes afin de pouvoir s'exécuter rapidement tout en limitant la consommation d'énergie (pour ne pas vider les batteries à chaque exécution). Dans cette optique-là, plusieurs constructeurs se sont lancés dans la construction de puces dédiées à l'exécution des modèles, parmi ces constructeurs on retrouve [Movidius](https://developer.movidius.com/) (racheté par Intel) qui propose notamment le Neural Compute Stick.\r\n\r\nCette présentation est l'occasion de voir comment mettre en oeuvre le NCS avec TensorFlow et Keras pour répondre à un cas d'utilisation de reconnaissance d'image, dans le cadre du projet AlphaShifumi développé en interne chez Zenika.\r\n",
+    "speakers": [
+      {
+        "name": "Géraud Dugé de Bernonville",
+        "firstName": "Géraud",
+        "lastName": "Dugé de Bernonville",
+        "company": "zenika",
+        "twitterId": "@geraudster"
+      }
+    ],
+    "location": "Amphi E",
+    "startDate": "2018-11-09T15:30:00.000Z",
+    "endDate": "2018-11-09T16:15:00.000Z",
+    "category": "Conference",
+    "tags": [
+      "Backend",
+      "Cloud",
+      "Big Data"
+    ]
+  },
+  {
+    "title": "Pause courte",
+    "location": "Hall",
+    "startDate": "2018-11-09T16:15:00.000Z",
+    "endDate": "2018-11-09T16:30:00.000Z"
+  },
+  {
+    "title": "Keynote de fermeture",
+    "description": "La keynote de fermeture",
+    "speakers": [
+      {
+        "name": "Team BDX I/O",
+        "firstName": "Team",
+        "lastName": "BDX I/O"
+      }
+    ],
+    "location": "Grand Amphi",
+    "startDate": "2018-11-09T16:30:00.000Z",
+    "endDate": "2018-11-09T17:15:00.000Z",
+    "category": "Keynote",
+    "tags": [
+      "Conception",
+      "Architecture",
+      "Dev practices"
+    ]
+  }
+]
