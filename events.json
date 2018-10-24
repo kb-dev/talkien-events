@@ -40,7 +40,7 @@
       "Développement",
       "Architecture"
     ],
-    "colors": ["#ce300d", "#fca800"]
+    "colors": ["#fca800", "#ce300d"]
   },
   {
     "name": "Paris Web 2018",
@@ -78,7 +78,7 @@
     "url": "https://www.codeursenseine.com/2018/",
     "bookingUrl": "https://www.codeursenseine.com/2018/inscription",
     "topics": ["Développement", "Web", "Logiciel"],
-    "colors": ["#0078c5", "#004fa6"]
+    "colors": ["#004fa6", "#0078c5"]
   },
   {
     "name": "GDG DevFest Paris 2019",
@@ -97,6 +97,6 @@
     "url": "https://devfest.gdgparis.com/",
     "bookingUrl": "https://devfest.gdgparis.com/",
     "topics": ["Cloud", "Web"],
-    "colors": ["#673ab7", "#673ab7"]
+    "colors": ["#9E1EF3", "#673ab7"]
   }
 ]
