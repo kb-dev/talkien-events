@@ -15,8 +15,17 @@
     "longDescription": "L'OVH Summit 2018 se tiendra le 18 octobre prochain au Paris Event Center. Octave Klaba, Founder et Chairman d’OVH, et Michel Paulin, directeur général, vous présenteront leur vision stratégique, qui redéfinira l’offre cloud d’OVH lors du keynote d’ouverture ! Nos équipes seront à votre disposition sur des espaces dédiés pour vous présenter nos solutions et répondre à toutes vos questions. Au programme : plus de 25 exposants, une trentaine de conférences et de labs, ainsi que des ateliers animés par nos partenaires. Retrouvez-nous pour l’événement IT de la rentrée !",
     "url": "https://summit.ovh.com/",
     "bookingUrl": "https://summit.ovh.com/fr/subscription",
-    "topics": ["Web", "Serveurs", "Infrastructure", "Keynote", "Cloud"],
-    "colors": ["#d000a0", "#00e2fa"]
+    "topics": [
+      "Web",
+      "Serveurs",
+      "Infrastructure",
+      "Keynote",
+      "Cloud"
+    ],
+    "colors": [
+      "#d000a0",
+      "#00e2fa"
+    ]
   },
   {
     "name": "BDX I/O 2018",
@@ -40,7 +49,10 @@
       "Développement",
       "Architecture"
     ],
-    "colors": ["#fca800", "#ce300d"]
+    "colors": [
+      "#fca800",
+      "#ce300d"
+    ]
   },
   {
     "name": "Paris Web 2018",
@@ -58,8 +70,16 @@
     "longDescription": "",
     "url": "https://www.paris-web.fr/",
     "bookingUrl": "https://www.paris-web.fr/",
-    "topics": ["Web", "Accessibilité", "Design", "Qualité"],
-    "colors": ["#ae49c4", "#5224d8"]
+    "topics": [
+      "Web",
+      "Accessibilité",
+      "Design",
+      "Qualité"
+    ],
+    "colors": [
+      "#ae49c4",
+      "#5224d8"
+    ]
   },
   {
     "name": "Codeurs en Seine 2018",
@@ -73,18 +93,25 @@
       "longitude": 1.063625
     },
     "logo": null,
-    "description": "",
-    "longDescription": "",
+    "description": "Rencontre de codeuses & codeurs à Rouen",
+    "longDescription": "Une journée par la communauté pour la communauté. Codeurs en Seine est une journée de conférences gratuite qui se déroule à Rouen, pour découvrir, apprendre et partager autour du monde du développement. Cette année nous vous attendons nombreux le 22 novembre 2018. Nous espérons que vous serez plus de 800 au Kindarena de Rouen pour participer à cette journée !",
     "url": "https://www.codeursenseine.com/2018/",
     "bookingUrl": "https://www.codeursenseine.com/2018/inscription",
-    "topics": ["Développement", "Web", "Logiciel"],
-    "colors": ["#0078c5", "#004fa6"]
+    "topics": [
+      "Développement",
+      "Web",
+      "Logiciel"
+    ],
+    "colors": [
+      "#0078c5",
+      "#004fa6"
+    ]
   },
   {
     "name": "GDG DevFest Paris 2019",
     "id": "gdg-devfest-paris-2019",
-    "startDate": "2019-02-08T08:30:00+02:00",
-    "endDate": "2019-02-02T18:00:00+02:00",
+    "startDate": "2019-02-02T08:30:00+02:00",
+    "endDate": "2019-02-08T18:00:00+02:00",
     "address": "La Grande Crypte, Paris",
     "fullAddress": "69 bis Rue Boissière, 75016 Paris",
     "location": {
@@ -96,7 +123,13 @@
     "longDescription": "",
     "url": "https://devfest.gdgparis.com/",
     "bookingUrl": "https://devfest.gdgparis.com/",
-    "topics": ["Cloud", "Web"],
-    "colors": ["#9E1EF3", "#673ab7"]
+    "topics": [
+      "Cloud",
+      "Web"
+    ],
+    "colors": [
+      "#9E1EF3",
+      "#673ab7"
+    ]
   }
 ]

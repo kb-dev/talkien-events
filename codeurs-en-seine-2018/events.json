@@ -249,7 +249,7 @@
     "startDate": "2018-11-22T14:10:00.000Z",
     "endDate": "2018-11-22T14:30:00.000Z",
     "description": "La détection instantanée des intentions de nos écrits devient possible, grâce à la puissance des ordinateurs actuels qui permet une analyse approfondie des textes. À travers leur projet, Yuan et Johann vont nous parler des concepts de Deep Learning, de réseaux de neurones et d’analyse sémantique. En seulement 15 minutes vous découvrirez comment certains mots peuvent être rapprochés graphiquement et vous verrez fonctionner une première IA (Intelligence Artificielle) reconnaissant une simple demande provenant d’un mail.",
-    "location": "Salle V",
+    "location": "Salle C",
     "category": "Quicky",
     "speakers": [
       {
@@ -270,6 +270,179 @@
     "speakers": [
       {
         "name": "Mélanie Boudard"
+      }
+    ]
+  },
+  {
+    "name": "Services vocaux & chatbots : l'UX du futur ?",
+    "startDate": "2018-11-22T14:30:00.000Z",
+    "endDate": "2018-11-22T15:20:00.000Z",
+    "description": "Le web de demain prendra-t-il la forme des buzzwords dont le web d'aujourd'hui nous gave ? On ne parle plus que de cela. Services vocaux, chatbots, intelligence artificielle… Pas un brief n'y échappe, rares sont les réunions privées de l'un de ces termes, et les articles sur les tendances pour l'année à venir sont clairs : c'est bien le futur qui se profile. Parler du web de demain en tant qu'UX designer, c'est donc naturellement se poser des questions sur ces technologies : quelles opportunités peut-on y voir, quelles craintes peut-on formuler ? Quels sont les impacts à l'heure actuelle pour les usagers ? En filigrane, nous nous demanderons aussi si la technologie change le métier de designer. Autant de questions pour cultiver la réflexion : ce web du futur alors, on le dessine comment ?",
+    "location": "Salle A",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Amélie Boucher"
+      }
+    ]
+  },
+  {
+    "name": "Avec les GitLab Runners, comme Mickey dans Fantasia, devenez un apprenti sorcier de l'intégration continue (et du déploiement)",
+    "startDate": "2018-11-22T14:30:00.000Z",
+    "endDate": "2018-11-22T15:20:00.000Z",
+    "description": "Vous êtes un Dev (moi aussi) et vous avez toujours rêvé (comme Mickey) de savoir faire de la magie comme l'Ops (le magicien barbu) de l'équipe, et à chaque fois que vous avez essayé avec diverses solutions de CI, vous avez abandonné car trop compliqué, trop lourd, trop c... . Et pourtant, maintenant avec les **Runners GitLab** vous pouvez commencer à jouer à l'apprenti sorcier et vous faire plaisir (et aussi vous rendre utile).",
+    "location": "Salle B",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Philippe Charrière"
+      }
+    ]
+  },
+  {
+    "name": "La programmation en binôme, c'est magique !",
+    "startDate": "2018-11-22T14:30:00.000Z",
+    "endDate": "2018-11-22T15:20:00.000Z",
+    "description": "Quelle drôle d’idée que deux personnes réalisent une tâche pouvant être réalisée par une seule personne ? Cela ne multiplie-t-il pas les coûts par deux ? Si la programmation en binôme (pair programming) est une bonne pratique Agile, recommandée notamment dans l’eXtrème Programming, elle soulève bien des interrogations et son utilité n’est pas intuitive. Or à l’usage elle transforme radicalement l’activité d’une équipe de développement, tant d’un point vue technique qu’humain. Et si les premiers effets positifs se font ressentir rapidement, des effets sur le long terme, plus inattendus mais tout aussi bénéfiques, émergent aussi.",
+    "location": "Salle C",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Frédéric Leguédois"
+      }
+    ]
+  },
+  {
+    "name": "Votre mission ? Découvrir Haskell et le mettre en prod",
+    "startDate": "2018-11-22T14:30:00.000Z",
+    "endDate": "2018-11-22T15:20:00.000Z",
+    "description": "On entend parler de Haskell de plus en plus, mais il parait souvent bien compliqué de se lancer. Haskell fait peur, avec ses Monades, Monoïdes et autres gros mots. On verra ensemble que vous n'avez absolument pas besoin de savoir ce que ces termes signifient pour vous lancer. Je vous propose de regarder ce dont vous aurez besoin pour créer une petite API, avec de la sécurité et de la gestion de données, soit de quoi mettre une petite application en prod.",
+    "location": "Salle D",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Céline Louvet"
+      }
+    ]
+  },
+  {
+    "name": "Pause",
+    "startDate": "2018-11-22T15:20:00.000Z",
+    "endDate": "2018-11-22T15:40:00.000Z",
+    "description": "Boire un coup, papoter, visiter les stands ;)"
+  },
+  {
+    "name": "Premiers pas avec Capacitor... dans le monde réel",
+    "startDate": "2018-11-22T15:40:00.000Z",
+    "endDate": "2018-11-22T16:40:00.000Z",
+    "description": "Ah, Capacitor, quelle belle idée, une alternative à Cordova plus facile à utiliser, utilisable dans n’importe quel framework, complètement intégré à la prochaine version d’Ionic… Ben non, au moins au début, l’idée de Capacitor me laissait sceptique. J’ai passé les deux dernières années à développer des PWA, alors la pensée de devoir revenir à faire des applications hybrides ou natives me paressait simplement obsolète. Dans ma tête j’avais mis Capacitor dans la case techno cool qui ne m’intéresse pas dans la vraie vie. Mais à ce moment j’ai relu avec attention leur site et j’ai vu une ligne qui m’a séduit : Build web apps that run equally well on iOS, Android, Electron, and as Progressive Web Apps. Hmmm, si je pouvais prendre une PWA et générer à partir d’elle une appli native Android, une autre iOS et une implémentation Electron en bonus, ça pourrait être carrément cool ! J’ai donc décidé de tester Capacitor sur certaines de mes PWA pour voir si je pouvais les transformer en applications natives. Et ce talk est le retour d’expérience de ce processus, mes premiers pas avec Capacitor, ce qui a marché et ce qui n’a pas marché, et surtout ce que j’ai appris dans le processus.",
+    "location": "Salle A",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Horacio Gonzalez"
+      }
+    ]
+  },
+  {
+    "name": "Embarquement Agile : Comment intégrer un nouveau dev en 5 semaines ?",
+    "startDate": "2018-11-22T15:40:00.000Z",
+    "endDate": "2018-11-22T16:40:00.000Z",
+    "description": "Une équipe agile a ses pratiques, ses méthodes, ses outils et ses habitudes... Mais surtout ses êtres humains et sa culture. La culture agile, déjà si difficile à acquérir est encore plus difficile à transmettre. Alors comment fait-on pour embarquer un nouveau dev dans l’équipe ? On a essayé différentes méthodes traditionnelles sans grand succès, puis on a fini par trouver quelque chose qui fonctionne vraiment : 5 mini challenges d’une semaine en terrain inconnu et accompagné d’un nouveau tuteur à chaque fois. Cette session est un retour d’expérience à destination des développeurs, managers, scrum masters, RH et coach agiles...",
+    "location": "Salle B",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Florian Ferbach"
+      }
+    ]
+  },
+  {
+    "name": "Informatique Quantique, Futur ou Réalité ?",
+    "startDate": "2018-11-22T15:40:00.000Z",
+    "endDate": "2018-11-22T16:40:00.000Z",
+    "description": "En quelques minutes, Robin nous fera voyager entre la physique atomique et la physique quantique. Il nous parlera de l’histoire du chat de Schrödinger et de téléportation. Tous cela vous paraît être de la science fiction ? Pourtant les premiers ordinateurs quantiques et les Qbits sont bien réels. Robin exécutera un des premiers programmes « quantique » permettant de casser une clé de cryptage réputée inviolable sur nos machines actuelles.",
+    "location": "Salle C",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Robin Szylobryt"
+      }
+    ]
+  },
+  {
+    "name": "Découvrir par l’exemple : Microservices et Event Sourcing avec Kafka et Kubernetes",
+    "startDate": "2018-11-22T15:40:00.000Z",
+    "endDate": "2018-11-22T16:40:00.000Z",
+    "description": "Lorsque vous développez des applications vous avez besoin de vous adapter rapidement aux changements (métiers, comme technologiques). Pour cela les développeurs et les “ops” doivent travailler de concert, pour déployer toujours plus rapidement de nouveaux services tout en garantissant la haute disponibilité et la montée en charge des applications. Les microservices et l’event-sourcing offrent une grande flexibilité aux développeurs; et la containerization par le biais de Kubernetes permet de déployer ces services en toute tranquillité.",
+    "location": "Salle D",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Tugdual Grall"
+      }
+    ]
+  },
+  {
+    "name": "Vous n'avez pas besoin de ça !",
+    "startDate": "2018-11-22T16:40:00.000Z",
+    "endDate": "2018-11-22T17:30:00.000Z",
+    "description": "React, Microservices, GraphQL, REST, DDD... Tous ces buzzwords porteurs de promesses d'un monde meilleur sont sur toutes les lèvres, de toutes les conférences et s'installent petit à petit dans nos projets. Sont-ils vraiment la seule solution à tous nos problèmes ? Au travers de cette conférence à la description taillée pour le SEO nous verrons qu'il existe des alternatives à ces technologies parfois mieux adaptées au contexte dans lequel nous évoluons tous les jours.",
+    "location": "Salle A",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Charles Desneuf"
+      }
+    ]
+  },
+  {
+    "name": "L'itération 0 : du craftmanship pour le webfront",
+    "startDate": "2018-11-22T16:40:00.000Z",
+    "endDate": "2018-11-22T17:30:00.000Z",
+    "description": "Développer une application web n’est pas du bricolage dans un garage ! Le développement s’industrialise pour réaliser des applications robustes et facilement maintenables. Inspiré des outils du software craftmanship et de l’agilité, nous proposons les pratiques et outils préférés que vous pouvez mettre en œuvre pour réaliser des applications dont vous serez fiers ! Nous parlerons d'intégration continue, de déploiement continu et d'outils comme Gitlab-ci, des reviews apps ...",
+    "location": "Salle B",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Christophe Malaboeuf"
+      }
+    ]
+  },
+  {
+    "name": "Unity 3D - Retour d'expérience sur une app d'1M download",
+    "startDate": "2018-11-22T16:40:00.000Z",
+    "endDate": "2018-11-22T17:30:00.000Z",
+    "description": "Unity3D est devenu le moteur de jeux vidéo le plus populaire et le plus utilisé du marché grâce à sa simplicité d'utilisation, sa facilité d' apprentissage et son modèle économique. Un matin, Florian a eu l'idée de faire son propre jeu vidéo et s'est lancé avec Unity3D dans la réalisation de Little Demolition (un physic-game sur android).",
+    "location": "Salle C",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Florian Duboc"
+      }
+    ]
+  },
+  {
+    "name": "UX et Product Management en contexte agile : monozygotes ou dizygotes ?",
+    "startDate": "2018-11-22T16:40:00.000Z",
+    "endDate": "2018-11-22T17:30:00.000Z",
+    "description": "“Soit agile ! C’est trop design ! Cette boîte est trop lean !... Je trouve que ce n’est pas assez UX...” Mais quelle signification cela a-t-il pour nos clients ? Sommes nous alignés sur les définitions de nos pratiques ? Comment les articuler ? Le product management et l’UX design se complètent-ils ? Leurs périmètres se superposent-ils ? L’UX designer est-il un nouvel imposteur qui vole le travail du Product Owner ? Travailler en équipes pluri-disciplinaires nous amènent à partager nos connaissances et best practices et à trouver notre place au sein du groupe. Nous vous exposerons nos retours d’expériences sur les similitudes et différences entre UX design, Product management en contexte agile. Ainsi que nos pistes pour d’articuler ces différentes pratiques en équipe pour un travail en bonne intelligence et encore plus efficient.",
+    "location": "Salle D",
+    "category": "Conférence",
+    "speakers": [
+      {
+        "name": "Nadège Bide"
+      }
+    ]
+  },
+  {
+    "name": "Plénière de clôture - Surprise !",
+    "startDate": "2018-11-22T17:30:00+02:00",
+    "endDate": "2018-11-22T18:00:00+02:00",
+    "location": "Salle A",
+    "speakers": [
+      {
+        "name": "L'équipe de Codeurs en Seine"
       }
     ]
   }
