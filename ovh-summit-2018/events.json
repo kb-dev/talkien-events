@@ -1,15 +1,11 @@
 [
   {
     "name": "Ouverture des portes",
-    "startTime": "08:30",
-    "endTime": "09:30",
     "startDate": "2018-10-18T08:30:00+02:00",
     "endDate": "2018-10-18T09:30:00+02:00"
   },
   {
     "name": "Keynote",
-    "startTime": "09:30",
-    "endTime": "12:30",
     "startDate": "2018-10-18T09:30:00+02:00",
     "endDate": "2018-10-18T12:30:00+02:00",
     "description": "Octave Klaba, Founder et Chairman d’OVH, et Michel Paulin, directeur général, vous présenteront leur vision stratégique, ainsi que le nouveau plan cloud smart qui redéfinira l’offre cloud d’OVH.",
@@ -48,39 +44,38 @@
   },
   {
     "name": "Déjeuner",
-    "startTime": "12:30",
-    "endTime": "13:30",
     "startDate": "2018-10-18T12:30:00+02:00",
     "endDate": "2018-10-18T13:30:00+02:00"
   },
   {
     "name": "Public Cloud - lab avancé : Infra as code avec la CLI et Terraform",
-    "startTime": "13:30",
-    "endTime": "15:00",
     "startDate": "2018-10-18T13:30:00+02:00",
     "endDate": "2018-10-18T15:00:00+02:00",
     "lang": "FR_fr",
     "description": "Quand l’infrastructure est « à la demande », il devient possible de coordonner la plupart de vos besoins pour industrialiser vos déploiements. Venez vous y essayer via l'orchestrateur Terraform.",
     "location": "Salle 8",
     "category": "Labs",
-    "tags": ["public cloud", "cli", "terraform"]
+    "tags": [
+      "public cloud",
+      "cli",
+      "terraform"
+    ]
   },
   {
     "name": "Stockage cloud haute performance et optimisé avec Samsung SSD",
-    "startTime": "13:30",
-    "endTime": "14:15",
     "startDate": "2018-10-18T13:30:00+02:00",
     "endDate": "2018-10-18T14:15:00+02:00",
     "lang": "FR_fr",
     "description": "Partant d’exemples client, Samsung reviendra sur les effets positifs liés à la migration des capacités de stockage cloud des disques durs vers de la mémoire flash. Ceci afin de propulser des applications cloud modernes, qui ont besoin de faibles latences et d’un débit rapide.",
     "location": "Salle 1",
     "category": "Technical",
-    "tags": ["storage", "ssd"]
+    "tags": [
+      "storage",
+      "ssd"
+    ]
   },
   {
     "name": "Artisans, indépendants, créateurs d'entreprise : professionnaliser son activité avec les solutions OVH",
-    "startTime": "13:30",
-    "endTime": "14:15",
     "startDate": "2018-10-18T13:30:00+02:00",
     "endDate": "2018-10-18T14:15:00+02:00",
     "lang": "FR_fr",
@@ -91,8 +86,6 @@
   },
   {
     "name": "Déployer sa première application avec Kubernetes",
-    "startTime": "13:30",
-    "endTime": "14:15",
     "startDate": "2018-10-18T13:30:00+02:00",
     "endDate": "2018-10-18T14:15:00+02:00",
     "lang": "FR_fr",
@@ -103,8 +96,6 @@
   },
   {
     "name": "Comment mettre en place une plateforme big data sécurisée dans le cloud",
-    "startTime": "13:30",
-    "endTime": "14:15",
     "startDate": "2018-10-18T13:30:00+02:00",
     "endDate": "2018-10-18T14:15:00+02:00",
     "lang": "FR_fr",
@@ -115,8 +106,6 @@
   },
   {
     "name": "Solutions de « disaster recovery » et de remplacement de datacenters",
-    "startTime": "13:30",
-    "endTime": "14:15",
     "startDate": "2018-10-18T13:30:00+02:00",
     "endDate": "2018-10-18T14:15:00+02:00",
     "lang": "FR_fr",
@@ -127,20 +116,15 @@
   },
   {
     "name": "Comment stocker, organiser et utiliser des pétaoctets de données hétérogènes",
-    "startTime": "13:30",
-    "endTime": "14:15",
     "startDate": "2018-10-18T13:30:00+02:00",
     "endDate": "2018-10-18T14:15:00+02:00",
     "lang": "EN_en",
-    "description": "Apprenez à bâtir une infrastructure scalable et à générer des données thématiques (sur les domaines maritimes, terrestres, climatiques ou des secours, par exemple), qui seront précieuses et utiles pour votre entreprise.",
     "location": "Salle 4",
     "category": "Technical",
     "tags": []
   },
   {
     "name": "Quoi de neuf pour vos sites web ?",
-    "startTime": "13:30",
-    "endTime": "14:15",
     "startDate": "2018-10-18T13:30:00+02:00",
     "endDate": "2018-10-18T14:15:00+02:00",
     "lang": "FR_fr",
@@ -151,8 +135,6 @@
   },
   {
     "name": "Livraison continue et machine learning",
-    "startTime": "15:30",
-    "endTime": "16:15",
     "startDate": "2018-10-18T15:30:00+02:00",
     "endDate": "2018-10-18T16:15:00+02:00",
     "lang": "EN_en",
@@ -163,8 +145,6 @@
   },
   {
     "name": "Nos conseils pour évaluer le coût de vos infrastructures",
-    "startTime": "15:30",
-    "endTime": "16:15",
     "startDate": "2018-10-18T15:30:00+02:00",
     "endDate": "2018-10-18T16:15:00+02:00",
     "lang": "FR_fr",
@@ -175,8 +155,6 @@
   },
   {
     "name": "Étude de cas : comment Cozy Cloud monitore toutes les couches de son activité avec OVH Metrics",
-    "startTime": "15:30",
-    "endTime": "16:15",
     "startDate": "2018-10-18T15:30:00+02:00",
     "endDate": "2018-10-18T16:15:00+02:00",
     "lang": "FR_fr",
@@ -187,8 +165,6 @@
   },
   {
     "name": "Adoptez une nouvelle approche du stockage et modernisez votre infrastructure",
-    "startTime": "15:30",
-    "endTime": "16:15",
     "startDate": "2018-10-18T15:30:00+02:00",
     "endDate": "2018-10-18T16:15:00+02:00",
     "lang": "FR_fr",
@@ -199,8 +175,6 @@
   },
   {
     "name": "Téléphonie : comment se préparer à la fin du RTC avec la VoIP",
-    "startTime": "15:30",
-    "endTime": "16:15",
     "startDate": "2018-10-18T15:30:00+02:00",
     "endDate": "2018-10-18T16:15:00+02:00",
     "lang": "FR_fr",
@@ -211,8 +185,6 @@
   },
   {
     "name": "Démarrez le big data dans l'heure avec Public Cloud",
-    "startTime": "15:30",
-    "endTime": "16:15",
     "startDate": "2018-10-18T15:30:00+02:00",
     "endDate": "2018-10-18T16:15:00+02:00",
     "lang": "FR_fr",
@@ -223,8 +195,6 @@
   },
   {
     "name": "Quoi de neuf pour Public Cloud ?",
-    "startTime": "15:30",
-    "endTime": "16:15",
     "startDate": "2018-10-18T15:30:00+02:00",
     "endDate": "2018-10-18T16:15:00+02:00",
     "lang": "FR_fr",
@@ -235,8 +205,6 @@
   },
   {
     "name": "Quoi de neuf pour nos solutions d'accès à Internet ?",
-    "startTime": "16:30",
-    "endTime": "17:15",
     "startDate": "2018-10-18T16:30:00+02:00",
     "endDate": "2018-10-18T17:15:00+02:00",
     "lang": "FR_fr",
@@ -247,8 +215,6 @@
   },
   {
     "name": "Monitoring d’infrastructures : aperçu exclusif d’« OVH Insights »",
-    "startTime": "16:30",
-    "endTime": "17:15",
     "startDate": "2018-10-18T16:30:00+02:00",
     "endDate": "2018-10-18T17:15:00+02:00",
     "lang": "FR_fr",
@@ -259,8 +225,6 @@
   },
   {
     "name": "Se déployer sereinement dans le cloud : les 5 meilleures pratiques",
-    "startTime": "16:30",
-    "endTime": "17:15",
     "startDate": "2018-10-18T16:30:00+02:00",
     "endDate": "2018-10-18T17:15:00+02:00",
     "lang": "FR_fr",
@@ -271,8 +235,6 @@
   },
   {
     "name": "Hébergement de données de santé (HDS) : l’entreprise Kénora passe la certification",
-    "startTime": "16:30",
-    "endTime": "17:15",
     "startDate": "2018-10-18T16:30:00+02:00",
     "endDate": "2018-10-18T17:15:00+02:00",
     "lang": "FR_fr",
@@ -283,8 +245,6 @@
   },
   {
     "name": "Les enjeux du e-commerce : faire face à la concurrence d'Amazon",
-    "startTime": "16:30",
-    "endTime": "17:15",
     "startDate": "2018-10-18T16:30:00+02:00",
     "endDate": "2018-10-18T17:15:00+02:00",
     "lang": "FR_fr",
@@ -295,8 +255,6 @@
   },
   {
     "name": "Table ronde : la conduite du changement, une clé pour réussir sa transition vers le cloud",
-    "startTime": "16:30",
-    "endTime": "17:15",
     "startDate": "2018-10-18T16:30:00+02:00",
     "endDate": "2018-10-18T17:15:00+02:00",
     "lang": "FR_fr",
@@ -307,8 +265,6 @@
   },
   {
     "name": "OVH en mode SaaS : retour d'expérience d’un éditeur de logiciel",
-    "startTime": "16:30",
-    "endTime": "17:15",
     "startDate": "2018-10-18T16:30:00+02:00",
     "endDate": "2018-10-18T17:15:00+02:00",
     "lang": "FR_fr",
@@ -319,8 +275,6 @@
   },
   {
     "name": "« A journey to the cloud » : commencer à migrer son on-premises grâce à Private Cloud",
-    "startTime": "16:30",
-    "endTime": "17:15",
     "startDate": "2018-10-18T16:30:00+02:00",
     "endDate": "2018-10-18T17:15:00+02:00",
     "lang": "EN_en",
@@ -331,8 +285,6 @@
   },
   {
     "name": "Private Cloud - lab avancé : migrer et sécuriser ses workloads",
-    "startTime": "16:30",
-    "endTime": "18:00",
     "startDate": "2018-10-18T16:30:00+02:00",
     "endDate": "2018-10-18T18:00:00+02:00",
     "lang": "FR_fr",
@@ -343,8 +295,6 @@
   },
   {
     "name": "Quels services OVH sont disponibles aux États-Unis et comment en profiter ?",
-    "startTime": "17:30",
-    "endTime": "18:15",
     "startDate": "2018-10-18T17:30:00+02:00",
     "endDate": "2018-10-18T18:15:00+02:00",
     "lang": "EN_en",
@@ -355,8 +305,6 @@
   },
   {
     "name": "Créer facilement des tableaux de bord pour administrer vos bases de données avec OVH",
-    "startTime": "17:30",
-    "endTime": "18:15",
     "startDate": "2018-10-18T17:30:00+02:00",
     "endDate": "2018-10-18T18:15:00+02:00",
     "lang": "FR_fr",
@@ -367,8 +315,6 @@
   },
   {
     "name": "Les avantages liés aux configurations des infrastructures Arista / OVH et les technologies de construction et d’exploitation de DC",
-    "startTime": "17:30",
-    "endTime": "18:15",
     "startDate": "2018-10-18T17:30:00+02:00",
     "endDate": "2018-10-18T18:15:00+02:00",
     "lang": "FR_fr",
@@ -379,8 +325,6 @@
   },
   {
     "name": "Développer sa présence numérique grâce à Visibilité Pro",
-    "startTime": "17:30",
-    "endTime": "18:15",
     "startDate": "2018-10-18T17:30:00+02:00",
     "endDate": "2018-10-18T18:15:00+02:00",
     "lang": "FR_fr",
