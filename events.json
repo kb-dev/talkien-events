@@ -98,5 +98,29 @@
     "bookingUrl": "https://devfest.gdgparis.com/",
     "topics": ["Cloud", "Web"],
     "colors": ["#9E1EF3", "#673ab7"]
+  },
+  {
+    "name": "DevFest du Bout du Monde",
+    "id": "devfest-brest-2019",
+    "startDate": "2019-22-02T09:00:00+01:00",
+    "endDate": "2019-22-02T18:00:00+01:00",
+    "address": "Faculté des Lettres et Sciences Humaines de l'UBO",
+    "fullAddress": "20 Rue Duquesne, 29238 Brest",
+    "location": {
+      "latitude": 48.391699,
+      "longitude": -4.488311
+    },
+    "logo": null,
+    "description": "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant.e.s, aux professionnels ou tout simplement aux curieux et curieuses technophiles.",
+    "longDescription": "",
+    "url": "https://devfestbdm.firebaseapp.com/",
+    "bookingUrl": "https://devfestbdm.firebaseapp.com/",
+    "topics": [
+      "Web",
+      "Nouvelles technologies",
+      "Développement",
+      "Architecture"
+    ],
+    "colors": ["#512DA8", "#673AB7"]
   }
 ]
