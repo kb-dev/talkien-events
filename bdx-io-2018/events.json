@@ -10,19 +10,14 @@
     "description": "La keynote d'ouverture",
     "speakers": [
       {
-        "name": "Team BDX I/O",
-        "lastName": "BDX I/O"
+        "name": "Team BDX I/O"
       }
     ],
     "location": "Grand Amphi",
     "startDate": "2018-11-09T08:00:00.000Z",
     "endDate": "2018-11-09T09:00:00.000Z",
     "category": "Keynote",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Pause courte",
@@ -37,22 +32,16 @@
       {
         "name": "David Gageot",
         "company": "Google",
-        "social": [
-          {
-            "twitter": "@dgageot"
-          }
-        ]
+        "social": {
+          "twitter": "@dgageot"
+        }
       }
     ],
     "location": "Grand Amphi",
     "startDate": "2018-11-09T09:15:00.000Z",
     "endDate": "2018-11-09T10:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "Faut-il pousser mémé dans les applis ?",
@@ -61,22 +50,16 @@
       {
         "name": "Arthur Retrou",
         "company": "Dernier Cri",
-        "social": [
-          {
-            "twitter": "@derniercriio"
-          }
-        ]
+        "social": {
+          "twitter": "@derniercriio"
+        }
       }
     ],
     "location": "Amphi A",
     "startDate": "2018-11-09T09:15:00.000Z",
     "endDate": "2018-11-09T10:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Design",
-      "UI",
-      "UX"
-    ]
+    "tags": ["Design", "UI", "UX"]
   },
   {
     "name": "Linuxkit : le linux façon ikea",
@@ -85,29 +68,23 @@
       {
         "name": "Pierre-Yves Aillet",
         "company": "Zenika",
-        "social": [
-          {
-            "twitter": "@pyaillet"
-          }
-        ]
+        "social": {
+          "twitter": "@pyaillet"
+        }
       },
       {
         "name": "Eric Briand",
         "company": "Zenika",
-        "social": [
-          {
-            "twitter": "@eric_briand"
-          }
-        ]
+        "social": {
+          "twitter": "@eric_briand"
+        }
       }
     ],
     "location": "Amphi B",
     "startDate": "2018-11-09T09:15:00.000Z",
     "endDate": "2018-11-09T10:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Tooling"
-    ]
+    "tags": ["Tooling"]
   },
   {
     "name": "Van Gogh à la rencontre les réseaux de neurones ",
@@ -116,11 +93,9 @@
       {
         "name": "Paul Breton",
         "company": "BeTomorrow",
-        "social": [
-          {
-            "twitter": "@PaulRavB"
-          }
-        ]
+        "social": {
+          "twitter": "@PaulRavB"
+        }
       },
       {
         "name": "Laurent Alvaro",
@@ -131,9 +106,7 @@
     "startDate": "2018-11-09T09:15:00.000Z",
     "endDate": "2018-11-09T10:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "IoT"
-    ]
+    "tags": ["IoT"]
   },
   {
     "name": "Architecture Zero Knowledge",
@@ -142,22 +115,16 @@
       {
         "name": "m4dz Matthias Dugué",
         "company": "alwaysdata",
-        "social": [
-          {
-            "twitter": "@m4d_z"
-          }
-        ]
+        "social": {
+          "twitter": "@m4d_z"
+        }
       }
     ],
     "location": "Amphi E",
     "startDate": "2018-11-09T09:15:00.000Z",
     "endDate": "2018-11-09T10:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "D'une architecture web MVC à une architecture clean hexagonale",
@@ -166,22 +133,16 @@
       {
         "name": "Céline GILET",
         "company": "Octo Technology",
-        "social": [
-          {
-            "twitter": "@celinegilet"
-          }
-        ]
+        "social": {
+          "twitter": "@celinegilet"
+        }
       }
     ],
     "location": "Amphi C",
     "startDate": "2018-11-09T09:15:00.000Z",
     "endDate": "2018-11-09T11:00:00.000Z",
     "category": "Hand's on Labs",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Pause courte",
@@ -196,11 +157,9 @@
       {
         "name": "Xavier Blanc",
         "company": "Université de Bordeaux / ProMyze",
-        "social": [
-          {
-            "twitter": "@xblanc"
-          }
-        ]
+        "social": {
+          "twitter": "@xblanc"
+        }
       },
       {
         "name": "Sébastien Pannetier",
@@ -211,11 +170,7 @@
     "startDate": "2018-11-09T10:15:00.000Z",
     "endDate": "2018-11-09T11:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Construire des apps intelligentes grâce au Machine Learning, de la magie à la réalité",
@@ -224,22 +179,16 @@
       {
         "name": "Laurent Picard",
         "company": "Google",
-        "social": [
-          {
-            "twitter": "@PicardParis"
-          }
-        ]
+        "social": {
+          "twitter": "@PicardParis"
+        }
       }
     ],
     "location": "Amphi A",
     "startDate": "2018-11-09T10:15:00.000Z",
     "endDate": "2018-11-09T11:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "Haxe 2018 : plus t'en mets plus t'en as",
@@ -248,22 +197,16 @@
       {
         "name": "David Mouton",
         "company": "onepoint",
-        "social": [
-          {
-            "twitter": "@damoebius"
-          }
-        ]
+        "social": {
+          "twitter": "@damoebius"
+        }
       }
     ],
     "location": "Amphi B",
     "startDate": "2018-11-09T10:15:00.000Z",
     "endDate": "2018-11-09T11:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Frontend Web",
-      "Mobile",
-      "Video games"
-    ]
+    "tags": ["Frontend Web", "Mobile", "Video games"]
   },
   {
     "name": "Application Performance Monitoring pour vos projets Java",
@@ -272,20 +215,16 @@
       {
         "name": "David Pilato",
         "company": "elastic",
-        "social": [
-          {
-            "twitter": "@dadoonet"
-          }
-        ]
+        "social": {
+          "twitter": "@dadoonet"
+        }
       }
     ],
     "location": "Amphi D",
     "startDate": "2018-11-09T10:15:00.000Z",
     "endDate": "2018-11-09T11:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Tooling"
-    ]
+    "tags": ["Tooling"]
   },
   {
     "name": "MongoDB : optimisez votre indexation",
@@ -294,22 +233,16 @@
       {
         "name": "Nicolas Humblot",
         "company": "Renault",
-        "social": [
-          {
-            "twitter": "@nicolashumblot"
-          }
-        ]
+        "social": {
+          "twitter": "@nicolashumblot"
+        }
       }
     ],
     "location": "Amphi E",
     "startDate": "2018-11-09T10:15:00.000Z",
     "endDate": "2018-11-09T11:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "Pause déjeuner",
@@ -324,22 +257,16 @@
       {
         "name": "Benoît Prioux",
         "company": "Lectra",
-        "social": [
-          {
-            "twitter": "@binout"
-          }
-        ]
+        "social": {
+          "twitter": "@binout"
+        }
       }
     ],
     "location": "Grand Amphi",
     "startDate": "2018-11-09T11:45:00.000Z",
     "endDate": "2018-11-09T12:00:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Tests auto en Java : une richesse méconnue !",
@@ -348,20 +275,16 @@
       {
         "name": "Jean-Baptiste Hembise",
         "company": "Ekino",
-        "social": [
-          {
-            "twitter": "@HembiseJb"
-          }
-        ]
+        "social": {
+          "twitter": "@HembiseJb"
+        }
       }
     ],
     "location": "Amphi A",
     "startDate": "2018-11-09T11:45:00.000Z",
     "endDate": "2018-11-09T12:00:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Tooling"
-    ]
+    "tags": ["Tooling"]
   },
   {
     "name": "Fastlane : automatisez le déploiement de vos applis mobiles sur les stores",
@@ -370,22 +293,16 @@
       {
         "name": "Elian ORIOU",
         "company": "4SH FRANCE",
-        "social": [
-          {
-            "twitter": "@eoriou"
-          }
-        ]
+        "social": {
+          "twitter": "@eoriou"
+        }
       }
     ],
     "location": "Amphi B",
     "startDate": "2018-11-09T11:45:00.000Z",
     "endDate": "2018-11-09T12:00:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Frontend Web",
-      "Mobile",
-      "Video games"
-    ]
+    "tags": ["Frontend Web", "Mobile", "Video games"]
   },
   {
     "name": "Design & accessibilité numérique, je t’aime, moi non plus…",
@@ -394,22 +311,16 @@
       {
         "name": "Julie Guillerm",
         "company": "Capgemini",
-        "social": [
-          {
-            "twitter": "JuGuillerm"
-          }
-        ]
+        "social": {
+          "twitter": "@JuGuillerm"
+        }
       }
     ],
     "location": "Amphi D",
     "startDate": "2018-11-09T11:45:00.000Z",
     "endDate": "2018-11-09T12:00:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Design",
-      "UI",
-      "UX"
-    ]
+    "tags": ["Design", "UI", "UX"]
   },
   {
     "name": "Étendre VS Code, ou comment se créer un back-office en 10 min",
@@ -418,20 +329,16 @@
       {
         "name": "Joan Rieu",
         "company": "Lectra",
-        "social": [
-          {
-            "twitter": "@joanrieu"
-          }
-        ]
+        "social": {
+          "twitter": "@joanrieu"
+        }
       }
     ],
     "location": "Amphi E",
     "startDate": "2018-11-09T11:45:00.000Z",
     "endDate": "2018-11-09T12:00:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Tooling"
-    ]
+    "tags": ["Tooling"]
   },
   {
     "name": "Pause courte",
@@ -446,30 +353,22 @@
       {
         "name": "Mickael Metesreau",
         "company": "Softcraft",
-        "social": [
-          {
-            "twitter": "MiKaDo_O"
-          }
-        ]
+        "social": {
+          "twitter": "@MiKaDo_O"
+        }
       },
       {
         "name": "Raphaël Wach",
-        "social": [
-          {
-            "twitter": "@raphaelwach"
-          }
-        ]
+        "social": {
+          "twitter": "@raphaelwach"
+        }
       }
     ],
     "location": "Amphi C",
     "startDate": "2018-11-09T12:15:00.000Z",
     "endDate": "2018-11-09T14:00:00.000Z",
     "category": "Hand's on Labs",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Property Based Testing : La vérité vraie !",
@@ -478,22 +377,16 @@
       {
         "name": "Benoît Prioux",
         "company": "Lectra",
-        "social": [
-          {
-            "twitter": "@binout"
-          }
-        ]
+        "social": {
+          "twitter": "@binout"
+        }
       }
     ],
     "location": "Grand Amphi",
     "startDate": "2018-11-09T12:15:00.000Z",
     "endDate": "2018-11-09T12:30:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "UN JOB À VIE ?",
@@ -502,22 +395,16 @@
       {
         "name": "Maxime André",
         "company": "Zenika",
-        "social": [
-          {
-            "twitter": "@thatsmax"
-          }
-        ]
+        "social": {
+          "twitter": "@thatsmax"
+        }
       }
     ],
     "location": "Amphi A",
     "startDate": "2018-11-09T12:15:00.000Z",
     "endDate": "2018-11-09T12:30:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Détectez et trackez les vulnerabilités qui se cachent dans vos dépendances",
@@ -526,20 +413,16 @@
       {
         "name": "Julien Topçu",
         "company": "Société Générale & OWASP fundation",
-        "social": [
-          {
-            "twitter": "@JulienTopcu"
-          }
-        ]
+        "social": {
+          "twitter": "@JulienTopcu"
+        }
       }
     ],
     "location": "Amphi B",
     "startDate": "2018-11-09T12:15:00.000Z",
     "endDate": "2018-11-09T12:30:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Tooling"
-    ]
+    "tags": ["Tooling"]
   },
   {
     "name": "Design + Code = <3",
@@ -548,22 +431,16 @@
       {
         "name": "Pierre Ragois",
         "company": "Kuroneko, Inc",
-        "social": [
-          {
-            "twitter": "@vpierrev"
-          }
-        ]
+        "social": {
+          "twitter": "@vpierrev"
+        }
       }
     ],
     "location": "Amphi D",
     "startDate": "2018-11-09T12:15:00.000Z",
     "endDate": "2018-11-09T12:30:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Design",
-      "UI",
-      "UX"
-    ]
+    "tags": ["Design", "UI", "UX"]
   },
   {
     "name": "Lost in serverless: AWS Lambda, Google Cloud Function, Azure Function quelle solution pour mes besoins !",
@@ -572,22 +449,16 @@
       {
         "name": "Sebastien Moreno",
         "company": "Ippon Technologies",
-        "social": [
-          {
-            "twitter": "@sebastienmoreno"
-          }
-        ]
+        "social": {
+          "twitter": "@sebastienmoreno"
+        }
       }
     ],
     "location": "Amphi E",
     "startDate": "2018-11-09T12:15:00.000Z",
     "endDate": "2018-11-09T12:30:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "Pause courte",
@@ -602,22 +473,16 @@
       {
         "name": "Nicolas Lepage",
         "company": "Zenika",
-        "social": [
-          {
-            "twitter": "@njblepage"
-          }
-        ]
+        "social": {
+          "twitter": "@njblepage"
+        }
       }
     ],
     "location": "Grand Amphi",
     "startDate": "2018-11-09T12:45:00.000Z",
     "endDate": "2018-11-09T13:00:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "A case for Web Assembly",
@@ -626,22 +491,16 @@
       {
         "name": "Elvina Valieva",
         "company": "PeopleDoc",
-        "social": [
-          {
-            "twitter": "elvinanananana"
-          }
-        ]
+        "social": {
+          "twitter": "@elvinanananana"
+        }
       }
     ],
     "location": "Amphi A",
     "startDate": "2018-11-09T12:45:00.000Z",
     "endDate": "2018-11-09T13:00:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Frontend Web",
-      "Mobile",
-      "Video games"
-    ]
+    "tags": ["Frontend Web", "Mobile", "Video games"]
   },
   {
     "name": "Développeurs, n'estimez plus vos tâches ! #noEstimates",
@@ -650,22 +509,16 @@
       {
         "name": "Julien Topçu",
         "company": "Société Générale & OWASP fundation",
-        "social": [
-          {
-            "twitter": "@JulienTopcu"
-          }
-        ]
+        "social": {
+          "twitter": "@JulienTopcu"
+        }
       }
     ],
     "location": "Amphi B",
     "startDate": "2018-11-09T12:45:00.000Z",
     "endDate": "2018-11-09T13:00:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Ami développeur, deviens un Ops sans effort avec Ansible",
@@ -674,20 +527,16 @@
       {
         "name": "Denis GERMAIN",
         "company": "Lectra",
-        "social": [
-          {
-            "twitter": "@zwindler_rflx"
-          }
-        ]
+        "social": {
+          "twitter": "@zwindler_rflx"
+        }
       }
     ],
     "location": "Amphi D",
     "startDate": "2018-11-09T12:45:00.000Z",
     "endDate": "2018-11-09T13:00:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Tooling"
-    ]
+    "tags": ["Tooling"]
   },
   {
     "name": "Faire le choix de la qualité pour améliorer la vélocité de votre équipe",
@@ -702,11 +551,7 @@
     "startDate": "2018-11-09T12:45:00.000Z",
     "endDate": "2018-11-09T13:00:00.000Z",
     "category": "Lightning talk",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Pause courte",
@@ -721,31 +566,23 @@
       {
         "name": "Thomas PIERRAIN",
         "company": "42skillz",
-        "social": [
-          {
-            "twitter": "@tpierrain"
-          }
-        ]
+        "social": {
+          "twitter": "@tpierrain"
+        }
       },
       {
         "name": "bruno boucard",
         "company": "42skilllz",
-        "social": [
-          {
-            "twitter": "brunoboucard"
-          }
-        ]
+        "social": {
+          "twitter": "@brunoboucard"
+        }
       }
     ],
     "location": "Grand Amphi",
     "startDate": "2018-11-09T13:15:00.000Z",
     "endDate": "2018-11-09T14:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "La Réalité Virtuelle : du Jeux Vidéo mais pas que ....",
@@ -754,20 +591,16 @@
       {
         "name": "Cédric PRUDENT",
         "company": "CONSERTO",
-        "social": [
-          {
-            "twitter": "@CedricPrudent"
-          }
-        ]
+        "social": {
+          "twitter": "@CedricPrudent"
+        }
       }
     ],
     "location": "Amphi A",
     "startDate": "2018-11-09T13:15:00.000Z",
     "endDate": "2018-11-09T14:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "IoT"
-    ]
+    "tags": ["IoT"]
   },
   {
     "name": "Développement de microservices REST ultra léger en pur Kotlin",
@@ -776,22 +609,16 @@
       {
         "name": "Xavier Hanin",
         "company": "4SH",
-        "social": [
-          {
-            "twitter": "@xavierhanin"
-          }
-        ]
+        "social": {
+          "twitter": "@xavierhanin"
+        }
       }
     ],
     "location": "Amphi B",
     "startDate": "2018-11-09T13:15:00.000Z",
     "endDate": "2018-11-09T14:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "UX is a team discipline",
@@ -800,11 +627,9 @@
       {
         "name": "Dragana Trgovcevic",
         "company": "Fabernovel Technologies",
-        "social": [
-          {
-            "twitter": "@draga_t"
-          }
-        ]
+        "social": {
+          "twitter": "@draga_t"
+        }
       },
       {
         "name": "Marie Desnos",
@@ -815,11 +640,7 @@
     "startDate": "2018-11-09T13:15:00.000Z",
     "endDate": "2018-11-09T14:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Design",
-      "UI",
-      "UX"
-    ]
+    "tags": ["Design", "UI", "UX"]
   },
   {
     "name": "Quand performance, scalabilité et robustesse bousculent votre architecture et vos habitudes de développement",
@@ -828,22 +649,16 @@
       {
         "name": "Céline GILET",
         "company": "Octo Technology",
-        "social": [
-          {
-            "twitter": "@celinegilet"
-          }
-        ]
+        "social": {
+          "twitter": "@celinegilet"
+        }
       }
     ],
     "location": "Amphi E",
     "startDate": "2018-11-09T13:15:00.000Z",
     "endDate": "2018-11-09T14:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "Pause courte",
@@ -858,22 +673,16 @@
       {
         "name": "Julien Carnelos",
         "company": "Pole Emploi DSI",
-        "social": [
-          {
-            "twitter": "@juliencarnelos"
-          }
-        ]
+        "social": {
+          "twitter": "@juliencarnelos"
+        }
       }
     ],
     "location": "Grand Amphi",
     "startDate": "2018-11-09T14:15:00.000Z",
     "endDate": "2018-11-09T15:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Vanilla JS 2018",
@@ -882,22 +691,16 @@
       {
         "name": "Matthieu Lux",
         "company": "Zenika",
-        "social": [
-          {
-            "twitter": "@Swiip"
-          }
-        ]
+        "social": {
+          "twitter": "@Swiip"
+        }
       }
     ],
     "location": "Amphi A",
     "startDate": "2018-11-09T14:15:00.000Z",
     "endDate": "2018-11-09T15:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Frontend Web",
-      "Mobile",
-      "Video games"
-    ]
+    "tags": ["Frontend Web", "Mobile", "Video games"]
   },
   {
     "name": "Product Manager, un métier d’interfaces",
@@ -906,11 +709,9 @@
       {
         "name": "Claire Dufetrelle",
         "company": "FABERNOVEL TECHNOLOGIES",
-        "social": [
-          {
-            "twitter": "@claire_duf"
-          }
-        ]
+        "social": {
+          "twitter": "@claire_duf"
+        }
       },
       {
         "name": "Lauren Durand",
@@ -921,11 +722,7 @@
     "startDate": "2018-11-09T14:15:00.000Z",
     "endDate": "2018-11-09T15:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Ceinture noire Karate en tests d’API REST",
@@ -934,29 +731,23 @@
       {
         "name": "Nicolas Comet",
         "company": "Lectra",
-        "social": [
-          {
-            "twitter": "@NicolasComet"
-          }
-        ]
+        "social": {
+          "twitter": "@NicolasComet"
+        }
       },
       {
         "name": "Benoît Prioux",
         "company": "Lectra",
-        "social": [
-          {
-            "twitter": "@binout"
-          }
-        ]
+        "social": {
+          "twitter": "@binout"
+        }
       }
     ],
     "location": "Amphi D",
     "startDate": "2018-11-09T14:15:00.000Z",
     "endDate": "2018-11-09T15:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Tooling"
-    ]
+    "tags": ["Tooling"]
   },
   {
     "name": "Mon premier service en Rust",
@@ -965,22 +756,16 @@
       {
         "name": "Francois Teychene",
         "company": "Saagie",
-        "social": [
-          {
-            "twitter": "@fteychene"
-          }
-        ]
+        "social": {
+          "twitter": "@fteychene"
+        }
       }
     ],
     "location": "Amphi E",
     "startDate": "2018-11-09T14:15:00.000Z",
     "endDate": "2018-11-09T15:00:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "Redécouvrez l'univers connu avec des datasets de la NASA",
@@ -989,39 +774,29 @@
       {
         "name": "Aurélien Hébert",
         "company": "OVH",
-        "social": [
-          {
-            "twitter": "@AurrelH95"
-          }
-        ]
+        "social": {
+          "twitter": "@AurrelH95"
+        }
       },
       {
         "name": "Emmanuel Feller",
-        "social": [
-          {
-            "twitter": "@moyowi"
-          }
-        ]
+        "social": {
+          "twitter": "@moyowi"
+        }
       },
       {
         "name": "Pierre Zemb",
         "company": "OVH",
-        "social": [
-          {
-            "twitter": "PierreZ"
-          }
-        ]
+        "social": {
+          "twitter": "PierreZ"
+        }
       }
     ],
     "location": "Amphi C",
     "startDate": "2018-11-09T14:15:00.000Z",
     "endDate": "2018-11-09T16:00:00.000Z",
     "category": "Hand's on Labs",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "Pause café",
@@ -1036,22 +811,16 @@
       {
         "name": "Fabien Lamarque",
         "company": "Guarani Atlantique",
-        "social": [
-          {
-            "twitter": "@Fabinout"
-          }
-        ]
+        "social": {
+          "twitter": "@Fabinout"
+        }
       }
     ],
     "location": "Grand Amphi",
     "startDate": "2018-11-09T15:30:00.000Z",
     "endDate": "2018-11-09T16:15:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Le Natural Language Processing illustré avec Python",
@@ -1066,11 +835,7 @@
     "startDate": "2018-11-09T15:30:00.000Z",
     "endDate": "2018-11-09T16:15:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "Bug-free by design",
@@ -1079,22 +844,16 @@
       {
         "name": "Jordane Grenat",
         "company": "Viseo",
-        "social": [
-          {
-            "twitter": "@JoGrenat"
-          }
-        ]
+        "social": {
+          "twitter": "@JoGrenat"
+        }
       }
     ],
     "location": "Amphi B",
     "startDate": "2018-11-09T15:30:00.000Z",
     "endDate": "2018-11-09T16:15:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "La sécurité dans une architecture microservices ? Pas de soucis !",
@@ -1103,31 +862,23 @@
       {
         "name": "Florian Garcia",
         "company": "Ippon Technologies",
-        "social": [
-          {
-            "twitter": "@im_flog"
-          }
-        ]
+        "social": {
+          "twitter": "@im_flog"
+        }
       },
       {
         "name": "Vivien MALEZE",
         "company": "Ippon Technology",
-        "social": [
-          {
-            "twitter": "@vmaleze"
-          }
-        ]
+        "social": {
+          "twitter": "@vmaleze"
+        }
       }
     ],
     "location": "Amphi D",
     "startDate": "2018-11-09T15:30:00.000Z",
     "endDate": "2018-11-09T16:15:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   },
   {
     "name": "Embarquez vos réseaux de neurones avec le Neural Compute Stick",
@@ -1136,22 +887,16 @@
       {
         "name": "Géraud Dugé de Bernonville",
         "company": "zenika",
-        "social": [
-          {
-            "twitter": "@geraudster"
-          }
-        ]
+        "social": {
+          "twitter": "@geraudster"
+        }
       }
     ],
     "location": "Amphi E",
     "startDate": "2018-11-09T15:30:00.000Z",
     "endDate": "2018-11-09T16:15:00.000Z",
     "category": "Conference",
-    "tags": [
-      "Backend",
-      "Cloud",
-      "Big Data"
-    ]
+    "tags": ["Backend", "Cloud", "Big Data"]
   },
   {
     "name": "Pause courte",
@@ -1164,18 +909,13 @@
     "description": "La keynote de fermeture",
     "speakers": [
       {
-        "name": "Team BDX I/O",
-        "lastName": "BDX I/O"
+        "name": "Team BDX I/O"
       }
     ],
     "location": "Grand Amphi",
     "startDate": "2018-11-09T16:30:00.000Z",
     "endDate": "2018-11-09T17:15:00.000Z",
     "category": "Keynote",
-    "tags": [
-      "Conception",
-      "Architecture",
-      "Dev practices"
-    ]
+    "tags": ["Conception", "Architecture", "Dev practices"]
   }
 ]
