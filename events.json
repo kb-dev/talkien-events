@@ -122,5 +122,24 @@
       "Architecture"
     ],
     "colors": ["#512DA8", "#673AB7"]
+  },
+  {
+    "name": "MobileOne",
+    "id": "mobile-one-2019",
+    "startDate": "2019-11-13T09:00:00+01:00",
+    "endDate": "2019-11-14T19:00:00+01:00",
+    "address": "Les Docks de Paris",
+    "fullAddress": "87 Avenue des Magasins Généraux, 93300 Aubervilliers",
+    "location": {
+      "latitude": 48.9028337,
+      "longitude": 2.3661149
+    },
+    "logo": null,
+    "description": "Previously AppDays, the European Mobile Conference in Paris",
+    "longDescription": "",
+    "url": "https://www.mobile.one/",
+    "bookingUrl": "https://www.mobile.one/",
+    "topics": ["Mobile", "Applications"],
+    "colors": ["#512DA8", "#673AB7"]
   }
 ]
