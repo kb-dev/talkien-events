@@ -83,7 +83,7 @@
   {
     "name": "GDG DevFest Paris 2019",
     "id": "gdg-devfest-paris-2019",
-    "startDate": "2019-02-02T08:30:00+02:00",
+    "startDate": "2019-02-08T08:30:00+02:00",
     "endDate": "2019-02-08T18:00:00+02:00",
     "address": "La Grande Crypte, Paris",
     "fullAddress": "69 bis Rue Boissière, 75016 Paris",
@@ -94,8 +94,8 @@
     "logo": null,
     "description": "",
     "longDescription": "",
-    "url": "https://devfest.gdgparis.com/",
-    "bookingUrl": "https://devfest.gdgparis.com/",
+    "url": "https://devfest-paris-2019.firebaseapp.com",
+    "bookingUrl": "https://devfest-paris-2019.firebaseapp.com",
     "topics": ["Cloud", "Web"],
     "colors": ["#9E1EF3", "#673ab7"]
   },
