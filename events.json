@@ -124,10 +124,29 @@
     "colors": ["#512DA8", "#673AB7"]
   },
   {
+    "name": "Paris Web 2019",
+    "id": "paris-web-2019",
+    "startDate": "2018-10-10T08:30:00+02:00",
+    "endDate": "2018-10-12T18:00:00+02:00",
+    "address": "IBM Client Paris",
+    "fullAddress": "17 avenue de l’Europe, 92270 Bois-Colombes",
+    "location": {
+      "latitude": 48.90547,
+      "longitude": 2.26278
+    },
+    "logo": null,
+    "description": "",
+    "longDescription": "",
+    "url": "https://www.paris-web.fr/",
+    "bookingUrl": "https://www.paris-web.fr/",
+    "topics": ["Web", "Accessibilité", "Design", "Qualité"],
+    "colors": ["#ae49c4", "#5224d8"]
+  },
+  {
     "name": "MobileOne",
     "id": "mobile-one-2019",
-    "startDate": "2019-11-13T09:00:00+01:00",
-    "endDate": "2019-11-14T19:00:00+01:00",
+    "startDate": "2019-11-13T09:00:00+02:00",
+    "endDate": "2019-11-14T19:00:00+02:00",
     "address": "Les Docks de Paris",
     "fullAddress": "87 Avenue des Magasins Généraux, 93300 Aubervilliers",
     "location": {
