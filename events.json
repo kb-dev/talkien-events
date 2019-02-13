@@ -160,5 +160,24 @@
     "bookingUrl": "https://www.mobile.one/",
     "topics": ["Mobile", "Applications"],
     "colors": ["#af3969", "#011e78"]
+  },
+  {
+    "name": "Devoxx France",
+    "id": "devoxx-france-2019",
+    "startDate": "2019-04-17T09:00:00+02:00",
+    "endDate": "2019-04-19T19:00:00+02:00",
+    "address": "Palais des Congrès, Paris",
+    "fullAddress": "2 Place de la Porte Maillot, 75017 Paris",
+    "location": {
+      "latitude": 48.878173,
+      "longitude": 2.289484
+    },
+    "logo": null,
+    "description": "La conférence pour les Développeurs Passionnés",
+    "longDescription": "Devoxx France est une conférence en 2 temps forts, sur 3 jours. La première journée, appelée \"University\", vous permet d'assister à des présentations longues et de participer à des ateliers. Par exemple une session sur Docker, puis un atelier sur React ou Kotlin et enfin des présentations d'outils en fin de journée.\nLe jeudi et le vendredi, Devoxx France propose d'abord des Keynotes (plénières) autour d'orateurs préstigieux, puis ensuite un cycle de conférences, toutes les de 50 mn. Vous pouvez ainsi construire votre propre agenda et suivre différentes sessions selon vos envies.\nIssue de la communauté Java, Devoxx France s'est ouvert au fil des ans et accueille les développeurs en général. Du Web à la Sécurité, en passant par le Cloud Computing, notre comité de sélection trie et sélectionne 230 à 250 propositions de présentation, sur 900 candidatures.\nDevoxx France fait partie de la famille des conférences Devoxx (Belgique, Angleterre, Pologne, Maroc et Ukraine). Notre communauté regroupe plus de 10 000 dévelopeurs à travers le monde",
+    "url": "https://www.devoxx.fr",
+    "bookingUrl": "https://reg.devoxx.fr",
+    "topics": ["Mobile", "Applications", "Web", "Cloud", "Développement", "Logiciel"],
+    "colors": ["#ee163b", "#131b26"]
   }
 ]
