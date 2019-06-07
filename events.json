@@ -412,5 +412,34 @@
       "Video Games"
     ],
     "colors": ["#fca800", "#ce300d"]
+  },
+  {
+    "name": "Jug Summer Camp",
+    "id": "jug-summer-camp-2019",
+    "startDate": "2019-09-13T08:30:00+02:00",
+    "endDate": "2019-09-13T19:00:00+02:00",
+    "address": "Espace Encan, La Rochelle",
+    "fullAddress": "Quai Louis Prunier, 17000 La Rochelle",
+    "location": {
+      "latitude": 44.8882631,
+      "longitude": -0.5672316
+    },
+    "logo": null,
+    "description": "",
+    "longDescription": "",
+    "url": "http://www.jugsummercamp.org/edition/10",
+    "bookingUrl": "",
+    "topics": [
+      "Architecture",
+      "Web",
+      "Design",
+      "UI & UX",
+      "Cloud",
+      "BigData",
+      "Tooling",
+      "IoT",
+      "Machine Learning"
+    ],
+    "colors": ["#a3d9e6", "#eb643b"]
   }
 ]
