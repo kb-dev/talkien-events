@@ -270,7 +270,7 @@
       "IA",
       "Languages"
     ],
-    "colors": ["#ffffff", "#673ab7"]
+    "colors": ["#673ab7", "#000000"]
   },
   {
     "name": "Forum PHP 2019",
@@ -327,7 +327,7 @@
     "url": "https://www.dotcss.io",
     "bookingUrl": "https://www.dotcss.io/tickets",
     "topics": ["Web", "Design", "CSS"],
-    "colors": ["#ffffff", "#fadf1d"]
+    "colors": ["#fadf1d", "#000000"]
   },
   {
     "name": "Paris Open Source Summit",
@@ -361,7 +361,7 @@
       "IA",
       "Infrastructure"
     ],
-    "colors": ["#f9f9f9", "#407892"]
+    "colors": ["#407892", "#000000"]
   },
   {
     "name": "dotJS",
@@ -380,6 +380,37 @@
     "url": "https://www.dotjs.io",
     "bookingUrl": "https://www.dotjs.io/tickets",
     "topics": ["Web", "JavaScript"],
-    "colors": ["#ffffff", "#fadf1d"]
+    "colors": ["#fadf1d", "#000000"]
+  },
+  {
+    "name": "BDX I/O 2019",
+    "id": "bdx-io-2019",
+    "startDate": "2019-11-15T08:30:00+02:00",
+    "endDate": "2019-11-15T19:15:00+02:00",
+    "address": "Palais des Congrès, Bordeaux",
+    "fullAddress": "Avenue Jean Gabriel Domergue, 33300 Bordeaux",
+    "location": {
+      "latitude": 44.8882631,
+      "longitude": -0.5672316
+    },
+    "logo": "https://www.bdx.io/img/png/logo_white.png",
+    "description": "BDX I/O est une conférence sur le thème de la programmation et de ses métiers annexes. Pour cette sixième édition, nous recevrons plus de 900 passioné·e·s pour une nouvelle journée de découverte dans la bonne humeur !!!",
+    "longDescription": "",
+    "url": "https://www.bdx.io",
+    "bookingUrl": "https://www.billetweb.fr/shop.php?event=bdx-i-o-2019",
+    "topics": [
+      "Web",
+      "Nouvelles technologies",
+      "Développement",
+      "Architecture",
+      "Design",
+      "UI & UX",
+      "Cloud",
+      "BigData",
+      "Tooling",
+      "IoT",
+      "Video Games"
+    ],
+    "colors": ["#fca800", "#ce300d"]
   }
 ]
