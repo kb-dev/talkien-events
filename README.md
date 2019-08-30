@@ -1,4 +1,4 @@
-# talkien-events
+<p align="center"><img align="center" src="banner.png"/></p><br/>
 
 Repository used by Talkien for fetching data.
 
@@ -32,7 +32,7 @@ In `<root>/events.json`, add an entry with the following structure :
   }
 ```
 
-### Add a schedule
+### Add a schedule / a talk
 
 You're a brave people. The job is a bit long, but it will be cool when you'll see the result.
 
@@ -69,13 +69,14 @@ You need to create an new file in `<root>/<id-of-your-event>/events.json`. Next,
 ```
 
 #### Date Format
-*YYYY-MM-DDThh:mm:ss.sTZD*
+
+_YYYY-MM-DDThh:mm:ss.sTZD_
 where:
-     YYYY = four-digit year
-     MM   = two-digit month (01=January, etc.)
-     DD   = two-digit day of month (01 through 31)
-     hh   = two digits of hour (00 through 23) (am/pm NOT allowed)
-     mm   = two digits of minute (00 through 59)
-     ss   = two digits of second (00 through 59)
-     s    = one or more digits representing a decimal fraction of a second
-     TZD  = time zone designator (Z or +hh:mm or -hh:mm)
+YYYY = four-digit year
+MM = two-digit month (01=January, etc.)
+DD = two-digit day of month (01 through 31)
+hh = two digits of hour (00 through 23) (am/pm NOT allowed)
+mm = two digits of minute (00 through 59)
+ss = two digits of second (00 through 59)
+s = one or more digits representing a decimal fraction of a second
+TZD = time zone designator (Z or +hh:mm or -hh:mm)
