@@ -1,0 +1,660 @@
+[
+  {
+    "name": "Breakfast",
+    "location": "Hall",
+    "startDate": "2019-11-15T07:30:00.000Z",
+    "endDate": "2019-11-15T08:00:00.000Z"
+  },
+  {
+    "name": "Keynote d'ouverture",
+    "description": "La keynote d'ouverture",
+    "speakers": [
+      {
+        "name": "Team BDX I/O"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2019-11-15T08:00:00.000Z",
+    "endDate": "2019-11-15T09:00:00.000Z",
+    "category": "Keynote",
+    "tags": ["Ouverture"]
+  },
+  {
+    "name": "Pause",
+    "location": "Hall",
+    "startDate": "2019-11-15T09:00:00.000Z",
+    "endDate": "2019-11-15T09:15:00.000Z"
+  },
+  {
+    "name": "Using Kubeflow Pipelines for building machine learning pipelines",
+    "description": "Kubeflow is an open-source project dedicated to making deployments of machine learning workflows on Kubernetes simple, portable and scalable. This session will focus on Kubeflow Pipelines, a platform to enable end-to-end orchestration of ML pipelines as well as easy experimentation and re-use. You'll learn how to build and manage machine learning workloads that can scale.",
+    "speakers": [
+      {
+        "company": "Google",
+        "name": "Yufeng G"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2019-11-15T09:15:00.000Z",
+    "endDate": "2019-11-15T10:00:00.000Z",
+    "category": "Cloud & DevOps",
+    "lang": "EN"
+  },
+  {
+    "name": "Designers, développeurs, créons la différence !",
+    "description": "Tous les sites se ressemblent. On utilise tous une bibliothèque de composants comme Material, Bootstrap & co. C’est très pratique car cela nous fournit un design système clé en main. Seulement, le projet manque de personnalité et ne se différencie pas. Avec notre équipe composée de designers (Cécile) et de développeurs (Florent), comment pouvons-nous donner une Identité à nos projets ? Y a-t-il des méthodes que nous pouvons appliquer pour que la production de l’interface soit différenciante, cohérente et agréable ? Nous vous proposons donc de définir quelles sont les différentes méthodes et techniques pour y arriver. Nous débuterons par explorer et établir notre identité pour ensuite mettre en place nos éléments fonctionnels et arriver rapidement à un Design System adapté en respectant les normes de l’Atomic Design. La présentation sera ponctuée de bonnes pratiques de développement pour la construction d’un design system qui pourra être réutilisé sur d’autres projets de la marque.",
+    "speakers": [
+      {
+        "company": "Zenika",
+        "name": "Florent Berthelot"
+      },
+      {
+        "company": "Predictice",
+        "name": "Cecile Freyd-Foucault"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2019-11-15T09:15:00.000Z",
+    "endDate": "2019-11-15T10:00:00.000Z",
+    "category": "Design & UX",
+    "lang": "FR"
+  },
+  {
+    "name": "Test d’architecture avec ArchUnit : Mise en œuvre pour le DDD",
+    "description": "ArchUnit est un framework qui permet de décrire des règles d’architecture et de les vérifier sur du code Java. Les règles ArchUnit expriment des propriétés topologiques. Par exemple, il est possible de vérifier qu’aucune classe située dans un package donné n’est liée avec aucune autre classe d’un autre package. La vérification des règles est faite par ArchUnit qui exploite les propriétés d’introspection de Java. ArchUnit supporte l’ajout d’annotations qui seront utilisées par les règles pour affiner les vérifications. Par exemple, une règle peut cibler les classes qui portent une annotation particulière. Nous avons effectué une mise en œuvre de ArchUnit pour vérifier l’application des patterns tactiques du DDD. Par exemple, nous avons décrit une règle vérifiant que les classes situées dans le package « domain » n’appellent pas les classes situées dans le package « infra ». La mise en œuvre que nous avons réalisée nous a permis de formaliser la façon dont nous appliquons le DDD. La vérification de ces règles garantie ainsi une homogénéité de l’application du DDD telle que nous l’avons formalisée. Dans ce talk nous présenterons le retour sur expérience que nous avons de ArchUnit. Nous illustrerons ce retour d’expérience en présentant les règles que nous avons formalisées. Ces règles et les annotations sur lesquelles elles sont basées sont disponibles dans un projet Open Source. Nous décrirons aussi les hésitations que nous avons eues quant au déploiement de ArchUnit. En outres, nous discuterons du compromis qu’il faut avoir entre l’exploitation des annotations et la mise en œuvre de conventions syntaxiques.",
+    "speakers": [
+      {
+        "company": "Université de Bordeaux - Promyze",
+        "name": "Xavier Blanc"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2019-11-15T09:15:00.000Z",
+    "endDate": "2019-11-15T10:00:00.000Z",
+    "category": "Architecture & Sécurité",
+    "lang": "FR"
+  },
+  {
+    "name": "Introduction à la programmation par contraintes",
+    "description": "Quel est le point commun entre un jeu de sudoku, la planification d'une conférence et les déplacements d'un commercial ? Quand on souhaite les traiter automatiquement, tous ces problèmes peuvent être résolus par un solveur de contraintes. Dans ce talk, je vais essayer de vous faire une introduction pratique à la programmation par contraintes, en présentant les concepts de base, puis en les mettant en application avec plusieurs exemples de problèmes connus de tout le monde (ou presque), pour finir par un cas plus complexe sur lequel je travaille actuellement.",
+    "speakers": [
+      {
+        "company": "Lectra",
+        "name": "Cyril Delmas"
+      }
+    ],
+    "location": "Salle de commission",
+    "startDate": "2019-11-15T09:15:00.000Z",
+    "endDate": "2019-11-15T10:00:00.000Z",
+    "category": "Big Data & IA",
+    "lang": "FR"
+  },
+  {
+    "name": "Pause",
+    "location": "Hall",
+    "startDate": "2019-11-15T10:00:00.000Z",
+    "endDate": "2019-11-15T10:15:00.000Z"
+  },
+  {
+    "name": "Des microservices aux migroservices",
+    "description": "Ca y est, vous avez enfin la possibilité de démarrer un nouveau projet ou de migrer un de vos anciens monolithes et vous décidez de partir en architecture microservices ! On se répartit les services, on sort nos plus belles technos et c'est parti ! Au pire, vu qu'on va faire un microservice on pourra le remplacer plus tard facilement :grinning:. Plus on avance dans la réalisation du service, plus les soucis commencent à apparaitre : - Couplage avec d'autres services - Partages de données - Difficulté à étre déployés/opérés - Ownership des services - ... Notre microservice vient d'évoluer en migroservice ! :disappointed: On s'est trompé dans la recette et ajouté une bonne grosse de monolithe à note microservice ... Essayons de voir comment nous en sommes arrivés là, les pièges a éviter et si ce n'est pas, finalement, qu'une étape vers une architecture microservice.",
+    "speakers": [
+      {
+        "company": "Saagie",
+        "name": "François Teychene"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2019-11-15T10:15:00.000Z",
+    "endDate": "2019-11-15T11:00:00.000Z",
+    "category": "Architecture & Sécurité",
+    "lang": "FR"
+  },
+  {
+    "name": "What I wish I knew about Kubernetes before going to Production",
+    "description": "Kubernetes est devenu la plateforme de facto pour deployer des containers. On a l'impression que tout le monde soit l'utilise déjà soit le test pour remplacer la plateforme actuelle. Mais soyons honnêtes : c'est quand même un peu complexe. Il y a tout en tas de concepts qu'il faut comprendre en tant que developpeur (updateStrategy, restartPolicy, configmaps, QoS, ...) et en tant que gestionnaire du cluster ce n'est pas malheureseument plus facile (etcd, CNI, autoscaling, admission policies, ...). Quels sont les \"pièges\" à l'utilisation? Les configs par défaut qu'il faut pas garder? Les comportements \"bizarres\" qui sont certes décrits sur la doc mais sont quand mêmes surprénants? Venez découvrir quelques petites astuces si vous venez de vous lancer sur Kubernetes ou rigoler un peu si vous êtes déjà experts sur le sujet :)",
+    "speakers": [
+      {
+        "company": "AT Internet",
+        "name": "Christian Alonso Chavez Ley"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2019-11-15T10:15:00.000Z",
+    "endDate": "2019-11-15T11:00:00.000Z",
+    "category": "Cloud & DevOps",
+    "lang": "FR"
+  },
+  {
+    "name": "Remake de jeux rétro avec Vue.js",
+    "description": "Quoi de mieux que de recoder son jeu préféré pour apprendre une nouvelle techno ? Nous allons nous replonger dans notre enfance pour découvrir les concepts de Vue.js en codant un clone de Pokemon Red. Un jeu n'est rien d'autre qu'un joueur interagissant avec un univers représenté à l’écran. Et Vue est un framework pensé pour isoler interactions, informations (qui décrivent l'univers du jeu) et la représentation visuelle basée sur ces informations. Nous verrons ensemble pourquoi Vue est un outil adapté au développement de jeu et qu'inversement, le développement d'un jeu offre un bon angle pour découvrir les concepts clés de Vue.",
+    "speakers": [
+      {
+        "company": "Magellium",
+        "name": "Nicolas Decoster"
+      },
+      {
+        "company": "Juliane Blier",
+        "name": "SchoolMouv"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2019-11-15T10:15:00.000Z",
+    "endDate": "2019-11-15T11:00:00.000Z",
+    "category": "Front-end",
+    "lang": "FR"
+  },
+  {
+    "name": "Découvrir la neuroévolution en créant une voiture autonome dans son navigateur",
+    "description": "Quoi de mieux que d'apprendre par le jeu, me suis-je dit. Quelques heures plus tard, me voilà à créer un jeu de voitures rudimentaire dans mon navigateur afin de tenter de comprendre la neuroévolution. Je vous propose de refaire ensemble ce parcours initiatique. On passera d'abord la première en mettant en place la boucle de jeu avec la physique et le dessin dans un canvas, la seconde, en équipant notre voiture de lidars, puis la troisième en lui greffant un cerveau à base de réseau de neurones artificiels Et enfin on mettra le turbo, en lui donnant les moyens d'apprendre à se déplacer grâce à la neuroévolution. Ce talk cherche à démocratiser au plus grand nombre, les principes de la neuroévolution et des algorithmes génétiques, mais aussi de vous faire découvrir des techniques de gamedev, comme le raycasting, le tout en JavaScript, dans le navigateur.",
+    "speakers": [
+      {
+        "company": "DEAL Informatique",
+        "name": "Christophe Camicas"
+      }
+    ],
+    "location": "Salle de commission",
+    "startDate": "2019-11-15T10:15:00.000Z",
+    "endDate": "2019-11-15T11:00:00.000Z",
+    "category": "Big Data & IA",
+    "lang": "FR"
+  },
+  {
+    "name": "Workshop - Kotlin Multiplatform : mutualiser du code sur iOS et Android",
+    "description": "Kotlin Multiplatform est une solution de développement open-source permettant de mutualiser du code pour des applications iOS et Android. De vraies applications natives sans compromis qualitatif mais avec une code base en Kotlin partagée pour tout ce qui n’est pas spécifique à la plateforme iOS ou Android. Durant ce workshop nous allons faire une introduction pratique à Kotlin Multiplatform en réalisant deux applications natives (iOS et Android) partageant du code métier en Kotlin. En sortant d’ici vous aurez intégré les principes de bases et les bonnes pratiques du développement Kotlin Multiplatform. ## Pré-requis * Des notions de développement natif Android et/ou iOS sont requises pour profiter pleinement de ce workshop. * Vous arriverez à la séance équipés d’un **ordinateur portable**, avec **Android Studio 3.4+** et **XCode 10.2+** si vous disposez d’un Mac (afin de compiler l’application iOS).",
+    "speakers": [
+      {
+        "company": "Toki",
+        "name": "Robin Caroff"
+      },
+      {
+        "company": "ASI",
+        "name": "Pierre Tibulle"
+      },
+      {
+        "company": "Sopra Steria",
+        "name": "Maxime Lumeau"
+      }
+    ],
+    "location": "Salle de workshop",
+    "startDate": "2019-11-15T09:15:00.000Z",
+    "endDate": "2019-11-15T11:00:00.000Z",
+    "category": "Découverte",
+    "lang": "FR"
+  },
+  {
+    "name": "Pause",
+    "location": "Hall",
+    "startDate": "2019-11-15T11:00:00.000Z",
+    "endDate": "2019-11-15T11:15:00.000Z"
+  },
+  {
+    "name": "Green IT is the new web",
+    "description": "Le numérique, comme toutes les activités humaines, a un impact environnemental. Face au dérèglement climatique, les initiatives écologiques se multiplient, que ce soit dans l’alimentaire, les transports, l’urbanisme ou les collectivités. Et le numérique dans tout ça ? il est encore largement laissé de côté. Il existe pourtant des méthodologies qui répondent aux enjeux écologiques du numérique : l’éco-conception. L’idée est simple : réduire les impacts environnementaux et économiques des logiciels et sites internet en améliorant leur conception et leur réalisation.",
+    "speakers": [
+      {
+        "company": "Capgemini",
+        "name": "Julie Guillerm"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2019-11-15T11:15:00.000Z",
+    "endDate": "2019-11-15T11:30:00.000Z",
+    "category": "Design & UX",
+    "lang": "FR"
+  },
+  {
+    "name": "Comment rater son projet DDD",
+    "description": "En 2016-2017, nous démarrons un grand projet de refonte de SI pour un grand compte dans le monde du Retail avec notamment un choix fort de conception : le DDD. Pendant près de 3 ans nous suivons les choix de conception, d’architecture et d’organisation et nous essayons de nous approprier les concepts avec : * le fameux Blue Book d’Eric * le talk de Thomas PIERRAIN : BDX I/O 2017 - Du DDD dans mon Legacy * le talk de Benoît Prioux : BDX I/O 2017 - 10 conseils pour réussir ses premiers pas en DDD Nous pensions être parés contre les dérives possibles d'une approche censée apporter de la simplicité et de la modularité. Et pourtant, nous n’avons pas réussi… Alors pourquoi mettre en place une approche DDD n'est pas si facile ? Qu’est-ce que nous avons raté ? Nous essayerons de vous apporter : * notre retour d’expérience issu de ce projet * les erreurs que nous avons faites * les points clés qui nous semblent indispensable à mettre en oeuvre * et enfin nos conseils pour que vous puissiez faire mieux que nous.",
+    "speakers": [
+      {
+        "company": "ManoMano",
+        "name": "Cyril Beslay"
+      },
+      {
+        "name": "Joel Ung"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2019-11-15T11:15:00.000Z",
+    "endDate": "2019-11-15T11:30:00.000Z",
+    "category": "Architecture & Sécurité",
+    "lang": "FR"
+  },
+  {
+    "name": "Convaincre avec les techniques de la négociation raisonnée",
+    "description": "Nous rencontrons souvent des situations de négociation au quotidien, par exemple pour faire passer un refactoring auprès de sa direction ou pour demander un budget pour une nouvelle fonctionnalité. Sommes nous bien équipés pour tirer le meilleur de ces situations ? Lors de ce lighting talk nous parlerons des techniques de négociation raisonnée, formalisée par le Harvard Negociation Project dans le livre \"getting to yes\". A la fin de ce talk vous aurez de nouveaux outils pour aborder plus sereinement votre prochaine négociation.",
+    "speakers": [
+      {
+        "company": "BeTomorrow",
+        "name": "Marc Allaire"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2019-11-15T11:15:00.000Z",
+    "endDate": "2019-11-15T11:30:00.000Z",
+    "category": "Découverte",
+    "lang": "FR"
+  },
+  {
+    "name": "Hasura : un back-end GraphQL en quelques minutes",
+    "description": "Firebase a prouvé ces dernières années qu'il est tout à fait possible de développer des applications sans avoir de back-end personnalisé. Firebase fournit tout : une base de données, un système d'authentification, un système de permissions, un système de fonctions serverless pour les règles métier spécifiques, et enfin un client pour le front-end. Mais Firebase vient avec son lot d'inconvénients : système de requêtes peu puissant, pas de SQL, émulateurs pour le développement local lourds et limités, vendor-locking, pas open-source, prix changeants, ... Hasura est un projet qui répond à ces limitations. Fournissez à Hasura une base de données PostgreSQL et il vous fournit en échange l'équivalent de Firebase : authentification, autorisations, serverless, et une API GraphQL. Je vous présente cet outil qui permet de vous priver de back-end sans vous priver de liberté !",
+    "speakers": [
+      {
+        "company": "Zenika",
+        "name": "Hugo Wood"
+      }
+    ],
+    "location": "Salle de commission",
+    "startDate": "2019-11-15T11:15:00.000Z",
+    "endDate": "2019-11-15T11:30:00.000Z",
+    "category": "Découverte",
+    "lang": "FR"
+  },
+  {
+    "name": "Pause",
+    "location": "Hall",
+    "startDate": "2019-11-15T11:30:00.000Z",
+    "endDate": "2019-11-15T12:15:00.000Z"
+  },
+  {
+    "name": "3 techniques faciles de manipulation",
+    "description": "Qui ne s’est jamais fait manipulé ? Évidemment, on est tous allé à une soirée alors qu’on en avait pas envie, on a tous acheté un truc sans en avoir besoin et on a tous été influencé par ses proches. L’idée de cette présentation est de vous ouvrir les yeux sur les relations et les influences entre les gens. Je vous exposerai les mécanismes de prise de décision au travers de 3 techniques simples de manipulation. A la sortie de ce talk, vous devriez être moins influençable et maître de vos décisions (voir même manipuler les autres).",
+    "speakers": [
+      {
+        "company": "Zenika",
+        "name": "Marie Viley"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2019-11-15T12:15:00.000Z",
+    "endDate": "2019-11-15T12:30:00.000Z",
+    "category": "Découverte",
+    "lang": "FR"
+  },
+  {
+    "name": "Machine learning avec des allumettes et des cotillons",
+    "description": "Dans ce talk je vous montrerai comment expliquer simplement le fonctionnement de l'apprentissage par renforcement. Pour cela pas besoin d'ordinateur : quelques allumettes, des sacs de cotillons et un peu de pédagogie sont suffisant pour mettre en évidence les mécanismes intrinsèques de cette technique et pour aborder les enjeux et les limites des algorithmes d'\"intelligence artificielle\" basés sur l'apprentissage.",
+    "speakers": [
+      {
+        "company": "Magellium",
+        "name": "Nicolas Decoster"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2019-11-15T12:15:00.000Z",
+    "endDate": "2019-11-15T12:30:00.000Z",
+    "category": "Big Data & IA",
+    "lang": "FR"
+  },
+  {
+    "name": "Une fonction Quarkus déployée dans un Kubernetes K3S avec Fission en live-coding !",
+    "description": "Quarkus est une nouvelle stack pour Java, orientée container, lui permettant de prendre le virage du runtime léger et rapide à démarrer. Du coup comment ça se passe pour un déploiement dans Kubernetes ? Est-ce que ça marche en mode serverless ? C’est ce que nous allons explorer en live-coding dans ce talk où notre fonction Quarkus sera développée, déployée dans le Kubernetes K3S ultra-léger et exécutée en serverless avec Fission !",
+    "speakers": [
+      {
+        "company": "Ippon Technologies",
+        "name": "Sebastien Moreno"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2019-11-15T12:15:00.000Z",
+    "endDate": "2019-11-15T12:30:00.000Z",
+    "category": "Cloud & DevOps",
+    "lang": "FR"
+  },
+  {
+    "name": "Le futur de la gestion des dépendances Node",
+    "description": "# Présentation Le 13 septembre 2018 un thread twitter a été partagé par **Maël Nison** : yarn ne va plus avoir besoin de node_modules ! La déferlante de réponses, likes et retweet confirment une chose : les node_modules ne sont pas appréciés par la communauté. **Kat Marchán** (développeuse npm) n'a pas tardé à répondre, elle aussi a eu la même idée mais sa solution est différente ! Creusons ensemble les raisons de cet engouement, et voyons quels sont les grandes stratégies mises en place par les grands ! ![](https://i.imgur.com/hhbntkZ.png) ![](https://i.imgur.com/BVi7EOZ.png)",
+    "speakers": [
+      {
+        "company": "uni rakun",
+        "name": "Fabien Juif"
+      }
+    ],
+    "location": "Salle de commission",
+    "startDate": "2019-11-15T12:15:00.000Z",
+    "endDate": "2019-11-15T12:30:00.000Z",
+    "category": "Front-end",
+    "lang": "FR"
+  },
+  {
+    "name": "Le job de mes rêves",
+    "description": "Le job idéal n'existe pas, mais celui qui vous correspond oui. Comment le trouver? Ce n'est pas toujours évident. Dans ce talk je raconte mon parcours professionnel, dans lequel j'ai vécu des nombreux changements : développeuse pendant 6 ans, prise de nouveau poste de CO (Component Owner), puis Lead FrontEnd. Mais aussi Scrum Master, facilitatrice graphique et oratrice de conférences. Grâce à ces expériences j'ai identifié les facteurs qui sont importants pour moi pour se sentir bien au travail et ceux qui font qu'on ait envie de changer. Cette conférence va vous amener à réfléchir aux valeurs qui font que vous êtes heureux/ses et nous verrons comment orienter votre vie professionnelle dans ce sens.",
+    "speakers": [
+      {
+        "company": "Lectra",
+        "name": "Ane Diaz De Tuesta"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2019-11-15T12:45:00.000Z",
+    "endDate": "2019-11-15T13:00:00.000Z",
+    "category": "Découverte",
+    "lang": "FR"
+  },
+  {
+    "name": "Git ou double ?",
+    "description": "Ton système d'information se transforme rapidement en microservices, peut-être même est-il déjà dans le cloud. Pour que cette transition soit une pull aux œufs d'or, et ne vire pas au commit de répétition en se plantant magistralement... Viens voir comment git peut t'aider, ou au contraire te freiner dans ce changement d'organisation, et éviter de scier la branche sur laquelle tu es assis.",
+    "speakers": [
+      {
+        "company": "Velvet Lemons Consulting",
+        "name": "Fabien Lamarque"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2019-11-15T12:45:00.000Z",
+    "endDate": "2019-11-15T13:00:00.000Z",
+    "category": "Architecture & Sécurité",
+    "lang": "FR"
+  },
+  {
+    "name": "Il était une fois Storybook",
+    "description": "Vous bossez sur une application React, Angular, Vue,... Mais comment garder le contrôle de tous vos composants ? Vous êtes-vous déjà retrouvé dans une de ces situations ? - vous avez des difficultés pour tester votre composant dans un scénario très précis - vous vous rendez compte que vous êtes plusieurs au sein de votre entreprise à avoir développé le même composant modal - un de vos collègues a démissionné le mois dernier et a laissé un composant dont on ne connaît plus clairement les possibilités - vous ne savez pas quels sont les composants qui ont été développés par les autres équipes de votre entreprise Si la réponse est oui, alors ce talk est fait pour vous ! Nous verrons ensemble comment Storybook peut vous permettre de résoudre toutes ces galères en développant des composants de manière isolée, tout en les testant et les documentant.",
+    "speakers": [
+      {
+        "company": "PROS",
+        "name": "Michèle Legait"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2019-11-15T12:45:00.000Z",
+    "endDate": "2019-11-15T13:00:00.000Z",
+    "category": "Front-End",
+    "lang": "FR"
+  },
+  {
+    "name": "Comment j'ai fini par déployer à 2h du matin une application sur AWS pour piloter des voitures électriques avec un vélo d'appartement.",
+    "description": "``` - J'ai une super idée, mais je vais avoir besoin d'aide, parce que moi et le code... ha ? - Je voudrais faire tourner des voitures électriques sur un circuit en faisant pédaler des gens pendant 24h ... - Tu vois comment faire ? - Alors... c'est pas dur... Il suffit de deux Arduino, d'un Raspberry, quelques capteurs et c'est parti... ``` Et voilà à peu près comment en 2 minutes j'ai été convaincu de suivre un hurluberlu dans un projet franchement rigolo mêlant de nombreuses technos. Et cerise sur le gâteau, les aléas techniques m'ont conduit jusqu'à déployer la solution sur AWS depuis une salle des fêtes en rase campagne un jour de tempête avec pour seule connexion mon téléphone...",
+    "speakers": [
+      {
+        "company": "onepoint",
+        "name": "Nicolas Giraud"
+      }
+    ],
+    "location": "Salle de commission",
+    "startDate": "2019-11-15T12:45:00.000Z",
+    "endDate": "2019-11-15T13:00:00.000Z",
+    "category": "Cloud & DevOps",
+    "lang": "FR"
+  },
+  {
+    "name": "Cypress, l’outil qui va vous faire aimer les tests End-to-End !",
+    "description": "Vous avez des tests End-to-End dans votre application mais vous les trouver lents et pénibles à maintenir ? Ou pire encore, vous avez renoncé à en faire en redoutant le travail à fournir ? Cypress est peut-être la solution que vous recherchez ! Sorti de sa bêta publique en septembre dernier, Cypress connait déjà un franc succès dans le domaine du test End-To-End. Il est d'ailleurs très bien classé dans le classement StateOfJs 2018 dans la catégorie des [« autres outils de tests »](https://2018.stateofjs.com/testing/other-libraries) loin de devant Selenium, Protractor et Nightwatch. Thoughtworks, dans son tout dernier [tech radar](https://www.thoughtworks.com/radar/tools), le place même dans les outils à adopter 😎 Dans ce lab nous verrons : * ce qui différencie Cypress de Selenium * comment intégrer Cypress sur un projet web * comment rédiger des tests * l’utilisation de l’UI de Cypress pour lancer/debugger vos tests * l’utilisation de la CLI pour votre intégration continue ... et bien plus encore ! Nous aborderons aussi les bonnes pratiques liées à l’outil et les compromis à connaître. Suite à ce lab, vous ne ferez plus l’impasse sur vos tests End-to-End !",
+    "speakers": [
+      {
+        "company": "Société Générale",
+        "name": "Rodolophe Bung"
+      },
+      {
+        "company": "La Combe du Lion Vert",
+        "name": "Jordan Nourry"
+      }
+    ],
+    "location": "Salle de workshop",
+    "startDate": "2019-11-15T11:15:00.000Z",
+    "endDate": "2019-11-15T13:00:00.000Z",
+    "category": "Front-end",
+    "lang": "FR"
+  },
+  {
+    "name": "Pause",
+    "location": "Hall",
+    "startDate": "2019-11-15T13:00:00.000Z",
+    "endDate": "2019-11-15T13:15:00.000Z"
+  },
+  {
+    "name": "Implémenter un Webhook côté serveur, pas si simple !",
+    "description": "Les Webhooks, vous connaissez ? Vous en avez sans doute déjà utilisé, par exemple pour être notifié d’un commit sur Github, pour réagir à l’arrivée d’un SMS avec Twilio, ou pour que votre chatbot Dialogflow réponde à ses interlocuteurs. Côté consommateur de Webhook, cela semble plutôt facile à développer… Côté serveur, c’est “juste” une API à implémenter, non ? Hmm… En fait, nous allons voir que ce n’est peut-être pas si simple que cela ! Après une introduction au concept de Webhook, nous créerons notre callback pour être notifié d’un événement. Puis nous passerons de l’autre côté du miroir, en créant notre propre Webhook. Nous étudierons comment gérer la queue des abonnements des clients, traiter les erreurs, debugger son Webhook, faire des retry sans submerger le client s’il échoue, et sécuriser le Webhook. Vaste programme !",
+    "speakers": [
+      {
+        "company": "Google",
+        "name": "Guillaume Laforge"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2019-11-15T13:15:00.000Z",
+    "endDate": "2019-11-15T14:00:00.000Z",
+    "category": "Back-end",
+    "lang": "FR"
+  },
+  {
+    "name": "Lazy Loading : Booster vos applis Angular !",
+    "description": "Plus de 50% de nos utilisateurs quittent une appli web si celle ci prend plus de 3 secondes à charger selon une stat Google Analytics … Alors comment faire pour éviter ça sur nos applis Angular ? Le framework apporte un élément de réponse : Le lazy loading. En partant d’un projet legacy Angular 2+ monolithique, nous vous montrerons pas à pas comment mettre en place du lazy loading pour booster les temps de rendu au service de l’expérience utilisateur. Cette conférence se présentera sous la forme d’un Live Coding itératif et incrémental au cours duquel nous mettrons en évidence les pièges à éviter, ainsi que les avantages et limites du lazy loading.",
+    "speakers": [
+      {
+        "company": "4SH",
+        "name": "Damien Riccio"
+      },
+      {
+        "company": "4SH",
+        "name": "Elian Oriou"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2019-11-15T13:15:00.000Z",
+    "endDate": "2019-11-15T14:00:00.000Z",
+    "category": "Front-end",
+    "lang": "FR"
+  },
+  {
+    "name": "Burger Quiz de la securite du code",
+    "description": "Qui ne connaît pas le jeu BurgerQuiz présente par Alain Chabat et son équipe de joyeux compagnons. Base sur plusieurs centaines d’audit de code source sur divers langages ce talk propose de revisiter de manière humoristique les codes les plus loufoques, à risques, les erreurs, les bonnes pratiques rencontrées en securite.",
+    "speakers": [
+      {
+        "company": "AppSecFR",
+        "name": "Sebastien Gioria"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2019-11-15T13:15:00.000Z",
+    "endDate": "2019-11-15T14:00:00.000Z",
+    "category": "Architecture & Sécurité",
+    "lang": "FR"
+  },
+  {
+    "name": "La GameJam : l’hackathon du jeux vidéo",
+    "description": "Le but de cette présentation est simple : expliquer le concept d’une Jam, donner une liste des outils/préparations nécessaires pour passer un bon moment et donner envie à l'audience de venir participer, qu’importe son niveau. Excellent exercice technique et humain beaucoup plus accessible qu’on le croit, les GameJam sont des évènements ou l'objectif est de concevoir un jeu en 48 heures. Avec un délai aussi court, l’expérience est relativement intense mais toujours très enrichissante. Réunissant aussi bien des développeurs que des artistes 2/3D, en passant par les sound designers jusqu’aux game designers, les Jams sont ouvertes à tous et toutes. Pour permettre à ceux qui viendront de vivre la meilleure expérience possible, je vous propose d’aborder plusieurs sujets : - Les différents outils de développement disponible : du Unity 2D/3D à Unreal, jusqu’aux moteurs de jeu plus indépendant, tels que LibGDX et Godo. - Les termes techniques, par exemple asset, sprite, scene, textureAtlas etc... - Les outils de support, de blender jusqu’à texturePacker en passant par les alternative plus légère de Photoshop. - Ou trouver des éléments graphique, des éléments de UI et des sons/musiques, etc gratuitement sur le web. - Comment se déroule normalement les deux jours et les plannings recommandés. - Les bonnes et les mauvaises pratiques, par expérience personnelle. - Quoi apporter au jour J. - Donner quelques exemples de jeux développés en Jam, dont certains conçus par moi-même, le code d'ailleurs disponible sur Github. D’ailleurs, la globale GJ, plus grand événement de son genre à travers le monde, se déroule 2 mois après, à savoir le 31 janvier 2020, donnant largement le temps à l’audience de se préparer. Un site sera hébergé à l’Epitech de Bordeaux par Flat226, une association pour laquelle je suis bénévole depuis 4 ans maintenant.",
+    "speakers": [
+      {
+        "company": "Invivoo",
+        "name": "Simon Bédard"
+      }
+    ],
+    "location": "Salle de commission",
+    "startDate": "2019-11-15T13:15:00.000Z",
+    "endDate": "2019-11-15T14:00:00.000Z",
+    "category": "Découverte",
+    "lang": "FR"
+  },
+  {
+    "name": "Pause",
+    "location": "Hall",
+    "startDate": "2019-11-15T14:00:00.000Z",
+    "endDate": "2019-11-15T14:15:00.000Z"
+  },
+  {
+    "name": "Et si votre survie dépendait de la qualité du code que vous produisez ?",
+    "description": "A travers l’image d’un survivant dans un monde post-apocalyptique et des différentes règles qui lui permettront de subsister, nous allons faire le rapprochement avec des outils et des méthodes autour du test logiciel. Si le survivant veut voir le soleil se lever un jour de plus, le code se doit d'être suffisamment fiable pour ne pas être jeté aux oubliettes. <ul> <li><strong>Règle 1 : </strong> Ne jamais rester seul => Rien ne vaut un œil extérieur, que ce soit pour évaluer le risque à rentrer dans cette station-service déserte ou définir si votre code mérite quelques ajustements</li> <li><strong>Règle 2 :</strong> Ne pas faire confiance à son voisin => Dans les films, ce n'est pas toujours le zombie qui mord le premier... Dans votre code, il est préférable d'isoler ce que vous écrivez au plus tôt pour s'assurer de son fonctionnement et éviter les effets de bord</li> <li><strong>Règle 3 :</strong> Ne pas hésiter à revenir sur ses pas. Agir avec discernement => Le danger peut être partout. Mieux vaut une bonne méthode de fouille pour éviter les problèmes. Dans votre code, cela vous permettra même de prendre de la hauteur et mieux l'architecturer</li> <li><strong>Règle 4 :</strong> Ne faites pas confiance aux morts => Besoin de plus de détails ? Imaginez maintenant que votre code se mette à muter. Votre batterie de tests automatiques serait-elle capable d'éliminer tous les mutants ? </li> <li><strong>Règle 5 : </strong>Ne foncez pas tête baissée, Soyez stratégique => Survivre est une chose, se construire une nouvelle vie en est une autre. Pour vos test, c'est pareil. Si vous voulez éviter le découragement, réfléchissez où il vaut mieux porter vos efforts.</li> <li><strong>Règle 6 :</strong> Ne prenez pas de risque insensé => Dans le cas contraire, la civilisation perdurera peut-être mais vous ne serez plus là pour en profiter… Imaginez maintenant qu'un processus supprime automatiquement le code qui ne passe plus les tests. Irréaliste ?</li> </ul> Votre survie n'est pas une option. Pourquoi la qualité de votre code le serait-elle?",
+    "speakers": [
+      {
+        "company": "Pôle Emploi",
+        "name": "Vincent Huc"
+      },
+      {
+        "company": "Pôle Emploi",
+        "name": "Amandine Jaufeeraully"
+      },
+      {
+        "company": "Pôle Emploi",
+        "name": "Marie Isoard"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2019-11-15T14:15:00.000Z",
+    "endDate": "2019-11-15T15:00:00.000Z",
+    "category": "Découverte",
+    "lang": "FR"
+  },
+  {
+    "name": "Du POC à la Prod, un projet de data science mis à nu !",
+    "description": "La Data Science et le machine learning sont omniprésents dans notre quotidien. Qui n’a jamais entendu parler d’intelligence artificielle, d’ « IA » ?  Beaucoup de contenus traitent de mise en forme, de manipulation de données et de modèles de machine learning mais très peu détaillent ce qui vient ensuite lorsqu’il s’agit de déployer ces algorithmes dans un environnement de production. C’est pourtant bien là que les choses se corsent !  Nous vous proposons de parcourir l’intégralité des étapes d’un projet de data science en s’attardant tout particulièrement sur les obstacles rencontrés lors de son industrialisation.  Après avoir présenté la problématique de détection d’anomalies et les méthodes de machine learning choisies pour y répondre, il sera question d'architecture micro-services, de Python et R conjointement en Prod (si si c’est possible), de cluster Kubernetes, d’intégration continue et de monitoring.",
+    "speakers": [
+      {
+        "company": "AT Internet",
+        "name": "Kévin Barreau"
+      },
+      {
+        "company": "AT Internet",
+        "name": "Jeremie Bureau"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2019-11-15T14:15:00.000Z",
+    "endDate": "2019-11-15T15:00:00.000Z",
+    "category": "Big Data & IA",
+    "lang": "FR"
+  },
+  {
+    "name": "Istio, le meilleur ami de votre cluster K8S ❤️",
+    "description": "Dans un monde distribué, nous sommes confrontés à de nouveaux problèmes. Les notions de **circuit-breaker**, de **retry**, de **timeout**, de **blue-green deployment**, **A/B testing**, **pool-ejection**… viennent remplacer nos anciens problèmes de monolithe 🙁. Istio ⛵ est là pour nous aider sur tous ces points... et même plus ! 🥰 Nous ferons le tour de l'outillage actuel (émanant de la stack Netflix principalement) dans un environnement micro-services et nous le comparerons avec ce que nous met à disposition Istio à T0 👍! Ensuite, nous ouvrirons le capot afin de voir **comment** fonctionne Istio et comment nous pouvons potentiellement étendre son modèle #DoItYourSelf !",
+    "speakers": [
+      {
+        "company": "Stack Labs",
+        "name": "Kevin Davin"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2019-11-15T14:15:00.000Z",
+    "endDate": "2019-11-15T15:00:00.000Z",
+    "category": "Cloud & DevOps",
+    "lang": "FR"
+  },
+  {
+    "name": "Kafka et KSQL pour aider à la détection d'intrusion",
+    "description": "On ne présente plus Apache Kafka, la plateforme de traitement temps réel distribuée qui permet d'ingérer des volumes astronomiques de données. On connait un peu moins KSQL, le langage inspiré de SQL permettant de requêter des flux de données en temps réel. Il répond pourtant à de nombreux cas d'utilisation comme l'enrichissement de données, le _change data capture_, la détection de fraudes, le monitoring temps réel... Nous allons vous montrer comment utiliser Kafka pour ingérer des données de trames réseau et comment utiliser ensuite KSQL pour requêter simplement ces données afin d'identifier les tentatives d'intrusion sur notre réseau.",
+    "speakers": [
+      {
+        "company": "Zenika",
+        "name": "Maxime Ribera"
+      },
+      {
+        "name": "Géraud Dugé de Bernonville"
+      }
+    ],
+    "location": "Salle de commission",
+    "startDate": "2019-11-15T14:15:00.000Z",
+    "endDate": "2019-11-15T15:00:00.000Z",
+    "category": "Big Data & IA",
+    "lang": "FR"
+  },
+  {
+    "name": "Découvrez Micronaut, le framework qui va faire du bien à la JVM !",
+    "description": "Temps de démarrage proche de la seconde, empreinte mémoire de 10 MB, pas de réflection, approche orientée \"cloud native\" : autant de caractéristiques qui font du framework Micronaut le compagnon idéal de développement de vos microservices Java/Kotlin. Mais concrètement, comment on écrit du code avec Micronaut ? Dans ce TP nous coderons quelques microservices en Java ou Kotlin, les builderons avec Gradle, y brancherons une petite base de donnée H2 ou MongoDB et bien sûr les feront interagir avec du service discovery. Ce TP permettra ainsi de couvrir les principales fonctionnalités de Micronaut comme : * L'injection de dépendance and l'inversion de contrôle (IoC) * La configuration et l'auto-configuration * Les services HTTP avec des clients et des serveurs HTTP * Les aspects cloud native * Le support des APIs réactives * Les tests * Le management et le monitoring de nos microservices * La compilation native avec GraalVM",
+    "speakers": [
+      {
+        "company": "Stack Labs",
+        "name": "Olivier Revial"
+      }
+    ],
+    "location": "Salle de workshop",
+    "startDate": "2019-11-15T13:15:00.000Z",
+    "endDate": "2019-11-15T15:00:00.000Z",
+    "category": "Back-end",
+    "lang": "FR"
+  },
+  {
+    "name": "Pause",
+    "location": "Hall",
+    "startDate": "2019-11-15T15:00:00.000Z",
+    "endDate": "2019-11-15T15:30:00.000Z"
+  },
+  {
+    "name": "Tester en Kotlin",
+    "description": "C'est bon, vous avez basculé vers le nouveau langage à la mode **Kotlin** et vous allez écrire vos premières lignes de code. Hopopop, vous commencez bien par écrire vos tests ? Et là une question se pose : comment j'écris mes tests en **Kotlin** ? Est-ce qu'il y a des frameworks reconnus dans l'écosystème **Kotlin** ? Après plusieurs mois de pratique, je peux vous donner des éléments de réponses sur des questions comme : _Junit_ ou pas ? _Mockito_ ça marche ? _AssertJ_ ou _AssertK_ ? ... De plus, grâce aux bonnes idées du langage, je vous montrerai comment il est encore plus facile d'écrire des tests en **Kotlin** .... et même si votre code de production est en **Java** !",
+    "speakers": [
+      {
+        "company": "Lectra",
+        "name": "Benoît Prioux"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2019-11-15T15:30:00.000Z",
+    "endDate": "2019-11-15T16:15:00.000Z",
+    "category": "Back-end",
+    "lang": "FR"
+  },
+  {
+    "name": "Equiper sa voie",
+    "description": "Au-delà de la passion, faire du logiciel pour moi c’est aider les autres à résoudre leurs problèmes. Comment aider les autres si on n’est pas déjà clair soi-même avec sa posture, son métier, ses envies, ses ambitions ou bien ses craintes ? C’est la question que je me suis posé à plusieurs reprises durant ma carrière. Et c’est de cela - et des quelques aides trouvées en route - dont je voudrais vous parler.",
+    "speakers": [
+      {
+        "company": "42 skillz",
+        "name": "Thomas Pierrain"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2019-11-15T15:30:00.000Z",
+    "endDate": "2019-11-15T16:15:00.000Z",
+    "category": "Découverte",
+    "lang": "FR"
+  },
+  {
+    "name": "Architecture Hexagonale Level 2: Comment bien écrire ses tests.",
+    "description": "De plus en plus d’équipes adoptent l’architecture hexagonale comme structure de prédilection pour leurs applications métiers, mais peu d’entre elles savent réellement bien les tester. Et malheureusement lorsque l’on se plante sur ce point, la maintenance de notre architecture hexa devient un véritable calvaire! Lors de ce talk, nous allons aborder les [5 niveaux de tests préconisés](https://martinfowler.com/articles/microservice-testing/#conclusion-summary) pour les microservices adaptés à l'architecture héxagonale. Et en prime comment avoir une documentation drivée par les tests. Venez découvrir à côté de quoi vous êtes peut-être passés dans le développement de vos tests! Ceci est une live coding session en Kotlin, SpringBoot.",
+    "speakers": [
+      {
+        "company": "La Combe du Lion Vert",
+        "name": "Jordan Nourry"
+      },
+      {
+        "company": "Société Générale & OWASP fundation",
+        "name": "Julien Topçu"
+      }
+    ],
+    "location": "Amphi C",
+    "startDate": "2019-11-15T15:30:00.000Z",
+    "endDate": "2019-11-15T16:15:00.000Z",
+    "category": "Architecture & Sécurité",
+    "lang": "FR"
+  },
+  {
+    "name": "Notif qui saoule n'amasse pas foule ...",
+    "description": "Ça sonne dans ta poche !! L’irrésistible notification est présente depuis bien longtemps dans nos vies et les avis sont unanimes : On en a ras-le-bol ! Dans cette présentation, le but est de comprendre comment concevoir des parcours intelligents et leurs impacts sur les interfaces de vos produits. Avec des conseils simples et explicites nous explorerons les bonnes pratiques des parcours de notifications.",
+    "speakers": [
+      {
+        "company": "Dernier Cri",
+        "name": "Arthur Retrou"
+      }
+    ],
+    "location": "Salle de commission",
+    "startDate": "2019-11-15T15:30:00.000Z",
+    "endDate": "2019-11-15T16:15:00.000Z",
+    "category": "Design & UX",
+    "lang": "FR"
+  },
+  {
+    "name": "Pause",
+    "location": "Hall",
+    "startDate": "2019-11-15T16:00:00.000Z",
+    "endDate": "2019-11-15T16:30:00.000Z"
+  },
+  {
+    "name": "Keynote de fermeture",
+    "description": "La keynote de fermeture",
+    "speakers": [
+      {
+        "name": "Team BDX I/O"
+      }
+    ],
+    "location": "Amphi A",
+    "startDate": "2019-11-15T16:30:00.000Z",
+    "endDate": "2019-11-15T17:15:00.000Z",
+    "category": "Keynote"
+  },
+  {
+    "name": "Apéro",
+    "location": "???",
+    "startDate": "2019-11-15T17:30:00.000Z",
+    "endDate": "2019-11-15T20:30:00.000Z"
+  }
+]
