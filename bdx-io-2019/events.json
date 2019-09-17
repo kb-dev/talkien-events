@@ -38,7 +38,7 @@
     "startDate": "2019-11-15T09:15:00.000Z",
     "endDate": "2019-11-15T10:00:00.000Z",
     "category": "Cloud & DevOps",
-    "lang": "EN"
+    "lang": "en_en"
   },
   {
     "name": "Designers, développeurs, créons la différence !",
@@ -57,7 +57,7 @@
     "startDate": "2019-11-15T09:15:00.000Z",
     "endDate": "2019-11-15T10:00:00.000Z",
     "category": "Design & UX",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Test d’architecture avec ArchUnit : Mise en œuvre pour le DDD",
@@ -72,7 +72,7 @@
     "startDate": "2019-11-15T09:15:00.000Z",
     "endDate": "2019-11-15T10:00:00.000Z",
     "category": "Architecture & Sécurité",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Introduction à la programmation par contraintes",
@@ -87,7 +87,7 @@
     "startDate": "2019-11-15T09:15:00.000Z",
     "endDate": "2019-11-15T10:00:00.000Z",
     "category": "Big Data & IA",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Pause",
@@ -108,7 +108,7 @@
     "startDate": "2019-11-15T10:15:00.000Z",
     "endDate": "2019-11-15T11:00:00.000Z",
     "category": "Architecture & Sécurité",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "What I wish I knew about Kubernetes before going to Production",
@@ -123,7 +123,7 @@
     "startDate": "2019-11-15T10:15:00.000Z",
     "endDate": "2019-11-15T11:00:00.000Z",
     "category": "Cloud & DevOps",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Remake de jeux rétro avec Vue.js",
@@ -142,7 +142,7 @@
     "startDate": "2019-11-15T10:15:00.000Z",
     "endDate": "2019-11-15T11:00:00.000Z",
     "category": "Front-end",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Découvrir la neuroévolution en créant une voiture autonome dans son navigateur",
@@ -157,7 +157,7 @@
     "startDate": "2019-11-15T10:15:00.000Z",
     "endDate": "2019-11-15T11:00:00.000Z",
     "category": "Big Data & IA",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Workshop - Kotlin Multiplatform : mutualiser du code sur iOS et Android",
@@ -180,7 +180,7 @@
     "startDate": "2019-11-15T09:15:00.000Z",
     "endDate": "2019-11-15T11:00:00.000Z",
     "category": "Découverte",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Pause",
@@ -201,7 +201,7 @@
     "startDate": "2019-11-15T11:15:00.000Z",
     "endDate": "2019-11-15T11:30:00.000Z",
     "category": "Design & UX",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Comment rater son projet DDD",
@@ -219,7 +219,7 @@
     "startDate": "2019-11-15T11:15:00.000Z",
     "endDate": "2019-11-15T11:30:00.000Z",
     "category": "Architecture & Sécurité",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Convaincre avec les techniques de la négociation raisonnée",
@@ -234,7 +234,7 @@
     "startDate": "2019-11-15T11:15:00.000Z",
     "endDate": "2019-11-15T11:30:00.000Z",
     "category": "Découverte",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Hasura : un back-end GraphQL en quelques minutes",
@@ -249,7 +249,7 @@
     "startDate": "2019-11-15T11:15:00.000Z",
     "endDate": "2019-11-15T11:30:00.000Z",
     "category": "Découverte",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Pause",
@@ -270,7 +270,7 @@
     "startDate": "2019-11-15T12:15:00.000Z",
     "endDate": "2019-11-15T12:30:00.000Z",
     "category": "Découverte",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Machine learning avec des allumettes et des cotillons",
@@ -285,7 +285,7 @@
     "startDate": "2019-11-15T12:15:00.000Z",
     "endDate": "2019-11-15T12:30:00.000Z",
     "category": "Big Data & IA",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Une fonction Quarkus déployée dans un Kubernetes K3S avec Fission en live-coding !",
@@ -300,7 +300,7 @@
     "startDate": "2019-11-15T12:15:00.000Z",
     "endDate": "2019-11-15T12:30:00.000Z",
     "category": "Cloud & DevOps",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Le futur de la gestion des dépendances Node",
@@ -315,7 +315,7 @@
     "startDate": "2019-11-15T12:15:00.000Z",
     "endDate": "2019-11-15T12:30:00.000Z",
     "category": "Front-end",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Le job de mes rêves",
@@ -330,7 +330,7 @@
     "startDate": "2019-11-15T12:45:00.000Z",
     "endDate": "2019-11-15T13:00:00.000Z",
     "category": "Découverte",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Git ou double ?",
@@ -345,7 +345,7 @@
     "startDate": "2019-11-15T12:45:00.000Z",
     "endDate": "2019-11-15T13:00:00.000Z",
     "category": "Architecture & Sécurité",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Il était une fois Storybook",
@@ -360,7 +360,7 @@
     "startDate": "2019-11-15T12:45:00.000Z",
     "endDate": "2019-11-15T13:00:00.000Z",
     "category": "Front-End",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Comment j'ai fini par déployer à 2h du matin une application sur AWS pour piloter des voitures électriques avec un vélo d'appartement.",
@@ -375,7 +375,7 @@
     "startDate": "2019-11-15T12:45:00.000Z",
     "endDate": "2019-11-15T13:00:00.000Z",
     "category": "Cloud & DevOps",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Cypress, l’outil qui va vous faire aimer les tests End-to-End !",
@@ -394,7 +394,7 @@
     "startDate": "2019-11-15T11:15:00.000Z",
     "endDate": "2019-11-15T13:00:00.000Z",
     "category": "Front-end",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Pause",
@@ -415,7 +415,7 @@
     "startDate": "2019-11-15T13:15:00.000Z",
     "endDate": "2019-11-15T14:00:00.000Z",
     "category": "Back-end",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Lazy Loading : Booster vos applis Angular !",
@@ -434,7 +434,7 @@
     "startDate": "2019-11-15T13:15:00.000Z",
     "endDate": "2019-11-15T14:00:00.000Z",
     "category": "Front-end",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Burger Quiz de la securite du code",
@@ -449,7 +449,7 @@
     "startDate": "2019-11-15T13:15:00.000Z",
     "endDate": "2019-11-15T14:00:00.000Z",
     "category": "Architecture & Sécurité",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "La GameJam : l’hackathon du jeux vidéo",
@@ -464,7 +464,7 @@
     "startDate": "2019-11-15T13:15:00.000Z",
     "endDate": "2019-11-15T14:00:00.000Z",
     "category": "Découverte",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Pause",
@@ -493,7 +493,7 @@
     "startDate": "2019-11-15T14:15:00.000Z",
     "endDate": "2019-11-15T15:00:00.000Z",
     "category": "Découverte",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Du POC à la Prod, un projet de data science mis à nu !",
@@ -512,7 +512,7 @@
     "startDate": "2019-11-15T14:15:00.000Z",
     "endDate": "2019-11-15T15:00:00.000Z",
     "category": "Big Data & IA",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Istio, le meilleur ami de votre cluster K8S ❤️",
@@ -527,7 +527,7 @@
     "startDate": "2019-11-15T14:15:00.000Z",
     "endDate": "2019-11-15T15:00:00.000Z",
     "category": "Cloud & DevOps",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Kafka et KSQL pour aider à la détection d'intrusion",
@@ -545,7 +545,7 @@
     "startDate": "2019-11-15T14:15:00.000Z",
     "endDate": "2019-11-15T15:00:00.000Z",
     "category": "Big Data & IA",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Découvrez Micronaut, le framework qui va faire du bien à la JVM !",
@@ -560,7 +560,7 @@
     "startDate": "2019-11-15T13:15:00.000Z",
     "endDate": "2019-11-15T15:00:00.000Z",
     "category": "Back-end",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Pause",
@@ -581,7 +581,7 @@
     "startDate": "2019-11-15T15:30:00.000Z",
     "endDate": "2019-11-15T16:15:00.000Z",
     "category": "Back-end",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Equiper sa voie",
@@ -596,7 +596,7 @@
     "startDate": "2019-11-15T15:30:00.000Z",
     "endDate": "2019-11-15T16:15:00.000Z",
     "category": "Découverte",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Architecture Hexagonale Level 2: Comment bien écrire ses tests.",
@@ -615,7 +615,7 @@
     "startDate": "2019-11-15T15:30:00.000Z",
     "endDate": "2019-11-15T16:15:00.000Z",
     "category": "Architecture & Sécurité",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Notif qui saoule n'amasse pas foule ...",
@@ -630,7 +630,7 @@
     "startDate": "2019-11-15T15:30:00.000Z",
     "endDate": "2019-11-15T16:15:00.000Z",
     "category": "Design & UX",
-    "lang": "FR"
+    "lang": "fr_fr"
   },
   {
     "name": "Pause",
