@@ -26,21 +26,6 @@
     "endDate": "2019-11-15T09:15:00.000Z"
   },
   {
-    "name": "Using Kubeflow Pipelines for building machine learning pipelines",
-    "description": "Kubeflow is an open-source project dedicated to making deployments of machine learning workflows on Kubernetes simple, portable and scalable. This session will focus on Kubeflow Pipelines, a platform to enable end-to-end orchestration of ML pipelines as well as easy experimentation and re-use. You'll learn how to build and manage machine learning workloads that can scale.",
-    "speakers": [
-      {
-        "company": "Google",
-        "name": "Yufeng G"
-      }
-    ],
-    "location": "Amphi A",
-    "startDate": "2019-11-15T09:15:00.000Z",
-    "endDate": "2019-11-15T10:00:00.000Z",
-    "category": "Cloud & DevOps",
-    "lang": "EN"
-  },
-  {
     "name": "Designers, développeurs, créons la différence !",
     "description": "Tous les sites se ressemblent. On utilise tous une bibliothèque de composants comme Material, Bootstrap & co. C’est très pratique car cela nous fournit un design système clé en main. Seulement, le projet manque de personnalité et ne se différencie pas. Avec notre équipe composée de designers (Cécile) et de développeurs (Florent), comment pouvons-nous donner une Identité à nos projets ? Y a-t-il des méthodes que nous pouvons appliquer pour que la production de l’interface soit différenciante, cohérente et agréable ? Nous vous proposons donc de définir quelles sont les différentes méthodes et techniques pour y arriver. Nous débuterons par explorer et établir notre identité pour ensuite mettre en place nos éléments fonctionnels et arriver rapidement à un Design System adapté en respectant les normes de l’Atomic Design. La présentation sera ponctuée de bonnes pratiques de développement pour la construction d’un design system qui pourra être réutilisé sur d’autres projets de la marque.",
     "speakers": [
@@ -53,10 +38,25 @@
         "name": "Cecile Freyd-Foucault"
       }
     ],
-    "location": "Amphi B",
+    "location": "Amphi A",
     "startDate": "2019-11-15T09:15:00.000Z",
     "endDate": "2019-11-15T10:00:00.000Z",
     "category": "Design & UX",
+    "lang": "FR"
+  },
+  {
+    "name": "Le logiciel libre a-t-il de beaux jours devant lui ?",
+    "description": "De barbus dans un garage jusqu’à l’ère du « tout sur Github », comment sommes-nous passés de « Linux est un cancer » à « Microsoft <3 Linux » ?\nAujourd’hui, peut-on encore maintenir du code individuellement sans « Mettre en danger des millions d’innocents » ?\nFaire de l’open source fait-il de vous un ZADiste ?\nTant de sujets d’actualité (et d’autres) qui seront traités avec un regard, bien entendu, totalement objectif et impartial (ou pas !).",
+    "speakers": [
+      {
+        "company": "Lectra",
+        "name": "Denis Germain"
+      }
+    ],
+    "location": "Amphi B",
+    "startDate": "2019-11-15T09:15:00.000Z",
+    "endDate": "2019-11-15T10:00:00.000Z",
+    "category": "Découverte",
     "lang": "FR"
   },
   {
@@ -111,12 +111,12 @@
     "lang": "FR"
   },
   {
-    "name": "What I wish I knew about Kubernetes before going to Production",
-    "description": "Kubernetes est devenu la plateforme de facto pour deployer des containers. On a l'impression que tout le monde soit l'utilise déjà soit le test pour remplacer la plateforme actuelle. Mais soyons honnêtes : c'est quand même un peu complexe. Il y a tout en tas de concepts qu'il faut comprendre en tant que developpeur (updateStrategy, restartPolicy, configmaps, QoS, ...) et en tant que gestionnaire du cluster ce n'est pas malheureseument plus facile (etcd, CNI, autoscaling, admission policies, ...). Quels sont les \"pièges\" à l'utilisation? Les configs par défaut qu'il faut pas garder? Les comportements \"bizarres\" qui sont certes décrits sur la doc mais sont quand mêmes surprénants? Venez découvrir quelques petites astuces si vous venez de vous lancer sur Kubernetes ou rigoler un peu si vous êtes déjà experts sur le sujet :)",
+    "name": "Istio, le meilleur ami de votre cluster K8S ❤️",
+    "description": "Dans un monde distribué, nous sommes confrontés à de nouveaux problèmes. Les notions de circuit-breaker, de retry, de timeout, de blue-green deployment, A/B testing, pool-ejection… viennent remplacer nos anciens problèmes de monolithe 🙁.\nIstio ⛵ est là pour nous aider sur tous ces points… et même plus ! 🥰\nNous ferons le tour de l'outillage actuel (émanant de la stack Netflix principalement) dans un environnement micro-services et nous le comparerons avec ce que nous met à disposition Istio à T0 👍!\nEnsuite, nous ouvrirons le capot afin de voir comment fonctionne Istio et comment nous pouvons potentiellement étendre son modèle #DoItYourSelf !",
     "speakers": [
       {
-        "company": "AT Internet",
-        "name": "Christian Alonso Chavez Ley"
+        "company": "Stack Labs",
+        "name": "Kevin Davin"
       }
     ],
     "location": "Amphi B",
@@ -204,8 +204,8 @@
     "lang": "FR"
   },
   {
-    "name": "Comment rater son projet DDD",
-    "description": "En 2016-2017, nous démarrons un grand projet de refonte de SI pour un grand compte dans le monde du Retail avec notamment un choix fort de conception : le DDD. Pendant près de 3 ans nous suivons les choix de conception, d’architecture et d’organisation et nous essayons de nous approprier les concepts avec : * le fameux Blue Book d’Eric * le talk de Thomas PIERRAIN : BDX I/O 2017 - Du DDD dans mon Legacy * le talk de Benoît Prioux : BDX I/O 2017 - 10 conseils pour réussir ses premiers pas en DDD Nous pensions être parés contre les dérives possibles d'une approche censée apporter de la simplicité et de la modularité. Et pourtant, nous n’avons pas réussi… Alors pourquoi mettre en place une approche DDD n'est pas si facile ? Qu’est-ce que nous avons raté ? Nous essayerons de vous apporter : * notre retour d’expérience issu de ce projet * les erreurs que nous avons faites * les points clés qui nous semblent indispensable à mettre en oeuvre * et enfin nos conseils pour que vous puissiez faire mieux que nous.",
+    "name": "DDD en vrai, c'est pas magique",
+    "description": "En 2016-2017, nous démarrons un grand projet de refonte de SI pour un grand compte dans le monde du Retail avec notamment un choix fort de conception : le DDD.\n\nPendant près de 3 ans nous suivons les choix de conception, d’architecture et d’organisation et nous essayons de nous approprier les concepts avec :\n- le fameux Blue Book d’Eric\n- le talk de Thomas PIERRAIN : BDX I/O 2017 - Du DDD dans mon Legacy\nle talk de Benoît Prioux : BDX I/O 2017 - 10 conseils pour réussir ses premiers pas en DDD\nNous pensions être parés contre les dérives possibles d’une approche censée apporter de la simplicité et de la modularité. Et pourtant, la magie n’a pas opéré…\n\nAlors pourquoi mettre en place une approche DDD n'est pas si facile ? Qu’est-ce que nous avons appris ?\n\nNous essayerons de vous apporter :\n- notre retour d’expérience issu de ce projet\n- les erreurs que nous avons faites\n- les points clés qui nous semblent indispensable à mettre en oeuvre\n- et enfin nos conseils pour que vous puissiez faire mieux que nous.",
     "speakers": [
       {
         "company": "ManoMano",
@@ -391,7 +391,7 @@
       }
     ],
     "location": "Salle de workshop",
-    "startDate": "2019-11-15T11:15:00.000Z",
+    "startDate": "2019-11-15T11:30:00.000Z",
     "endDate": "2019-11-15T13:00:00.000Z",
     "category": "Front-end",
     "lang": "FR"
@@ -418,22 +418,18 @@
     "lang": "FR"
   },
   {
-    "name": "Lazy Loading : Booster vos applis Angular !",
-    "description": "Plus de 50% de nos utilisateurs quittent une appli web si celle ci prend plus de 3 secondes à charger selon une stat Google Analytics … Alors comment faire pour éviter ça sur nos applis Angular ? Le framework apporte un élément de réponse : Le lazy loading. En partant d’un projet legacy Angular 2+ monolithique, nous vous montrerons pas à pas comment mettre en place du lazy loading pour booster les temps de rendu au service de l’expérience utilisateur. Cette conférence se présentera sous la forme d’un Live Coding itératif et incrémental au cours duquel nous mettrons en évidence les pièges à éviter, ainsi que les avantages et limites du lazy loading.",
+    "name": "Équiper sa voie",
+    "description": "Au-delà de la passion, faire du logiciel pour moi c’est aider les autres à résoudre leurs problèmes. Comment aider les autres si on n’est pas déjà clair soi-même avec sa posture, son métier, ses envies, ses ambitions ou bien ses craintes ?\n\nC’est la question que je me suis posé à plusieurs reprises durant ma carrière. Et c’est de cela - et des quelques aides trouvées en route - dont je voudrais vous parler.",
     "speakers": [
       {
-        "company": "4SH",
-        "name": "Damien Riccio"
-      },
-      {
-        "company": "4SH",
-        "name": "Elian Oriou"
+        "company": "42 skillz",
+        "name": "Thomas Pierrain"
       }
     ],
     "location": "Amphi B",
     "startDate": "2019-11-15T13:15:00.000Z",
     "endDate": "2019-11-15T14:00:00.000Z",
-    "category": "Front-end",
+    "category": "Découverte",
     "lang": "FR"
   },
   {
@@ -452,18 +448,18 @@
     "lang": "FR"
   },
   {
-    "name": "La GameJam : l’hackathon du jeux vidéo",
-    "description": "Le but de cette présentation est simple : expliquer le concept d’une Jam, donner une liste des outils/préparations nécessaires pour passer un bon moment et donner envie à l'audience de venir participer, qu’importe son niveau. Excellent exercice technique et humain beaucoup plus accessible qu’on le croit, les GameJam sont des évènements ou l'objectif est de concevoir un jeu en 48 heures. Avec un délai aussi court, l’expérience est relativement intense mais toujours très enrichissante. Réunissant aussi bien des développeurs que des artistes 2/3D, en passant par les sound designers jusqu’aux game designers, les Jams sont ouvertes à tous et toutes. Pour permettre à ceux qui viendront de vivre la meilleure expérience possible, je vous propose d’aborder plusieurs sujets : - Les différents outils de développement disponible : du Unity 2D/3D à Unreal, jusqu’aux moteurs de jeu plus indépendant, tels que LibGDX et Godo. - Les termes techniques, par exemple asset, sprite, scene, textureAtlas etc... - Les outils de support, de blender jusqu’à texturePacker en passant par les alternative plus légère de Photoshop. - Ou trouver des éléments graphique, des éléments de UI et des sons/musiques, etc gratuitement sur le web. - Comment se déroule normalement les deux jours et les plannings recommandés. - Les bonnes et les mauvaises pratiques, par expérience personnelle. - Quoi apporter au jour J. - Donner quelques exemples de jeux développés en Jam, dont certains conçus par moi-même, le code d'ailleurs disponible sur Github. D’ailleurs, la globale GJ, plus grand événement de son genre à travers le monde, se déroule 2 mois après, à savoir le 31 janvier 2020, donnant largement le temps à l’audience de se préparer. Un site sera hébergé à l’Epitech de Bordeaux par Flat226, une association pour laquelle je suis bénévole depuis 4 ans maintenant.",
+    "name": "Notif qui saoule n'amasse pas foule ...",
+    "description": "Ça sonne dans ta poche !! L’irrésistible notification est présente depuis bien longtemps dans nos vies et les avis sont unanimes : On en a ras-le-bol ! Dans cette présentation, le but est de comprendre comment concevoir des parcours intelligents et leurs impacts sur les interfaces de vos produits. Avec des conseils simples et explicites nous explorerons les bonnes pratiques des parcours de notifications.",
     "speakers": [
       {
-        "company": "Invivoo",
-        "name": "Simon Bédard"
+        "company": "Dernier Cri",
+        "name": "Arthur Retrou"
       }
     ],
     "location": "Salle de commission",
     "startDate": "2019-11-15T13:15:00.000Z",
     "endDate": "2019-11-15T14:00:00.000Z",
-    "category": "Découverte",
+    "category": "Design & UX",
     "lang": "FR"
   },
   {
@@ -496,31 +492,35 @@
     "lang": "FR"
   },
   {
-    "name": "Du POC à la Prod, un projet de data science mis à nu !",
-    "description": "La Data Science et le machine learning sont omniprésents dans notre quotidien. Qui n’a jamais entendu parler d’intelligence artificielle, d’ « IA » ?  Beaucoup de contenus traitent de mise en forme, de manipulation de données et de modèles de machine learning mais très peu détaillent ce qui vient ensuite lorsqu’il s’agit de déployer ces algorithmes dans un environnement de production. C’est pourtant bien là que les choses se corsent !  Nous vous proposons de parcourir l’intégralité des étapes d’un projet de data science en s’attardant tout particulièrement sur les obstacles rencontrés lors de son industrialisation.  Après avoir présenté la problématique de détection d’anomalies et les méthodes de machine learning choisies pour y répondre, il sera question d'architecture micro-services, de Python et R conjointement en Prod (si si c’est possible), de cluster Kubernetes, d’intégration continue et de monitoring.",
+    "name": "Lazy Loading : Booster vos applis Angular !",
+    "description": "Plus de 50% de nos utilisateurs quittent une appli web si celle ci prend plus de 3 secondes à charger selon une stat Google Analytics … Alors comment faire pour éviter ça sur nos applis Angular ? Le framework apporte un élément de réponse : Le lazy loading. En partant d’un projet legacy Angular 2+ monolithique, nous vous montrerons pas à pas comment mettre en place du lazy loading pour booster les temps de rendu au service de l’expérience utilisateur. Cette conférence se présentera sous la forme d’un Live Coding itératif et incrémental au cours duquel nous mettrons en évidence les pièges à éviter, ainsi que les avantages et limites du lazy loading.",
     "speakers": [
       {
-        "company": "AT Internet",
-        "name": "Kévin Barreau"
+        "company": "4SH",
+        "name": "Damien Riccio"
       },
       {
-        "company": "AT Internet",
-        "name": "Jeremie Bureau"
+        "company": "4SH",
+        "name": "Elian Oriou"
       }
     ],
     "location": "Amphi B",
     "startDate": "2019-11-15T14:15:00.000Z",
     "endDate": "2019-11-15T15:00:00.000Z",
-    "category": "Big Data & IA",
+    "category": "Front-end",
     "lang": "FR"
   },
   {
-    "name": "Istio, le meilleur ami de votre cluster K8S ❤️",
-    "description": "Dans un monde distribué, nous sommes confrontés à de nouveaux problèmes. Les notions de **circuit-breaker**, de **retry**, de **timeout**, de **blue-green deployment**, **A/B testing**, **pool-ejection**… viennent remplacer nos anciens problèmes de monolithe 🙁. Istio ⛵ est là pour nous aider sur tous ces points... et même plus ! 🥰 Nous ferons le tour de l'outillage actuel (émanant de la stack Netflix principalement) dans un environnement micro-services et nous le comparerons avec ce que nous met à disposition Istio à T0 👍! Ensuite, nous ouvrirons le capot afin de voir **comment** fonctionne Istio et comment nous pouvons potentiellement étendre son modèle #DoItYourSelf !",
+    "name": "What I wish I knew about Kubernetes before going to Production",
+    "description": "Kubernetes est devenu la plateforme de facto pour deployer des containers. On a l'impression que tout le monde soit l'utilise déjà soit le test pour remplacer la plateforme actuelle.\n\nMais soyons honnêtes : c'est quand même un peu complexe. Il y a tout en tas de concepts qu'il faut comprendre en tant que developpeur (updateStrategy, restartPolicy, configmaps, QoS, …) et en tant que gestionnaire du cluster ce n'est pas malheureseument plus facile (etcd, CNI, autoscaling, admission policies, …).\n\nQuels sont les \"pièges\" à l'utilisation? Les configs par défaut qu'il faut pas garder? Les comportements \"bizarres\" qui sont certes décrits sur la doc mais sont quand mêmes surprénants?\n\nVenez découvrir quelques petites astuces si vous venez de vous lancer sur Kubernetes ou rigoler un peu si vous êtes déjà experts sur le sujet :)",
     "speakers": [
       {
-        "company": "Stack Labs",
-        "name": "Kevin Davin"
+        "company": "AT Internet",
+        "name": "Christian Alonso Chavez Ley"
+      },
+      {
+        "company": "AT Internet",
+        "name": "Mikael Vaz"
       }
     ],
     "location": "Amphi C",
@@ -584,18 +584,22 @@
     "lang": "FR"
   },
   {
-    "name": "Equiper sa voie",
-    "description": "Au-delà de la passion, faire du logiciel pour moi c’est aider les autres à résoudre leurs problèmes. Comment aider les autres si on n’est pas déjà clair soi-même avec sa posture, son métier, ses envies, ses ambitions ou bien ses craintes ? C’est la question que je me suis posé à plusieurs reprises durant ma carrière. Et c’est de cela - et des quelques aides trouvées en route - dont je voudrais vous parler.",
+    "name": "Du POC à la Prod, un projet de data science mis à nu !",
+    "description": "La Data Science et le machine learning sont omniprésents dans notre quotidien. Qui n’a jamais entendu parler d’intelligence artificielle, d’ « IA » ?  Beaucoup de contenus traitent de mise en forme, de manipulation de données et de modèles de machine learning mais très peu détaillent ce qui vient ensuite lorsqu’il s’agit de déployer ces algorithmes dans un environnement de production. C’est pourtant bien là que les choses se corsent !  Nous vous proposons de parcourir l’intégralité des étapes d’un projet de data science en s’attardant tout particulièrement sur les obstacles rencontrés lors de son industrialisation.  Après avoir présenté la problématique de détection d’anomalies et les méthodes de machine learning choisies pour y répondre, il sera question d'architecture micro-services, de Python et R conjointement en Prod (si si c’est possible), de cluster Kubernetes, d’intégration continue et de monitoring.",
     "speakers": [
       {
-        "company": "42 skillz",
-        "name": "Thomas Pierrain"
+        "company": "AT Internet",
+        "name": "Kévin Barreau"
+      },
+      {
+        "company": "AT Internet",
+        "name": "Jeremie Bureau"
       }
     ],
     "location": "Amphi B",
     "startDate": "2019-11-15T15:30:00.000Z",
     "endDate": "2019-11-15T16:15:00.000Z",
-    "category": "Découverte",
+    "category": "Big Data & IA",
     "lang": "FR"
   },
   {
@@ -618,18 +622,18 @@
     "lang": "FR"
   },
   {
-    "name": "Notif qui saoule n'amasse pas foule ...",
-    "description": "Ça sonne dans ta poche !! L’irrésistible notification est présente depuis bien longtemps dans nos vies et les avis sont unanimes : On en a ras-le-bol ! Dans cette présentation, le but est de comprendre comment concevoir des parcours intelligents et leurs impacts sur les interfaces de vos produits. Avec des conseils simples et explicites nous explorerons les bonnes pratiques des parcours de notifications.",
+    "name": "La GameJam : l’hackathon du jeux vidéo",
+    "description": "Le but de cette présentation est simple : expliquer le concept d’une Jam, donner une liste des outils/préparations nécessaires pour passer un bon moment et donner envie à l'audience de venir participer, qu’importe son niveau. Excellent exercice technique et humain beaucoup plus accessible qu’on le croit, les GameJam sont des évènements ou l'objectif est de concevoir un jeu en 48 heures. Avec un délai aussi court, l’expérience est relativement intense mais toujours très enrichissante. Réunissant aussi bien des développeurs que des artistes 2/3D, en passant par les sound designers jusqu’aux game designers, les Jams sont ouvertes à tous et toutes. Pour permettre à ceux qui viendront de vivre la meilleure expérience possible, je vous propose d’aborder plusieurs sujets : - Les différents outils de développement disponible : du Unity 2D/3D à Unreal, jusqu’aux moteurs de jeu plus indépendant, tels que LibGDX et Godo. - Les termes techniques, par exemple asset, sprite, scene, textureAtlas etc... - Les outils de support, de blender jusqu’à texturePacker en passant par les alternative plus légère de Photoshop. - Ou trouver des éléments graphique, des éléments de UI et des sons/musiques, etc gratuitement sur le web. - Comment se déroule normalement les deux jours et les plannings recommandés. - Les bonnes et les mauvaises pratiques, par expérience personnelle. - Quoi apporter au jour J. - Donner quelques exemples de jeux développés en Jam, dont certains conçus par moi-même, le code d'ailleurs disponible sur Github. D’ailleurs, la globale GJ, plus grand événement de son genre à travers le monde, se déroule 2 mois après, à savoir le 31 janvier 2020, donnant largement le temps à l’audience de se préparer. Un site sera hébergé à l’Epitech de Bordeaux par Flat226, une association pour laquelle je suis bénévole depuis 4 ans maintenant.",
     "speakers": [
       {
-        "company": "Dernier Cri",
-        "name": "Arthur Retrou"
+        "company": "Invivoo",
+        "name": "Simon Bédard"
       }
     ],
     "location": "Salle de commission",
     "startDate": "2019-11-15T15:30:00.000Z",
     "endDate": "2019-11-15T16:15:00.000Z",
-    "category": "Design & UX",
+    "category": "Découverte",
     "lang": "FR"
   },
   {
