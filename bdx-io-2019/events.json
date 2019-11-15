@@ -433,18 +433,18 @@
     "lang": "fr_fr"
   },
   {
-    "name": "Burger Quiz de la securite du code",
-    "description": "Qui ne connaît pas le jeu BurgerQuiz présente par Alain Chabat et son équipe de joyeux compagnons. Base sur plusieurs centaines d’audit de code source sur divers langages ce talk propose de revisiter de manière humoristique les codes les plus loufoques, à risques, les erreurs, les bonnes pratiques rencontrées en securite.",
+    "name": "HIGHWAY TO ELM!",
+    "description": "Entre les problèmes de null et d'undefined, les cas d'erreur non traités, les régressions dans les dépendances npm et les refactoring hasardeux, il est compliqué de livrer sereinement du JavaScript en production !\n\nC'est un mal nécessaire, puisqu'il s'agit du seul langage compatible avec tous les navigateurs, non ? Non !\n\nJe vous propose de découvrir une alternative, Elm, dont la première promesse est troublante mais limpide : plus d'erreurs au runtime !\n\nNous verrons comment ce langage spécialement pensé pour créer des applications web garantit des mises en production sereines, loin de tous ces soucis que posent les applications JavaScript.",
     "speakers": [
       {
-        "company": "AppSecFR",
-        "name": "Sebastien Gioria"
+        "company": "Viseo",
+        "name": "Jordan Grenat"
       }
     ],
     "location": "Amphi C",
     "startDate": "2019-11-15T13:15:00.000Z",
     "endDate": "2019-11-15T14:00:00.000Z",
-    "category": "Architecture & Sécurité",
+    "category": "Front-end",
     "lang": "fr_fr"
   },
   {
