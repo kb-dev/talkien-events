@@ -441,5 +441,87 @@
       "Machine Learning"
     ],
     "colors": ["#a3d9e6", "#eb643b"]
+  },
+  {
+    "name": "Devoxx France",
+    "id": "devoxx-2021",
+    "startDate": "2021-09-29T10:30:00+02:00",
+    "endDate": "2021-10-01T18:00:00+02:00",
+    "address": "Palais des Congrès, Paris",
+    "fullAddress": "2 Place de la Porte Maillot, 75017 Paris",
+    "location": {
+      "latitude": 48.878571,
+      "longitude": 2.282534
+    },
+    "logo": "https://www.devoxx.fr/wp-content/uploads/2019/09/logo_devoxx_france_2019_simple-1.png",
+    "description": "Conférence pour les développeurs et développeuses.",
+    "longDescription": "",
+    "url": "https://www.devoxx.fr/",
+    "bookingUrl": "https://www.devoxx.fr/tickets/",
+    "topics": [
+      "Architecture",
+      "Web",
+      "Design",
+      "UI & UX",
+      "Cloud",
+      "BigData",
+      "Tooling",
+      "IoT",
+      "Machine Learning",
+      "Analytics",
+      "DevOps",
+      "Methods & Tools",
+      "Agility & Tests",
+      "Security"
+    ],
+    "colors": ["#d53768", "#daac51"]
+  },
+  {
+    "name": "Paris Web",
+    "id": "paris-web-2021",
+    "startDate": "2021-10-07T09:30:00+02:00",
+    "endDate": "2021-10-08T17:00:00+02:00",
+    "address": null,
+    "fullAddress": null,
+    "location": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Logo_Paris_Web.svg/200px-Logo_Paris_Web.svg.png",
+    "description": "Venez apprendre l’accessibilité, la performance, la qualité web, l’UX, et bien plus que ça !",
+    "longDescription": "Paris Web existe depuis 2006. Toutes les personnes qui ont assisté aux conférences et ateliers ces seize dernières années peuvent témoigner combien ça leur a apporté. Mais si vous n’avez jamais participé à Paris Web, peut-être avez-vous besoin d’être convaincu ou de convaincre vos supérieurs de vous y envoyer.",
+    "url": "https://www.paris-web.fr/",
+    "bookingUrl": "https://inscriptions.paris-web.fr/",
+    "topics": ["Web", "Design", "UI & UX", "Methods & Tools", "Security"],
+    "colors": ["#0071b8", "#f33e90"],
+    "online": true
+  },
+  {
+    "name": "Forum PHP 2021",
+    "id": "forum-php-2021",
+    "startDate": "2021-10-21T09:00:00+02:00",
+    "endDate": "2021-10-22T18:00:00+02:00",
+    "address": "Hôtel Novotel Paris Est",
+    "fullAddress": "1 Av. de la République, 93170 Bagnolet",
+    "location": {
+      "latitude": 48.863810009078996,
+      "longitude": 2.4150998349429567
+    },
+    "logo": "https://event.afup.org/wp-content/uploads/cropped-logo-fondblanctexte.png",
+    "description": "Rejoignez la communauté PHP cet automne, pour deux jours de conférences, d'échanges et de rencontres qui nous ont tellement manqué.",
+    "longDescription": "Que vous souhaitiez faire des pas de géants dans votre maitrîse du langage, profiter de l’expérience acquise lors la réalisation de gros projets, parler management ou impact de nos métiers sur la société, vous devriez trouver votre bonheur dans notre sélection.",
+    "url": "https://event.afup.org/",
+    "bookingUrl": "https://afup.org/event/forumphp2021/tickets",
+    "topics": [
+      "Architecture",
+      "Web",
+      "Cloud",
+      "BigData",
+      "Tooling",
+      "IoT",
+      "Machine Learning",
+      "Analytics",
+      "Methods & Tools",
+      "Agility & Tests",
+      "Security"
+    ],
+    "colors": ["#1d2241", "#37a7df"]
   }
 ]
